@@ -1,0 +1,5628 @@
+[
+  {
+    "note": "A2",
+    "midi": 45,
+    "nominal_f0": 110.0,
+    "analysis_fft_hz_per_bin": 2.691650390625,
+    "partials": [
+      {
+        "harmonic": 1,
+        "frequency_hz_fft_bin": 110.357666015625,
+        "relative_initial_energy": 0.49192279567406183,
+        "decay_tau_seconds_fit": 1.8995448928271028
+      },
+      {
+        "harmonic": 2,
+        "frequency_hz_fft_bin": 220.71533203125,
+        "relative_initial_energy": 1.0,
+        "decay_tau_seconds_fit": 0.9578255330340432
+      },
+      {
+        "harmonic": 3,
+        "frequency_hz_fft_bin": 331.072998046875,
+        "relative_initial_energy": 0.5848007619305937,
+        "decay_tau_seconds_fit": 1.1605110852218317
+      },
+      {
+        "harmonic": 4,
+        "frequency_hz_fft_bin": 438.739013671875,
+        "relative_initial_energy": 0.21507144524295663,
+        "decay_tau_seconds_fit": 1.6529349501044017
+      },
+      {
+        "harmonic": 5,
+        "frequency_hz_fft_bin": 549.0966796875,
+        "relative_initial_energy": 0.5570019893444355,
+        "decay_tau_seconds_fit": 0.9120434245008706
+      },
+      {
+        "harmonic": 6,
+        "frequency_hz_fft_bin": 659.454345703125,
+        "relative_initial_energy": 0.6413286766039544,
+        "decay_tau_seconds_fit": 0.4833244962428994
+      },
+      {
+        "harmonic": 7,
+        "frequency_hz_fft_bin": 769.81201171875,
+        "relative_initial_energy": 0.17464261146849774,
+        "decay_tau_seconds_fit": 0.5211745826361047
+      },
+      {
+        "harmonic": 8,
+        "frequency_hz_fft_bin": 880.169677734375,
+        "relative_initial_energy": 0.06377910614256202,
+        "decay_tau_seconds_fit": 0.6547096877147774
+      },
+      {
+        "harmonic": 9,
+        "frequency_hz_fft_bin": 990.52734375,
+        "relative_initial_energy": 0.026605200043458222,
+        "decay_tau_seconds_fit": 0.5577647750616139
+      },
+      {
+        "harmonic": 10,
+        "frequency_hz_fft_bin": 1100.885009765625,
+        "relative_initial_energy": 0.04278630778000238,
+        "decay_tau_seconds_fit": 0.6143243196917825
+      },
+      {
+        "harmonic": 11,
+        "frequency_hz_fft_bin": 1211.24267578125,
+        "relative_initial_energy": 0.009754258684097525,
+        "decay_tau_seconds_fit": 1.0817177379828875
+      },
+      {
+        "harmonic": 12,
+        "frequency_hz_fft_bin": 1321.600341796875,
+        "relative_initial_energy": 0.03185875441568682,
+        "decay_tau_seconds_fit": 0.5028741445735757
+      },
+      {
+        "harmonic": 13,
+        "frequency_hz_fft_bin": 1431.9580078125,
+        "relative_initial_energy": 0.09763837160167406,
+        "decay_tau_seconds_fit": 0.553078405434908
+      },
+      {
+        "harmonic": 14,
+        "frequency_hz_fft_bin": 1542.315673828125,
+        "relative_initial_energy": 0.07865737996751623,
+        "decay_tau_seconds_fit": 0.40083931395097183
+      },
+      {
+        "harmonic": 15,
+        "frequency_hz_fft_bin": 1652.67333984375,
+        "relative_initial_energy": 0.04072014569974733,
+        "decay_tau_seconds_fit": 0.3596537973179397
+      },
+      {
+        "harmonic": 16,
+        "frequency_hz_fft_bin": 1763.031005859375,
+        "relative_initial_energy": 0.0038459219891891962,
+        "decay_tau_seconds_fit": 0.7360972726835157
+      },
+      {
+        "harmonic": 17,
+        "frequency_hz_fft_bin": 1873.388671875,
+        "relative_initial_energy": 0.008780469123429033,
+        "decay_tau_seconds_fit": 0.2331883981571861
+      },
+      {
+        "harmonic": 18,
+        "frequency_hz_fft_bin": 1983.746337890625,
+        "relative_initial_energy": 0.0022171481178360304,
+        "decay_tau_seconds_fit": 0.1407982123008374
+      },
+      {
+        "harmonic": 19,
+        "frequency_hz_fft_bin": 2094.10400390625,
+        "relative_initial_energy": 0.007432856888739143,
+        "decay_tau_seconds_fit": 0.22829965229426052
+      },
+      {
+        "harmonic": 20,
+        "frequency_hz_fft_bin": 2204.461669921875,
+        "relative_initial_energy": 0.005832435164933068,
+        "decay_tau_seconds_fit": 0.24667046125037845
+      },
+      {
+        "harmonic": 21,
+        "frequency_hz_fft_bin": 2314.8193359375,
+        "relative_initial_energy": 0.0045681108489135334,
+        "decay_tau_seconds_fit": 0.10090158732124256
+      },
+      {
+        "harmonic": 22,
+        "frequency_hz_fft_bin": 2425.177001953125,
+        "relative_initial_energy": 0.009367641206347635,
+        "decay_tau_seconds_fit": 0.1797342467101997
+      },
+      {
+        "harmonic": 23,
+        "frequency_hz_fft_bin": 2532.843017578125,
+        "relative_initial_energy": 0.0016187476040874088,
+        "decay_tau_seconds_fit": 0.18612161014012363
+      },
+      {
+        "harmonic": 24,
+        "frequency_hz_fft_bin": 2645.892333984375,
+        "relative_initial_energy": 0.001996951335133914,
+        "decay_tau_seconds_fit": 0.11347191748949954
+      },
+      {
+        "harmonic": 25,
+        "frequency_hz_fft_bin": 2745.4833984375,
+        "relative_initial_energy": 3.140995465741437e-05,
+        "decay_tau_seconds_fit": 0.30944802272157906
+      },
+      {
+        "harmonic": 26,
+        "frequency_hz_fft_bin": 2858.53271484375,
+        "relative_initial_energy": 4.1642275053363615e-05,
+        "decay_tau_seconds_fit": 0.18242851987491016
+      },
+      {
+        "harmonic": 27,
+        "frequency_hz_fft_bin": 2968.890380859375,
+        "relative_initial_energy": 9.60480367346273e-06,
+        "decay_tau_seconds_fit": 0.5110960037188491
+      },
+      {
+        "harmonic": 28,
+        "frequency_hz_fft_bin": 3081.939697265625,
+        "relative_initial_energy": 3.586501686045017e-05,
+        "decay_tau_seconds_fit": 0.4656767031225105
+      },
+      {
+        "harmonic": 29,
+        "frequency_hz_fft_bin": 3184.222412109375,
+        "relative_initial_energy": 8.192503315861877e-06,
+        "decay_tau_seconds_fit": 1.248452087057307
+      },
+      {
+        "harmonic": 30,
+        "frequency_hz_fft_bin": 3305.3466796875,
+        "relative_initial_energy": 5.702544371879652e-05,
+        "decay_tau_seconds_fit": 0.11324228503230527
+      },
+      {
+        "harmonic": 31,
+        "frequency_hz_fft_bin": 3415.704345703125,
+        "relative_initial_energy": 2.8116010000252542e-05,
+        "decay_tau_seconds_fit": 0.746111437729494
+      },
+      {
+        "harmonic": 32,
+        "frequency_hz_fft_bin": 3517.987060546875,
+        "relative_initial_energy": 1.356574864651992e-05,
+        "decay_tau_seconds_fit": 0.6513791162720917
+      }
+    ]
+  },
+  {
+    "note": "A3",
+    "midi": 57,
+    "nominal_f0": 220.0,
+    "analysis_fft_hz_per_bin": 2.691650390625,
+    "partials": [
+      {
+        "harmonic": 1,
+        "frequency_hz_fft_bin": 218.023681640625,
+        "relative_initial_energy": 1.0,
+        "decay_tau_seconds_fit": 0.3024672113838495
+      },
+      {
+        "harmonic": 2,
+        "frequency_hz_fft_bin": 436.04736328125,
+        "relative_initial_energy": 0.26912917887079396,
+        "decay_tau_seconds_fit": 0.7558140236600764
+      },
+      {
+        "harmonic": 3,
+        "frequency_hz_fft_bin": 656.7626953125,
+        "relative_initial_energy": 0.890145125450038,
+        "decay_tau_seconds_fit": 0.35794269581854626
+      },
+      {
+        "harmonic": 4,
+        "frequency_hz_fft_bin": 877.47802734375,
+        "relative_initial_energy": 0.29353185179992825,
+        "decay_tau_seconds_fit": 0.4229194099339531
+      },
+      {
+        "harmonic": 5,
+        "frequency_hz_fft_bin": 1098.193359375,
+        "relative_initial_energy": 0.23684362061073566,
+        "decay_tau_seconds_fit": 0.4381299772383499
+      },
+      {
+        "harmonic": 6,
+        "frequency_hz_fft_bin": 1318.90869140625,
+        "relative_initial_energy": 0.25967499755999274,
+        "decay_tau_seconds_fit": 0.3383807958338236
+      },
+      {
+        "harmonic": 7,
+        "frequency_hz_fft_bin": 1539.6240234375,
+        "relative_initial_energy": 0.6031339399319331,
+        "decay_tau_seconds_fit": 0.24926062482912373
+      },
+      {
+        "harmonic": 8,
+        "frequency_hz_fft_bin": 1763.031005859375,
+        "relative_initial_energy": 0.30469191683330893,
+        "decay_tau_seconds_fit": 0.18455457401323608
+      },
+      {
+        "harmonic": 9,
+        "frequency_hz_fft_bin": 1986.43798828125,
+        "relative_initial_energy": 0.15003967387782138,
+        "decay_tau_seconds_fit": 0.19706233894854286
+      },
+      {
+        "harmonic": 10,
+        "frequency_hz_fft_bin": 2204.461669921875,
+        "relative_initial_energy": 0.05398270672931721,
+        "decay_tau_seconds_fit": 0.1338583853470865
+      },
+      {
+        "harmonic": 11,
+        "frequency_hz_fft_bin": 2417.10205078125,
+        "relative_initial_energy": 0.09872766738617389,
+        "decay_tau_seconds_fit": 0.17713683094820537
+      },
+      {
+        "harmonic": 12,
+        "frequency_hz_fft_bin": 2637.8173828125,
+        "relative_initial_energy": 0.006525006203409943,
+        "decay_tau_seconds_fit": 0.14999338110639604
+      },
+      {
+        "harmonic": 13,
+        "frequency_hz_fft_bin": 2858.53271484375,
+        "relative_initial_energy": 0.012573243262028586,
+        "decay_tau_seconds_fit": 0.12589824961876894
+      },
+      {
+        "harmonic": 14,
+        "frequency_hz_fft_bin": 3081.939697265625,
+        "relative_initial_energy": 0.0028666425507781366,
+        "decay_tau_seconds_fit": 0.05808590766124292
+      },
+      {
+        "harmonic": 15,
+        "frequency_hz_fft_bin": 3302.655029296875,
+        "relative_initial_energy": 0.0036339758904231985,
+        "decay_tau_seconds_fit": 0.07602468805900946
+      },
+      {
+        "harmonic": 16,
+        "frequency_hz_fft_bin": 3526.06201171875,
+        "relative_initial_energy": 0.0005855825156999517,
+        "decay_tau_seconds_fit": 0.057709269199293416
+      },
+      {
+        "harmonic": 17,
+        "frequency_hz_fft_bin": 3744.085693359375,
+        "relative_initial_energy": 0.0022504386585002053,
+        "decay_tau_seconds_fit": 0.06751251907106381
+      },
+      {
+        "harmonic": 18,
+        "frequency_hz_fft_bin": 3962.109375,
+        "relative_initial_energy": 0.001209083578536639,
+        "decay_tau_seconds_fit": 0.09759870342658523
+      },
+      {
+        "harmonic": 19,
+        "frequency_hz_fft_bin": 4185.516357421875,
+        "relative_initial_energy": 0.00017506662781281295,
+        "decay_tau_seconds_fit": 0.0791284159138462
+      },
+      {
+        "harmonic": 20,
+        "frequency_hz_fft_bin": 4406.231689453125,
+        "relative_initial_energy": 0.00013709957331568782,
+        "decay_tau_seconds_fit": 0.07371327443190538
+      },
+      {
+        "harmonic": 21,
+        "frequency_hz_fft_bin": 4624.25537109375,
+        "relative_initial_energy": 4.870349764970002e-05,
+        "decay_tau_seconds_fit": 0.6472738829058649
+      },
+      {
+        "harmonic": 22,
+        "frequency_hz_fft_bin": 4834.2041015625,
+        "relative_initial_energy": 6.826906467253235e-05,
+        "decay_tau_seconds_fit": 0.3
+      },
+      {
+        "harmonic": 23,
+        "frequency_hz_fft_bin": 5054.91943359375,
+        "relative_initial_energy": 0.000146199920169469,
+        "decay_tau_seconds_fit": 0.3
+      },
+      {
+        "harmonic": 24,
+        "frequency_hz_fft_bin": 5275.634765625,
+        "relative_initial_energy": 0.0006008932372221079,
+        "decay_tau_seconds_fit": 0.3
+      },
+      {
+        "harmonic": 25,
+        "frequency_hz_fft_bin": 5504.425048828125,
+        "relative_initial_energy": 0.0008853285845198058,
+        "decay_tau_seconds_fit": 0.3
+      },
+      {
+        "harmonic": 26,
+        "frequency_hz_fft_bin": 5725.140380859375,
+        "relative_initial_energy": 3.3883734184045686e-05,
+        "decay_tau_seconds_fit": 0.416497056836893
+      },
+      {
+        "harmonic": 27,
+        "frequency_hz_fft_bin": 5945.855712890625,
+        "relative_initial_energy": 0.00011992011076713112,
+        "decay_tau_seconds_fit": 0.3
+      },
+      {
+        "harmonic": 28,
+        "frequency_hz_fft_bin": 6163.87939453125,
+        "relative_initial_energy": 3.0001571867771304e-05,
+        "decay_tau_seconds_fit": 1.0196937446485668
+      },
+      {
+        "harmonic": 29,
+        "frequency_hz_fft_bin": 6384.5947265625,
+        "relative_initial_energy": 1.1697657500235645e-05,
+        "decay_tau_seconds_fit": 3.7856534938592104
+      },
+      {
+        "harmonic": 30,
+        "frequency_hz_fft_bin": 6602.618408203125,
+        "relative_initial_energy": 3.3728273979929774e-05,
+        "decay_tau_seconds_fit": 0.40077661907915835
+      },
+      {
+        "harmonic": 31,
+        "frequency_hz_fft_bin": 6815.2587890625,
+        "relative_initial_energy": 0.00014643598688141303,
+        "decay_tau_seconds_fit": 0.3
+      },
+      {
+        "harmonic": 32,
+        "frequency_hz_fft_bin": 7044.049072265625,
+        "relative_initial_energy": 8.158243935092088e-05,
+        "decay_tau_seconds_fit": 0.3
+      }
+    ]
+  },
+  {
+    "note": "A4",
+    "midi": 69,
+    "nominal_f0": 440.0,
+    "analysis_fft_hz_per_bin": 2.691650390625,
+    "partials": [
+      {
+        "harmonic": 1,
+        "frequency_hz_fft_bin": 441.4306640625,
+        "relative_initial_energy": 1.0,
+        "decay_tau_seconds_fit": 0.670696008366182
+      },
+      {
+        "harmonic": 2,
+        "frequency_hz_fft_bin": 882.861328125,
+        "relative_initial_energy": 0.6627698959940582,
+        "decay_tau_seconds_fit": 0.268978657299255
+      },
+      {
+        "harmonic": 3,
+        "frequency_hz_fft_bin": 1321.600341796875,
+        "relative_initial_energy": 0.0581067358872981,
+        "decay_tau_seconds_fit": 0.18923157591056997
+      },
+      {
+        "harmonic": 4,
+        "frequency_hz_fft_bin": 1760.33935546875,
+        "relative_initial_energy": 0.1505090497224069,
+        "decay_tau_seconds_fit": 0.17094565170734066
+      },
+      {
+        "harmonic": 5,
+        "frequency_hz_fft_bin": 2204.461669921875,
+        "relative_initial_energy": 0.18951090170164567,
+        "decay_tau_seconds_fit": 0.1261868433194992
+      },
+      {
+        "harmonic": 6,
+        "frequency_hz_fft_bin": 2645.892333984375,
+        "relative_initial_energy": 0.07609425266426645,
+        "decay_tau_seconds_fit": 0.09291568974158382
+      },
+      {
+        "harmonic": 7,
+        "frequency_hz_fft_bin": 3084.63134765625,
+        "relative_initial_energy": 0.013705411542040222,
+        "decay_tau_seconds_fit": 0.1500513092354904
+      },
+      {
+        "harmonic": 8,
+        "frequency_hz_fft_bin": 3526.06201171875,
+        "relative_initial_energy": 0.007037848470595102,
+        "decay_tau_seconds_fit": 0.1546174782363548
+      },
+      {
+        "harmonic": 9,
+        "frequency_hz_fft_bin": 3964.801025390625,
+        "relative_initial_energy": 0.0016163876581744513,
+        "decay_tau_seconds_fit": 0.36595121742764897
+      },
+      {
+        "harmonic": 10,
+        "frequency_hz_fft_bin": 4406.231689453125,
+        "relative_initial_energy": 0.0003603413956065462,
+        "decay_tau_seconds_fit": 0.10102073402394868
+      },
+      {
+        "harmonic": 11,
+        "frequency_hz_fft_bin": 4844.970703125,
+        "relative_initial_energy": 0.0001668148744045938,
+        "decay_tau_seconds_fit": 0.3
+      },
+      {
+        "harmonic": 12,
+        "frequency_hz_fft_bin": 5286.4013671875,
+        "relative_initial_energy": 0.00019199176767801553,
+        "decay_tau_seconds_fit": 0.05195480177618414
+      },
+      {
+        "harmonic": 13,
+        "frequency_hz_fft_bin": 5725.140380859375,
+        "relative_initial_energy": 5.337695032669974e-05,
+        "decay_tau_seconds_fit": 0.06433453636055637
+      },
+      {
+        "harmonic": 14,
+        "frequency_hz_fft_bin": 6166.571044921875,
+        "relative_initial_energy": 0.00013968316099424553,
+        "decay_tau_seconds_fit": 0.04683353796207892
+      },
+      {
+        "harmonic": 15,
+        "frequency_hz_fft_bin": 6605.31005859375,
+        "relative_initial_energy": 3.455635462873081e-05,
+        "decay_tau_seconds_fit": 0.7164963088750902
+      },
+      {
+        "harmonic": 16,
+        "frequency_hz_fft_bin": 7038.665771484375,
+        "relative_initial_energy": 2.0894110339584383e-05,
+        "decay_tau_seconds_fit": 0.10555724123205389
+      },
+      {
+        "harmonic": 17,
+        "frequency_hz_fft_bin": 7477.40478515625,
+        "relative_initial_energy": 1.0681860234429008e-05,
+        "decay_tau_seconds_fit": 4.767631446387409
+      },
+      {
+        "harmonic": 18,
+        "frequency_hz_fft_bin": 7916.143798828125,
+        "relative_initial_energy": 3.142590945692678e-06,
+        "decay_tau_seconds_fit": 0.2437871798831694
+      },
+      {
+        "harmonic": 19,
+        "frequency_hz_fft_bin": 8354.8828125,
+        "relative_initial_energy": 1.2404601571020642e-05,
+        "decay_tau_seconds_fit": 0.924831613311693
+      },
+      {
+        "harmonic": 20,
+        "frequency_hz_fft_bin": 8804.388427734375,
+        "relative_initial_energy": 5.671798202222304e-06,
+        "decay_tau_seconds_fit": 0.07186289673629476
+      },
+      {
+        "harmonic": 21,
+        "frequency_hz_fft_bin": 9240.435791015625,
+        "relative_initial_energy": 9.26361814574683e-06,
+        "decay_tau_seconds_fit": 1.2978056796524675
+      },
+      {
+        "harmonic": 22,
+        "frequency_hz_fft_bin": 9676.483154296875,
+        "relative_initial_energy": 5.865589523506078e-06,
+        "decay_tau_seconds_fit": 0.3
+      },
+      {
+        "harmonic": 23,
+        "frequency_hz_fft_bin": 10115.22216796875,
+        "relative_initial_energy": 5.134224480418309e-06,
+        "decay_tau_seconds_fit": 0.05896167098904918
+      },
+      {
+        "harmonic": 24,
+        "frequency_hz_fft_bin": 10556.65283203125,
+        "relative_initial_energy": 5.9145512419544585e-06,
+        "decay_tau_seconds_fit": 5.0
+      },
+      {
+        "harmonic": 25,
+        "frequency_hz_fft_bin": 10995.391845703125,
+        "relative_initial_energy": 7.4285537398247716e-06,
+        "decay_tau_seconds_fit": 0.44358830782010905
+      },
+      {
+        "harmonic": 26,
+        "frequency_hz_fft_bin": 11439.51416015625,
+        "relative_initial_energy": 1.4128824503585223e-06,
+        "decay_tau_seconds_fit": 5.0
+      },
+      {
+        "harmonic": 27,
+        "frequency_hz_fft_bin": 11875.5615234375,
+        "relative_initial_energy": 3.1472972824564826e-06,
+        "decay_tau_seconds_fit": 0.3055150992814948
+      },
+      {
+        "harmonic": 28,
+        "frequency_hz_fft_bin": 12325.067138671875,
+        "relative_initial_energy": 7.00050372444387e-07,
+        "decay_tau_seconds_fit": 0.3
+      },
+      {
+        "harmonic": 29,
+        "frequency_hz_fft_bin": 12766.497802734375,
+        "relative_initial_energy": 2.073685334272506e-06,
+        "decay_tau_seconds_fit": 0.9675182725900239
+      },
+      {
+        "harmonic": 30,
+        "frequency_hz_fft_bin": 13205.23681640625,
+        "relative_initial_energy": 3.435872277863476e-06,
+        "decay_tau_seconds_fit": 0.3
+      },
+      {
+        "harmonic": 31,
+        "frequency_hz_fft_bin": 13635.90087890625,
+        "relative_initial_energy": 9.257041971680507e-06,
+        "decay_tau_seconds_fit": 0.3
+      },
+      {
+        "harmonic": 32,
+        "frequency_hz_fft_bin": 14085.406494140625,
+        "relative_initial_energy": 7.951770663922935e-07,
+        "decay_tau_seconds_fit": 0.3
+      }
+    ]
+  },
+  {
+    "note": "A5",
+    "midi": 81,
+    "nominal_f0": 880.0,
+    "analysis_fft_hz_per_bin": 2.691650390625,
+    "partials": [
+      {
+        "harmonic": 1,
+        "frequency_hz_fft_bin": 874.786376953125,
+        "relative_initial_energy": 1.0,
+        "decay_tau_seconds_fit": 0.2476139786166927
+      },
+      {
+        "harmonic": 2,
+        "frequency_hz_fft_bin": 1754.9560546875,
+        "relative_initial_energy": 0.3053794635959956,
+        "decay_tau_seconds_fit": 0.16878198030185257
+      },
+      {
+        "harmonic": 3,
+        "frequency_hz_fft_bin": 2635.125732421875,
+        "relative_initial_energy": 0.008919791294629829,
+        "decay_tau_seconds_fit": 0.07196879239578818
+      },
+      {
+        "harmonic": 4,
+        "frequency_hz_fft_bin": 3515.29541015625,
+        "relative_initial_energy": 0.027473647070347315,
+        "decay_tau_seconds_fit": 0.0618300958561378
+      },
+      {
+        "harmonic": 5,
+        "frequency_hz_fft_bin": 4395.465087890625,
+        "relative_initial_energy": 0.04284509545941855,
+        "decay_tau_seconds_fit": 0.054444845634059866
+      },
+      {
+        "harmonic": 6,
+        "frequency_hz_fft_bin": 5281.01806640625,
+        "relative_initial_energy": 0.0006643677912720733,
+        "decay_tau_seconds_fit": 0.0367359363034851
+      },
+      {
+        "harmonic": 7,
+        "frequency_hz_fft_bin": 6166.571044921875,
+        "relative_initial_energy": 0.010407486260673103,
+        "decay_tau_seconds_fit": 0.047851106961212315
+      },
+      {
+        "harmonic": 8,
+        "frequency_hz_fft_bin": 7033.282470703125,
+        "relative_initial_energy": 0.0002446004112175392,
+        "decay_tau_seconds_fit": 0.3
+      },
+      {
+        "harmonic": 9,
+        "frequency_hz_fft_bin": 7913.4521484375,
+        "relative_initial_energy": 0.0003637703062441635,
+        "decay_tau_seconds_fit": 0.3
+      },
+      {
+        "harmonic": 10,
+        "frequency_hz_fft_bin": 8796.3134765625,
+        "relative_initial_energy": 5.4864592684343534e-05,
+        "decay_tau_seconds_fit": 0.3
+      },
+      {
+        "harmonic": 11,
+        "frequency_hz_fft_bin": 9684.55810546875,
+        "relative_initial_energy": 3.531384390154256e-05,
+        "decay_tau_seconds_fit": 1.0030675859754448
+      },
+      {
+        "harmonic": 12,
+        "frequency_hz_fft_bin": 10564.727783203125,
+        "relative_initial_energy": 1.4475856122278057e-05,
+        "decay_tau_seconds_fit": 0.3
+      },
+      {
+        "harmonic": 13,
+        "frequency_hz_fft_bin": 11444.8974609375,
+        "relative_initial_energy": 3.527931434347737e-06,
+        "decay_tau_seconds_fit": 0.3
+      },
+      {
+        "harmonic": 14,
+        "frequency_hz_fft_bin": 12325.067138671875,
+        "relative_initial_energy": 3.289789579787991e-05,
+        "decay_tau_seconds_fit": 0.3
+      },
+      {
+        "harmonic": 15,
+        "frequency_hz_fft_bin": 13194.47021484375,
+        "relative_initial_energy": 6.881380023266075e-06,
+        "decay_tau_seconds_fit": 1.2409909010489129
+      },
+      {
+        "harmonic": 16,
+        "frequency_hz_fft_bin": 14082.71484375,
+        "relative_initial_energy": 3.2565861863703795e-06,
+        "decay_tau_seconds_fit": 0.3
+      },
+      {
+        "harmonic": 17,
+        "frequency_hz_fft_bin": 14962.884521484375,
+        "relative_initial_energy": 1.8352851832609374e-06,
+        "decay_tau_seconds_fit": 0.48751539675002314
+      },
+      {
+        "harmonic": 18,
+        "frequency_hz_fft_bin": 15834.979248046875,
+        "relative_initial_energy": 1.938222962819358e-06,
+        "decay_tau_seconds_fit": 0.3
+      },
+      {
+        "harmonic": 19,
+        "frequency_hz_fft_bin": 16715.14892578125,
+        "relative_initial_energy": 4.016828269078676e-08,
+        "decay_tau_seconds_fit": 0.3
+      },
+      {
+        "harmonic": 20,
+        "frequency_hz_fft_bin": 17603.3935546875,
+        "relative_initial_energy": 9.252361151424624e-09,
+        "decay_tau_seconds_fit": 0.15095022125429944
+      },
+      {
+        "harmonic": 21,
+        "frequency_hz_fft_bin": 18478.179931640625,
+        "relative_initial_energy": 4.021391699951295e-09,
+        "decay_tau_seconds_fit": 0.2207632947752564
+      },
+      {
+        "harmonic": 22,
+        "frequency_hz_fft_bin": 19361.041259765625,
+        "relative_initial_energy": 2.2627458503219285e-09,
+        "decay_tau_seconds_fit": 0.25308505210289955
+      },
+      {
+        "harmonic": 23,
+        "frequency_hz_fft_bin": 20235.82763671875,
+        "relative_initial_energy": 6.1050471375385076e-09,
+        "decay_tau_seconds_fit": 0.21595010712899035
+      },
+      {
+        "harmonic": 24,
+        "frequency_hz_fft_bin": 21124.072265625,
+        "relative_initial_energy": 1.1032029433450537e-08,
+        "decay_tau_seconds_fit": 0.17115153868641314
+      },
+      {
+        "harmonic": 25,
+        "frequency_hz_fft_bin": 21993.475341796875,
+        "relative_initial_energy": 1.6895459508934417e-09,
+        "decay_tau_seconds_fit": 0.38922391534768447
+      }
+    ]
+  },
+  {
+    "note": "A#5",
+    "midi": 82,
+    "nominal_f0": 932.3275230361799,
+    "analysis_fft_hz_per_bin": 2.691650390625,
+    "partials": [
+      {
+        "harmonic": 1,
+        "frequency_hz_fft_bin": 925.927734375,
+        "relative_initial_energy": 1.0,
+        "decay_tau_seconds_fit": 0.17259925063378573
+      },
+      {
+        "harmonic": 2,
+        "frequency_hz_fft_bin": 1859.930419921875,
+        "relative_initial_energy": 0.4020128238005889,
+        "decay_tau_seconds_fit": 0.24562469777176404
+      },
+      {
+        "harmonic": 3,
+        "frequency_hz_fft_bin": 2791.241455078125,
+        "relative_initial_energy": 0.02427118548877999,
+        "decay_tau_seconds_fit": 0.040684252376283904
+      },
+      {
+        "harmonic": 4,
+        "frequency_hz_fft_bin": 3725.244140625,
+        "relative_initial_energy": 0.004759324279390064,
+        "decay_tau_seconds_fit": 0.032666937103153895
+      },
+      {
+        "harmonic": 5,
+        "frequency_hz_fft_bin": 4656.55517578125,
+        "relative_initial_energy": 0.03482551389362567,
+        "decay_tau_seconds_fit": 0.04900313069296809
+      },
+      {
+        "harmonic": 6,
+        "frequency_hz_fft_bin": 5593.24951171875,
+        "relative_initial_energy": 0.0035544959308039105,
+        "decay_tau_seconds_fit": 0.04733292187317278
+      },
+      {
+        "harmonic": 7,
+        "frequency_hz_fft_bin": 6521.868896484375,
+        "relative_initial_energy": 0.0073570796878180715,
+        "decay_tau_seconds_fit": 0.3
+      },
+      {
+        "harmonic": 8,
+        "frequency_hz_fft_bin": 7453.179931640625,
+        "relative_initial_energy": 0.00022965505407006017,
+        "decay_tau_seconds_fit": 0.3
+      },
+      {
+        "harmonic": 9,
+        "frequency_hz_fft_bin": 8384.490966796875,
+        "relative_initial_energy": 0.00015329663985905282,
+        "decay_tau_seconds_fit": 0.3
+      },
+      {
+        "harmonic": 10,
+        "frequency_hz_fft_bin": 9326.568603515625,
+        "relative_initial_energy": 4.7321318339355944e-05,
+        "decay_tau_seconds_fit": 0.9150488409616531
+      },
+      {
+        "harmonic": 11,
+        "frequency_hz_fft_bin": 10260.5712890625,
+        "relative_initial_energy": 1.4717605963697409e-05,
+        "decay_tau_seconds_fit": 0.3
+      },
+      {
+        "harmonic": 12,
+        "frequency_hz_fft_bin": 11194.573974609375,
+        "relative_initial_energy": 5.34697090470995e-06,
+        "decay_tau_seconds_fit": 0.3
+      },
+      {
+        "harmonic": 13,
+        "frequency_hz_fft_bin": 12117.81005859375,
+        "relative_initial_energy": 7.199260128228336e-06,
+        "decay_tau_seconds_fit": 0.3
+      },
+      {
+        "harmonic": 14,
+        "frequency_hz_fft_bin": 13046.429443359375,
+        "relative_initial_energy": 8.008380979859902e-06,
+        "decay_tau_seconds_fit": 0.3
+      },
+      {
+        "harmonic": 15,
+        "frequency_hz_fft_bin": 13991.19873046875,
+        "relative_initial_energy": 1.0374124647344272e-06,
+        "decay_tau_seconds_fit": 0.3
+      },
+      {
+        "harmonic": 16,
+        "frequency_hz_fft_bin": 14922.509765625,
+        "relative_initial_energy": 2.1034114439845803e-06,
+        "decay_tau_seconds_fit": 0.3
+      },
+      {
+        "harmonic": 17,
+        "frequency_hz_fft_bin": 15848.4375,
+        "relative_initial_energy": 1.7811125328051314e-06,
+        "decay_tau_seconds_fit": 0.3
+      },
+      {
+        "harmonic": 18,
+        "frequency_hz_fft_bin": 16785.1318359375,
+        "relative_initial_energy": 3.3359975603681617e-08,
+        "decay_tau_seconds_fit": 0.06585161565723706
+      },
+      {
+        "harmonic": 19,
+        "frequency_hz_fft_bin": 17716.44287109375,
+        "relative_initial_energy": 9.716485563407518e-09,
+        "decay_tau_seconds_fit": 0.08769710617449354
+      },
+      {
+        "harmonic": 20,
+        "frequency_hz_fft_bin": 18642.37060546875,
+        "relative_initial_energy": 3.0009149489610525e-09,
+        "decay_tau_seconds_fit": 0.16808063097562237
+      },
+      {
+        "harmonic": 21,
+        "frequency_hz_fft_bin": 19581.756591796875,
+        "relative_initial_energy": 3.099055693895017e-09,
+        "decay_tau_seconds_fit": 0.2812983061161442
+      },
+      {
+        "harmonic": 22,
+        "frequency_hz_fft_bin": 20504.99267578125,
+        "relative_initial_energy": 3.5957710265666782e-09,
+        "decay_tau_seconds_fit": 0.14522207713277335
+      },
+      {
+        "harmonic": 23,
+        "frequency_hz_fft_bin": 21447.0703125,
+        "relative_initial_energy": 7.306311919951916e-09,
+        "decay_tau_seconds_fit": 0.17994047398026006
+      }
+    ]
+  },
+  {
+    "note": "B1",
+    "midi": 35,
+    "nominal_f0": 61.7354126570155,
+    "analysis_fft_hz_per_bin": 2.691650390625,
+    "partials": [
+      {
+        "harmonic": 1,
+        "frequency_hz_fft_bin": 61.907958984375,
+        "relative_initial_energy": 0.018677942316766283,
+        "decay_tau_seconds_fit": 5.0
+      },
+      {
+        "harmonic": 2,
+        "frequency_hz_fft_bin": 123.81591796875,
+        "relative_initial_energy": 0.28429887486644817,
+        "decay_tau_seconds_fit": 2.0132873610903035
+      },
+      {
+        "harmonic": 3,
+        "frequency_hz_fft_bin": 185.723876953125,
+        "relative_initial_energy": 1.0,
+        "decay_tau_seconds_fit": 0.6452836768680276
+      },
+      {
+        "harmonic": 4,
+        "frequency_hz_fft_bin": 247.6318359375,
+        "relative_initial_energy": 0.9346071239583803,
+        "decay_tau_seconds_fit": 2.9572241409029707
+      },
+      {
+        "harmonic": 5,
+        "frequency_hz_fft_bin": 309.539794921875,
+        "relative_initial_energy": 0.32420901159496557,
+        "decay_tau_seconds_fit": 0.6196605389040977
+      },
+      {
+        "harmonic": 6,
+        "frequency_hz_fft_bin": 371.44775390625,
+        "relative_initial_energy": 0.2676469452714908,
+        "decay_tau_seconds_fit": 1.3085272652687612
+      },
+      {
+        "harmonic": 7,
+        "frequency_hz_fft_bin": 433.355712890625,
+        "relative_initial_energy": 0.25872078000905957,
+        "decay_tau_seconds_fit": 0.9483063590321227
+      },
+      {
+        "harmonic": 8,
+        "frequency_hz_fft_bin": 495.263671875,
+        "relative_initial_energy": 0.2884267687017453,
+        "decay_tau_seconds_fit": 0.8156336619071444
+      },
+      {
+        "harmonic": 9,
+        "frequency_hz_fft_bin": 554.47998046875,
+        "relative_initial_energy": 0.3200255096926839,
+        "decay_tau_seconds_fit": 0.6096248476501195
+      },
+      {
+        "harmonic": 10,
+        "frequency_hz_fft_bin": 619.07958984375,
+        "relative_initial_energy": 0.0894023028685293,
+        "decay_tau_seconds_fit": 0.6615328644660924
+      },
+      {
+        "harmonic": 11,
+        "frequency_hz_fft_bin": 678.2958984375,
+        "relative_initial_energy": 0.07192471697299005,
+        "decay_tau_seconds_fit": 0.6562109541931596
+      },
+      {
+        "harmonic": 12,
+        "frequency_hz_fft_bin": 742.8955078125,
+        "relative_initial_energy": 0.015410525350596038,
+        "decay_tau_seconds_fit": 0.4157961532046174
+      },
+      {
+        "harmonic": 13,
+        "frequency_hz_fft_bin": 802.11181640625,
+        "relative_initial_energy": 0.07682760252247593,
+        "decay_tau_seconds_fit": 0.6094996163929908
+      },
+      {
+        "harmonic": 14,
+        "frequency_hz_fft_bin": 866.71142578125,
+        "relative_initial_energy": 0.12061822012015183,
+        "decay_tau_seconds_fit": 0.3925404222862011
+      },
+      {
+        "harmonic": 15,
+        "frequency_hz_fft_bin": 928.619384765625,
+        "relative_initial_energy": 0.056561118040669205,
+        "decay_tau_seconds_fit": 0.39738243290158043
+      },
+      {
+        "harmonic": 16,
+        "frequency_hz_fft_bin": 993.218994140625,
+        "relative_initial_energy": 0.14002998535104336,
+        "decay_tau_seconds_fit": 0.35662841567935744
+      },
+      {
+        "harmonic": 17,
+        "frequency_hz_fft_bin": 1055.126953125,
+        "relative_initial_energy": 0.051184815506161496,
+        "decay_tau_seconds_fit": 0.36269783219874635
+      },
+      {
+        "harmonic": 18,
+        "frequency_hz_fft_bin": 1117.034912109375,
+        "relative_initial_energy": 0.05281863231469579,
+        "decay_tau_seconds_fit": 0.3641982844996216
+      },
+      {
+        "harmonic": 19,
+        "frequency_hz_fft_bin": 1178.94287109375,
+        "relative_initial_energy": 0.057029277494903705,
+        "decay_tau_seconds_fit": 0.28862061220771923
+      },
+      {
+        "harmonic": 20,
+        "frequency_hz_fft_bin": 1235.467529296875,
+        "relative_initial_energy": 0.06780387409627735,
+        "decay_tau_seconds_fit": 0.27403927896553626
+      },
+      {
+        "harmonic": 21,
+        "frequency_hz_fft_bin": 1297.37548828125,
+        "relative_initial_energy": 0.0016195272374580328,
+        "decay_tau_seconds_fit": 0.23367159084660863
+      },
+      {
+        "harmonic": 22,
+        "frequency_hz_fft_bin": 1359.283447265625,
+        "relative_initial_energy": 0.005159073629769629,
+        "decay_tau_seconds_fit": 0.14556851660775688
+      },
+      {
+        "harmonic": 23,
+        "frequency_hz_fft_bin": 1423.883056640625,
+        "relative_initial_energy": 0.0007545439331237263,
+        "decay_tau_seconds_fit": 0.2154992865742339
+      },
+      {
+        "harmonic": 24,
+        "frequency_hz_fft_bin": 1485.791015625,
+        "relative_initial_energy": 0.0006940762349111153,
+        "decay_tau_seconds_fit": 0.13566332429251757
+      },
+      {
+        "harmonic": 25,
+        "frequency_hz_fft_bin": 1547.698974609375,
+        "relative_initial_energy": 0.004308747560830165,
+        "decay_tau_seconds_fit": 0.1497408739276099
+      },
+      {
+        "harmonic": 26,
+        "frequency_hz_fft_bin": 1609.60693359375,
+        "relative_initial_energy": 0.0012756767188419728,
+        "decay_tau_seconds_fit": 0.11594735560275805
+      },
+      {
+        "harmonic": 27,
+        "frequency_hz_fft_bin": 1671.514892578125,
+        "relative_initial_energy": 0.001788290981197579,
+        "decay_tau_seconds_fit": 0.08982605239538534
+      },
+      {
+        "harmonic": 28,
+        "frequency_hz_fft_bin": 1730.731201171875,
+        "relative_initial_energy": 0.00017469184340358746,
+        "decay_tau_seconds_fit": 0.13889948556405018
+      },
+      {
+        "harmonic": 29,
+        "frequency_hz_fft_bin": 1795.330810546875,
+        "relative_initial_energy": 0.010310961653570849,
+        "decay_tau_seconds_fit": 0.2596409844750693
+      },
+      {
+        "harmonic": 30,
+        "frequency_hz_fft_bin": 1857.23876953125,
+        "relative_initial_energy": 0.0010932895611193382,
+        "decay_tau_seconds_fit": 0.1304751178129664
+      },
+      {
+        "harmonic": 31,
+        "frequency_hz_fft_bin": 1919.146728515625,
+        "relative_initial_energy": 0.0024933844081987625,
+        "decay_tau_seconds_fit": 0.1597192889033644
+      },
+      {
+        "harmonic": 32,
+        "frequency_hz_fft_bin": 1981.0546875,
+        "relative_initial_energy": 0.00015412042608397924,
+        "decay_tau_seconds_fit": 0.11246412215183033
+      }
+    ]
+  },
+  {
+    "note": "B2",
+    "midi": 47,
+    "nominal_f0": 123.47082531403103,
+    "analysis_fft_hz_per_bin": 2.691650390625,
+    "partials": [
+      {
+        "harmonic": 1,
+        "frequency_hz_fft_bin": 123.81591796875,
+        "relative_initial_energy": 0.23504225932906733,
+        "decay_tau_seconds_fit": 2.204005592921906
+      },
+      {
+        "harmonic": 2,
+        "frequency_hz_fft_bin": 247.6318359375,
+        "relative_initial_energy": 1.0,
+        "decay_tau_seconds_fit": 0.8037862889306919
+      },
+      {
+        "harmonic": 3,
+        "frequency_hz_fft_bin": 371.44775390625,
+        "relative_initial_energy": 0.47193932190927274,
+        "decay_tau_seconds_fit": 1.6715653892925495
+      },
+      {
+        "harmonic": 4,
+        "frequency_hz_fft_bin": 492.572021484375,
+        "relative_initial_energy": 0.2693473153537237,
+        "decay_tau_seconds_fit": 1.3105743028007943
+      },
+      {
+        "harmonic": 5,
+        "frequency_hz_fft_bin": 616.387939453125,
+        "relative_initial_energy": 0.41609384665020555,
+        "decay_tau_seconds_fit": 1.263153056748301
+      },
+      {
+        "harmonic": 6,
+        "frequency_hz_fft_bin": 740.203857421875,
+        "relative_initial_energy": 0.09939350565433142,
+        "decay_tau_seconds_fit": 0.6259722637751274
+      },
+      {
+        "harmonic": 7,
+        "frequency_hz_fft_bin": 864.019775390625,
+        "relative_initial_energy": 0.15929087111129828,
+        "decay_tau_seconds_fit": 0.6658625753881697
+      },
+      {
+        "harmonic": 8,
+        "frequency_hz_fft_bin": 987.835693359375,
+        "relative_initial_energy": 0.3190546121346145,
+        "decay_tau_seconds_fit": 0.5436051475753119
+      },
+      {
+        "harmonic": 9,
+        "frequency_hz_fft_bin": 1111.651611328125,
+        "relative_initial_energy": 0.15587088687300338,
+        "decay_tau_seconds_fit": 0.850904935817528
+      },
+      {
+        "harmonic": 10,
+        "frequency_hz_fft_bin": 1235.467529296875,
+        "relative_initial_energy": 0.015173738989249301,
+        "decay_tau_seconds_fit": 0.4840001592650438
+      },
+      {
+        "harmonic": 11,
+        "frequency_hz_fft_bin": 1359.283447265625,
+        "relative_initial_energy": 0.10158892637688487,
+        "decay_tau_seconds_fit": 0.412356428104941
+      },
+      {
+        "harmonic": 12,
+        "frequency_hz_fft_bin": 1483.099365234375,
+        "relative_initial_energy": 0.10726417773920266,
+        "decay_tau_seconds_fit": 0.48488629293216495
+      },
+      {
+        "harmonic": 13,
+        "frequency_hz_fft_bin": 1606.915283203125,
+        "relative_initial_energy": 0.017079912785611672,
+        "decay_tau_seconds_fit": 0.4295959785154205
+      },
+      {
+        "harmonic": 14,
+        "frequency_hz_fft_bin": 1730.731201171875,
+        "relative_initial_energy": 0.011325676295052618,
+        "decay_tau_seconds_fit": 0.3657162213355555
+      },
+      {
+        "harmonic": 15,
+        "frequency_hz_fft_bin": 1854.547119140625,
+        "relative_initial_energy": 0.012044295009217911,
+        "decay_tau_seconds_fit": 0.46655414617498037
+      },
+      {
+        "harmonic": 16,
+        "frequency_hz_fft_bin": 1975.67138671875,
+        "relative_initial_energy": 0.013232073926491771,
+        "decay_tau_seconds_fit": 0.3546907261467424
+      },
+      {
+        "harmonic": 17,
+        "frequency_hz_fft_bin": 2104.87060546875,
+        "relative_initial_energy": 0.003146022569626754,
+        "decay_tau_seconds_fit": 0.37641204107320964
+      },
+      {
+        "harmonic": 18,
+        "frequency_hz_fft_bin": 2228.6865234375,
+        "relative_initial_energy": 0.0036395687259676264,
+        "decay_tau_seconds_fit": 0.2765634602603367
+      },
+      {
+        "harmonic": 19,
+        "frequency_hz_fft_bin": 2352.50244140625,
+        "relative_initial_energy": 0.002889499910163212,
+        "decay_tau_seconds_fit": 0.23845538887495968
+      },
+      {
+        "harmonic": 20,
+        "frequency_hz_fft_bin": 2470.93505859375,
+        "relative_initial_energy": 0.0010499126005154406,
+        "decay_tau_seconds_fit": 0.16305272745174448
+      },
+      {
+        "harmonic": 21,
+        "frequency_hz_fft_bin": 2594.7509765625,
+        "relative_initial_energy": 0.003653525409241288,
+        "decay_tau_seconds_fit": 0.2526173548635474
+      },
+      {
+        "harmonic": 22,
+        "frequency_hz_fft_bin": 2715.875244140625,
+        "relative_initial_energy": 0.000617203215199612,
+        "decay_tau_seconds_fit": 0.20164491171409726
+      },
+      {
+        "harmonic": 23,
+        "frequency_hz_fft_bin": 2842.3828125,
+        "relative_initial_energy": 0.0027528201183586315,
+        "decay_tau_seconds_fit": 0.2479926747862509
+      },
+      {
+        "harmonic": 24,
+        "frequency_hz_fft_bin": 2963.507080078125,
+        "relative_initial_energy": 0.0005149821265726792,
+        "decay_tau_seconds_fit": 0.09512783080149965
+      },
+      {
+        "harmonic": 25,
+        "frequency_hz_fft_bin": 3090.0146484375,
+        "relative_initial_energy": 0.001327525132555123,
+        "decay_tau_seconds_fit": 0.15894838780477188
+      },
+      {
+        "harmonic": 26,
+        "frequency_hz_fft_bin": 3211.138916015625,
+        "relative_initial_energy": 0.00010550808235152209,
+        "decay_tau_seconds_fit": 0.13922379871904528
+      },
+      {
+        "harmonic": 27,
+        "frequency_hz_fft_bin": 3334.954833984375,
+        "relative_initial_energy": 0.00011463096327882256,
+        "decay_tau_seconds_fit": 0.05740694081950616
+      },
+      {
+        "harmonic": 28,
+        "frequency_hz_fft_bin": 3458.770751953125,
+        "relative_initial_energy": 0.00010280124766595298,
+        "decay_tau_seconds_fit": 0.14611135488057597
+      },
+      {
+        "harmonic": 29,
+        "frequency_hz_fft_bin": 3582.586669921875,
+        "relative_initial_energy": 0.0007532056607856568,
+        "decay_tau_seconds_fit": 0.09424846006229749
+      },
+      {
+        "harmonic": 30,
+        "frequency_hz_fft_bin": 3706.402587890625,
+        "relative_initial_energy": 0.0012330478764867167,
+        "decay_tau_seconds_fit": 0.11109478079138439
+      },
+      {
+        "harmonic": 31,
+        "frequency_hz_fft_bin": 3827.52685546875,
+        "relative_initial_energy": 0.0005392924212685265,
+        "decay_tau_seconds_fit": 0.06464546554036778
+      },
+      {
+        "harmonic": 32,
+        "frequency_hz_fft_bin": 3951.3427734375,
+        "relative_initial_energy": 0.000354797519356941,
+        "decay_tau_seconds_fit": 0.05809631619968064
+      }
+    ]
+  },
+  {
+    "note": "B3",
+    "midi": 59,
+    "nominal_f0": 246.94165062806206,
+    "analysis_fft_hz_per_bin": 2.691650390625,
+    "partials": [
+      {
+        "harmonic": 1,
+        "frequency_hz_fft_bin": 247.6318359375,
+        "relative_initial_energy": 0.2915429966002168,
+        "decay_tau_seconds_fit": 1.2794845934431023
+      },
+      {
+        "harmonic": 2,
+        "frequency_hz_fft_bin": 495.263671875,
+        "relative_initial_energy": 0.984572523369252,
+        "decay_tau_seconds_fit": 0.4821162531466548
+      },
+      {
+        "harmonic": 3,
+        "frequency_hz_fft_bin": 740.203857421875,
+        "relative_initial_energy": 0.9287350890183061,
+        "decay_tau_seconds_fit": 0.7641064500296902
+      },
+      {
+        "harmonic": 4,
+        "frequency_hz_fft_bin": 987.835693359375,
+        "relative_initial_energy": 0.8804940654373113,
+        "decay_tau_seconds_fit": 0.5022385171117772
+      },
+      {
+        "harmonic": 5,
+        "frequency_hz_fft_bin": 1235.467529296875,
+        "relative_initial_energy": 0.22411210965711817,
+        "decay_tau_seconds_fit": 0.4245369694989129
+      },
+      {
+        "harmonic": 6,
+        "frequency_hz_fft_bin": 1483.099365234375,
+        "relative_initial_energy": 1.0,
+        "decay_tau_seconds_fit": 0.37756462337613206
+      },
+      {
+        "harmonic": 7,
+        "frequency_hz_fft_bin": 1730.731201171875,
+        "relative_initial_energy": 0.08723377134251539,
+        "decay_tau_seconds_fit": 0.31097919241474686
+      },
+      {
+        "harmonic": 8,
+        "frequency_hz_fft_bin": 1978.363037109375,
+        "relative_initial_energy": 0.06288995007695698,
+        "decay_tau_seconds_fit": 0.22404437877054487
+      },
+      {
+        "harmonic": 9,
+        "frequency_hz_fft_bin": 2223.30322265625,
+        "relative_initial_energy": 0.0933653971047343,
+        "decay_tau_seconds_fit": 0.20697349503855045
+      },
+      {
+        "harmonic": 10,
+        "frequency_hz_fft_bin": 2473.626708984375,
+        "relative_initial_energy": 0.05211084388835901,
+        "decay_tau_seconds_fit": 0.21948976988221244
+      },
+      {
+        "harmonic": 11,
+        "frequency_hz_fft_bin": 2718.56689453125,
+        "relative_initial_energy": 0.029836470508835693,
+        "decay_tau_seconds_fit": 0.20218377760913003
+      },
+      {
+        "harmonic": 12,
+        "frequency_hz_fft_bin": 2968.890380859375,
+        "relative_initial_energy": 0.007770123090573026,
+        "decay_tau_seconds_fit": 0.1823440131754211
+      },
+      {
+        "harmonic": 13,
+        "frequency_hz_fft_bin": 3213.83056640625,
+        "relative_initial_energy": 0.005081508891478562,
+        "decay_tau_seconds_fit": 0.09914599161377523
+      },
+      {
+        "harmonic": 14,
+        "frequency_hz_fft_bin": 3461.46240234375,
+        "relative_initial_energy": 0.001730429462782456,
+        "decay_tau_seconds_fit": 0.10408736804118728
+      },
+      {
+        "harmonic": 15,
+        "frequency_hz_fft_bin": 3709.09423828125,
+        "relative_initial_energy": 0.0006790362988939852,
+        "decay_tau_seconds_fit": 0.1394815314972542
+      },
+      {
+        "harmonic": 16,
+        "frequency_hz_fft_bin": 3956.72607421875,
+        "relative_initial_energy": 0.0009611004358498432,
+        "decay_tau_seconds_fit": 0.056780855969602674
+      },
+      {
+        "harmonic": 17,
+        "frequency_hz_fft_bin": 4198.974609375,
+        "relative_initial_energy": 9.823965099106422e-05,
+        "decay_tau_seconds_fit": 0.718581322606334
+      },
+      {
+        "harmonic": 18,
+        "frequency_hz_fft_bin": 4449.298095703125,
+        "relative_initial_energy": 0.00021730189651673323,
+        "decay_tau_seconds_fit": 0.04942646158133651
+      },
+      {
+        "harmonic": 19,
+        "frequency_hz_fft_bin": 4694.23828125,
+        "relative_initial_energy": 5.8421750154443156e-05,
+        "decay_tau_seconds_fit": 0.8973940965324617
+      },
+      {
+        "harmonic": 20,
+        "frequency_hz_fft_bin": 4939.178466796875,
+        "relative_initial_energy": 3.7264377547245604e-05,
+        "decay_tau_seconds_fit": 1.5923832466497654
+      },
+      {
+        "harmonic": 21,
+        "frequency_hz_fft_bin": 5189.501953125,
+        "relative_initial_energy": 1.9163323590465146e-05,
+        "decay_tau_seconds_fit": 4.434975444800665
+      },
+      {
+        "harmonic": 22,
+        "frequency_hz_fft_bin": 5437.1337890625,
+        "relative_initial_energy": 2.425836264465467e-05,
+        "decay_tau_seconds_fit": 4.543730592164083
+      },
+      {
+        "harmonic": 23,
+        "frequency_hz_fft_bin": 5684.765625,
+        "relative_initial_energy": 4.9856307063432805e-05,
+        "decay_tau_seconds_fit": 1.3237045252363477
+      },
+      {
+        "harmonic": 24,
+        "frequency_hz_fft_bin": 5932.3974609375,
+        "relative_initial_energy": 1.8362734707857735e-05,
+        "decay_tau_seconds_fit": 2.9060602551494097
+      },
+      {
+        "harmonic": 25,
+        "frequency_hz_fft_bin": 6177.337646484375,
+        "relative_initial_energy": 3.4109014661759276e-05,
+        "decay_tau_seconds_fit": 1.569512730645517
+      },
+      {
+        "harmonic": 26,
+        "frequency_hz_fft_bin": 6414.202880859375,
+        "relative_initial_energy": 9.683198265104838e-06,
+        "decay_tau_seconds_fit": 4.132680629239227
+      },
+      {
+        "harmonic": 27,
+        "frequency_hz_fft_bin": 6672.601318359375,
+        "relative_initial_energy": 7.224002958191211e-06,
+        "decay_tau_seconds_fit": 5.0
+      },
+      {
+        "harmonic": 28,
+        "frequency_hz_fft_bin": 6914.849853515625,
+        "relative_initial_energy": 5.122133169858803e-06,
+        "decay_tau_seconds_fit": 5.0
+      },
+      {
+        "harmonic": 29,
+        "frequency_hz_fft_bin": 7162.481689453125,
+        "relative_initial_energy": 3.422452374484264e-06,
+        "decay_tau_seconds_fit": 5.0
+      },
+      {
+        "harmonic": 30,
+        "frequency_hz_fft_bin": 7404.730224609375,
+        "relative_initial_energy": 8.076005344983901e-06,
+        "decay_tau_seconds_fit": 2.2214346890343397
+      },
+      {
+        "harmonic": 31,
+        "frequency_hz_fft_bin": 7657.745361328125,
+        "relative_initial_energy": 3.0524828682050075e-06,
+        "decay_tau_seconds_fit": 5.0
+      },
+      {
+        "harmonic": 32,
+        "frequency_hz_fft_bin": 7899.993896484375,
+        "relative_initial_energy": 1.3941723393575772e-05,
+        "decay_tau_seconds_fit": 2.6764195237221795
+      }
+    ]
+  },
+  {
+    "note": "B4",
+    "midi": 71,
+    "nominal_f0": 493.8833012561241,
+    "analysis_fft_hz_per_bin": 2.691650390625,
+    "partials": [
+      {
+        "harmonic": 1,
+        "frequency_hz_fft_bin": 495.263671875,
+        "relative_initial_energy": 0.21411209167629178,
+        "decay_tau_seconds_fit": 0.6743021992604449
+      },
+      {
+        "harmonic": 2,
+        "frequency_hz_fft_bin": 987.835693359375,
+        "relative_initial_energy": 1.0,
+        "decay_tau_seconds_fit": 0.1967139105487137
+      },
+      {
+        "harmonic": 3,
+        "frequency_hz_fft_bin": 1477.716064453125,
+        "relative_initial_energy": 0.2476633437431377,
+        "decay_tau_seconds_fit": 0.23857894169754573
+      },
+      {
+        "harmonic": 4,
+        "frequency_hz_fft_bin": 1975.67138671875,
+        "relative_initial_energy": 0.31596080629609224,
+        "decay_tau_seconds_fit": 0.2658367042312748
+      },
+      {
+        "harmonic": 5,
+        "frequency_hz_fft_bin": 2470.93505859375,
+        "relative_initial_energy": 0.1686277985087227,
+        "decay_tau_seconds_fit": 0.1857643902739244
+      },
+      {
+        "harmonic": 6,
+        "frequency_hz_fft_bin": 2968.890380859375,
+        "relative_initial_energy": 0.08908686283685299,
+        "decay_tau_seconds_fit": 0.15229636950097694
+      },
+      {
+        "harmonic": 7,
+        "frequency_hz_fft_bin": 3461.46240234375,
+        "relative_initial_energy": 0.0776208027523268,
+        "decay_tau_seconds_fit": 0.14995388402730925
+      },
+      {
+        "harmonic": 8,
+        "frequency_hz_fft_bin": 3951.3427734375,
+        "relative_initial_energy": 0.014289449543906037,
+        "decay_tau_seconds_fit": 0.0834878363158988
+      },
+      {
+        "harmonic": 9,
+        "frequency_hz_fft_bin": 4449.298095703125,
+        "relative_initial_energy": 0.002626114459349665,
+        "decay_tau_seconds_fit": 0.12471913908697567
+      },
+      {
+        "harmonic": 10,
+        "frequency_hz_fft_bin": 4944.561767578125,
+        "relative_initial_energy": 0.002723184419403724,
+        "decay_tau_seconds_fit": 0.05929281421110673
+      },
+      {
+        "harmonic": 11,
+        "frequency_hz_fft_bin": 5426.3671875,
+        "relative_initial_energy": 0.000591891596033416,
+        "decay_tau_seconds_fit": 0.03253615737751967
+      },
+      {
+        "harmonic": 12,
+        "frequency_hz_fft_bin": 5927.01416015625,
+        "relative_initial_energy": 0.00011605900514638651,
+        "decay_tau_seconds_fit": 0.07082825260413275
+      },
+      {
+        "harmonic": 13,
+        "frequency_hz_fft_bin": 6419.586181640625,
+        "relative_initial_energy": 0.0001109040237411873,
+        "decay_tau_seconds_fit": 0.4371417841784038
+      },
+      {
+        "harmonic": 14,
+        "frequency_hz_fft_bin": 6909.466552734375,
+        "relative_initial_energy": 0.00012223510248385945,
+        "decay_tau_seconds_fit": 0.03013554361071279
+      },
+      {
+        "harmonic": 15,
+        "frequency_hz_fft_bin": 7407.421875,
+        "relative_initial_energy": 1.4166520165255276e-05,
+        "decay_tau_seconds_fit": 0.8266365271770655
+      },
+      {
+        "harmonic": 16,
+        "frequency_hz_fft_bin": 7902.685546875,
+        "relative_initial_energy": 2.4865210855071437e-05,
+        "decay_tau_seconds_fit": 1.481252932535011
+      },
+      {
+        "harmonic": 17,
+        "frequency_hz_fft_bin": 8397.94921875,
+        "relative_initial_energy": 2.1258405692812e-05,
+        "decay_tau_seconds_fit": 1.05266414109459
+      },
+      {
+        "harmonic": 18,
+        "frequency_hz_fft_bin": 8885.137939453125,
+        "relative_initial_energy": 1.5327999747745135e-05,
+        "decay_tau_seconds_fit": 3.1865863624456328
+      },
+      {
+        "harmonic": 19,
+        "frequency_hz_fft_bin": 9388.4765625,
+        "relative_initial_energy": 1.0253978477324347e-05,
+        "decay_tau_seconds_fit": 5.0
+      },
+      {
+        "harmonic": 20,
+        "frequency_hz_fft_bin": 9878.35693359375,
+        "relative_initial_energy": 7.90994477498041e-06,
+        "decay_tau_seconds_fit": 5.0
+      },
+      {
+        "harmonic": 21,
+        "frequency_hz_fft_bin": 10368.2373046875,
+        "relative_initial_energy": 1.0497766032409793e-05,
+        "decay_tau_seconds_fit": 5.0
+      },
+      {
+        "harmonic": 22,
+        "frequency_hz_fft_bin": 10868.88427734375,
+        "relative_initial_energy": 9.969365025346247e-06,
+        "decay_tau_seconds_fit": 2.6494374480652314
+      },
+      {
+        "harmonic": 23,
+        "frequency_hz_fft_bin": 11364.14794921875,
+        "relative_initial_energy": 5.7589033015885516e-06,
+        "decay_tau_seconds_fit": 3.1429457021606866
+      },
+      {
+        "harmonic": 24,
+        "frequency_hz_fft_bin": 11854.0283203125,
+        "relative_initial_energy": 1.898786447812125e-06,
+        "decay_tau_seconds_fit": 5.0
+      },
+      {
+        "harmonic": 25,
+        "frequency_hz_fft_bin": 12349.2919921875,
+        "relative_initial_energy": 6.586082179236275e-06,
+        "decay_tau_seconds_fit": 1.0437184123439176
+      },
+      {
+        "harmonic": 26,
+        "frequency_hz_fft_bin": 12847.247314453125,
+        "relative_initial_energy": 6.334885423638062e-06,
+        "decay_tau_seconds_fit": 5.0
+      },
+      {
+        "harmonic": 27,
+        "frequency_hz_fft_bin": 13337.127685546875,
+        "relative_initial_energy": 1.6769983416494784e-06,
+        "decay_tau_seconds_fit": 5.0
+      },
+      {
+        "harmonic": 28,
+        "frequency_hz_fft_bin": 13835.0830078125,
+        "relative_initial_energy": 2.8726522754383423e-06,
+        "decay_tau_seconds_fit": 5.0
+      },
+      {
+        "harmonic": 29,
+        "frequency_hz_fft_bin": 14319.580078125,
+        "relative_initial_energy": 2.368618245768762e-06,
+        "decay_tau_seconds_fit": 5.0
+      },
+      {
+        "harmonic": 30,
+        "frequency_hz_fft_bin": 14817.535400390625,
+        "relative_initial_energy": 7.5534339249917945e-06,
+        "decay_tau_seconds_fit": 5.0
+      },
+      {
+        "harmonic": 31,
+        "frequency_hz_fft_bin": 15312.799072265625,
+        "relative_initial_energy": 1.3258596737944063e-05,
+        "decay_tau_seconds_fit": 1.5627025878508722
+      },
+      {
+        "harmonic": 32,
+        "frequency_hz_fft_bin": 15802.679443359375,
+        "relative_initial_energy": 1.7821602707832466e-06,
+        "decay_tau_seconds_fit": 5.0
+      }
+    ]
+  },
+  {
+    "note": "C#3",
+    "midi": 49,
+    "nominal_f0": 138.59131548843604,
+    "analysis_fft_hz_per_bin": 2.691650390625,
+    "partials": [
+      {
+        "harmonic": 1,
+        "frequency_hz_fft_bin": 137.274169921875,
+        "relative_initial_energy": 0.42723146915850096,
+        "decay_tau_seconds_fit": 5.0
+      },
+      {
+        "harmonic": 2,
+        "frequency_hz_fft_bin": 277.239990234375,
+        "relative_initial_energy": 0.6277890245301525,
+        "decay_tau_seconds_fit": 1.6384693319936667
+      },
+      {
+        "harmonic": 3,
+        "frequency_hz_fft_bin": 417.205810546875,
+        "relative_initial_energy": 0.4477950277223042,
+        "decay_tau_seconds_fit": 1.4105343549424525
+      },
+      {
+        "harmonic": 4,
+        "frequency_hz_fft_bin": 554.47998046875,
+        "relative_initial_energy": 1.0,
+        "decay_tau_seconds_fit": 0.5549485295377404
+      },
+      {
+        "harmonic": 5,
+        "frequency_hz_fft_bin": 694.44580078125,
+        "relative_initial_energy": 0.15749204262951294,
+        "decay_tau_seconds_fit": 1.212144930233858
+      },
+      {
+        "harmonic": 6,
+        "frequency_hz_fft_bin": 831.719970703125,
+        "relative_initial_energy": 0.3588102156815692,
+        "decay_tau_seconds_fit": 0.9826060634019965
+      },
+      {
+        "harmonic": 7,
+        "frequency_hz_fft_bin": 971.685791015625,
+        "relative_initial_energy": 0.2185885412829822,
+        "decay_tau_seconds_fit": 0.5381779431846269
+      },
+      {
+        "harmonic": 8,
+        "frequency_hz_fft_bin": 1111.651611328125,
+        "relative_initial_energy": 0.0024735892132307985,
+        "decay_tau_seconds_fit": 0.5135015481330305
+      },
+      {
+        "harmonic": 9,
+        "frequency_hz_fft_bin": 1248.92578125,
+        "relative_initial_energy": 0.03055646614857488,
+        "decay_tau_seconds_fit": 0.6014887341192617
+      },
+      {
+        "harmonic": 10,
+        "frequency_hz_fft_bin": 1388.8916015625,
+        "relative_initial_energy": 0.06485548468554474,
+        "decay_tau_seconds_fit": 0.5665271438197182
+      },
+      {
+        "harmonic": 11,
+        "frequency_hz_fft_bin": 1528.857421875,
+        "relative_initial_energy": 0.15563704930059505,
+        "decay_tau_seconds_fit": 0.5072181605078202
+      },
+      {
+        "harmonic": 12,
+        "frequency_hz_fft_bin": 1666.131591796875,
+        "relative_initial_energy": 0.039578058206054326,
+        "decay_tau_seconds_fit": 0.41718690380429124
+      },
+      {
+        "harmonic": 13,
+        "frequency_hz_fft_bin": 1806.097412109375,
+        "relative_initial_energy": 0.06926951335187712,
+        "decay_tau_seconds_fit": 0.3736100772961422
+      },
+      {
+        "harmonic": 14,
+        "frequency_hz_fft_bin": 1946.063232421875,
+        "relative_initial_energy": 0.03704662972249464,
+        "decay_tau_seconds_fit": 0.29915865908037775
+      },
+      {
+        "harmonic": 15,
+        "frequency_hz_fft_bin": 2083.33740234375,
+        "relative_initial_energy": 0.01653436348440519,
+        "decay_tau_seconds_fit": 0.14538516937193563
+      },
+      {
+        "harmonic": 16,
+        "frequency_hz_fft_bin": 2223.30322265625,
+        "relative_initial_energy": 0.007306742838727135,
+        "decay_tau_seconds_fit": 0.23989038341758787
+      },
+      {
+        "harmonic": 17,
+        "frequency_hz_fft_bin": 2360.577392578125,
+        "relative_initial_energy": 0.012718226662874053,
+        "decay_tau_seconds_fit": 0.31114195529683336
+      },
+      {
+        "harmonic": 18,
+        "frequency_hz_fft_bin": 2500.543212890625,
+        "relative_initial_energy": 0.005853594075381325,
+        "decay_tau_seconds_fit": 0.2597760145762087
+      },
+      {
+        "harmonic": 19,
+        "frequency_hz_fft_bin": 2637.8173828125,
+        "relative_initial_energy": 0.0009258542243995083,
+        "decay_tau_seconds_fit": 0.30634308448255276
+      },
+      {
+        "harmonic": 20,
+        "frequency_hz_fft_bin": 2769.708251953125,
+        "relative_initial_energy": 0.0002873975967028865,
+        "decay_tau_seconds_fit": 0.25690878511282333
+      },
+      {
+        "harmonic": 21,
+        "frequency_hz_fft_bin": 2912.36572265625,
+        "relative_initial_energy": 0.0002922587638638798,
+        "decay_tau_seconds_fit": 0.12056557748133068
+      },
+      {
+        "harmonic": 22,
+        "frequency_hz_fft_bin": 3052.33154296875,
+        "relative_initial_energy": 0.0001554640497179369,
+        "decay_tau_seconds_fit": 0.17828781858140746
+      },
+      {
+        "harmonic": 23,
+        "frequency_hz_fft_bin": 3192.29736328125,
+        "relative_initial_energy": 0.012434012907748992,
+        "decay_tau_seconds_fit": 0.20274170752474396
+      },
+      {
+        "harmonic": 24,
+        "frequency_hz_fft_bin": 3332.26318359375,
+        "relative_initial_energy": 0.0002494420412243853,
+        "decay_tau_seconds_fit": 0.1259772993686748
+      },
+      {
+        "harmonic": 25,
+        "frequency_hz_fft_bin": 3469.537353515625,
+        "relative_initial_energy": 0.00021117419768026328,
+        "decay_tau_seconds_fit": 0.15736159553499426
+      },
+      {
+        "harmonic": 26,
+        "frequency_hz_fft_bin": 3609.503173828125,
+        "relative_initial_energy": 7.29846976085291e-05,
+        "decay_tau_seconds_fit": 0.1688030024922643
+      },
+      {
+        "harmonic": 27,
+        "frequency_hz_fft_bin": 3746.77734375,
+        "relative_initial_energy": 4.465077387372763e-05,
+        "decay_tau_seconds_fit": 1.2600136986658883
+      },
+      {
+        "harmonic": 28,
+        "frequency_hz_fft_bin": 3875.9765625,
+        "relative_initial_energy": 4.255152480287755e-05,
+        "decay_tau_seconds_fit": 0.7942113848480261
+      },
+      {
+        "harmonic": 29,
+        "frequency_hz_fft_bin": 4024.017333984375,
+        "relative_initial_energy": 2.7618437824684726e-05,
+        "decay_tau_seconds_fit": 0.5546401871646911
+      },
+      {
+        "harmonic": 30,
+        "frequency_hz_fft_bin": 4163.983154296875,
+        "relative_initial_energy": 0.0002925459447420819,
+        "decay_tau_seconds_fit": 0.16216069493452606
+      },
+      {
+        "harmonic": 31,
+        "frequency_hz_fft_bin": 4301.25732421875,
+        "relative_initial_energy": 2.1172667889899815e-05,
+        "decay_tau_seconds_fit": 0.7639615884548718
+      },
+      {
+        "harmonic": 32,
+        "frequency_hz_fft_bin": 4438.531494140625,
+        "relative_initial_energy": 3.474696379619138e-05,
+        "decay_tau_seconds_fit": 0.4945774142321895
+      }
+    ]
+  },
+  {
+    "note": "C#4",
+    "midi": 61,
+    "nominal_f0": 277.1826309768721,
+    "analysis_fft_hz_per_bin": 2.691650390625,
+    "partials": [
+      {
+        "harmonic": 1,
+        "frequency_hz_fft_bin": 277.239990234375,
+        "relative_initial_energy": 1.0,
+        "decay_tau_seconds_fit": 0.5900456790398352
+      },
+      {
+        "harmonic": 2,
+        "frequency_hz_fft_bin": 551.788330078125,
+        "relative_initial_energy": 0.6782261095449155,
+        "decay_tau_seconds_fit": 0.3750022213208204
+      },
+      {
+        "harmonic": 3,
+        "frequency_hz_fft_bin": 829.0283203125,
+        "relative_initial_energy": 0.4154843779220536,
+        "decay_tau_seconds_fit": 0.35709026740126015
+      },
+      {
+        "harmonic": 4,
+        "frequency_hz_fft_bin": 1106.268310546875,
+        "relative_initial_energy": 0.2870389678921166,
+        "decay_tau_seconds_fit": 0.37807742144390677
+      },
+      {
+        "harmonic": 5,
+        "frequency_hz_fft_bin": 1383.50830078125,
+        "relative_initial_energy": 0.1696828303074562,
+        "decay_tau_seconds_fit": 0.2518116024603308
+      },
+      {
+        "harmonic": 6,
+        "frequency_hz_fft_bin": 1660.748291015625,
+        "relative_initial_energy": 0.07075825467395248,
+        "decay_tau_seconds_fit": 0.21905320146935026
+      },
+      {
+        "harmonic": 7,
+        "frequency_hz_fft_bin": 1937.98828125,
+        "relative_initial_energy": 0.16736248814137014,
+        "decay_tau_seconds_fit": 0.2074644798813596
+      },
+      {
+        "harmonic": 8,
+        "frequency_hz_fft_bin": 2215.228271484375,
+        "relative_initial_energy": 0.04092482075948661,
+        "decay_tau_seconds_fit": 0.10578900858730714
+      },
+      {
+        "harmonic": 9,
+        "frequency_hz_fft_bin": 2489.776611328125,
+        "relative_initial_energy": 0.04481355539553784,
+        "decay_tau_seconds_fit": 0.13896002167633606
+      },
+      {
+        "harmonic": 10,
+        "frequency_hz_fft_bin": 2775.091552734375,
+        "relative_initial_energy": 0.010399772129756192,
+        "decay_tau_seconds_fit": 0.13520513744009077
+      },
+      {
+        "harmonic": 11,
+        "frequency_hz_fft_bin": 3044.256591796875,
+        "relative_initial_energy": 0.009801920004833117,
+        "decay_tau_seconds_fit": 0.12389715050416206
+      },
+      {
+        "harmonic": 12,
+        "frequency_hz_fft_bin": 3332.26318359375,
+        "relative_initial_energy": 0.014548817585380994,
+        "decay_tau_seconds_fit": 0.11684272683996495
+      },
+      {
+        "harmonic": 13,
+        "frequency_hz_fft_bin": 3598.736572265625,
+        "relative_initial_energy": 0.0029927496290519376,
+        "decay_tau_seconds_fit": 0.07739444174949288
+      },
+      {
+        "harmonic": 14,
+        "frequency_hz_fft_bin": 3881.35986328125,
+        "relative_initial_energy": 0.0006985572414010798,
+        "decay_tau_seconds_fit": 0.08741211124591611
+      },
+      {
+        "harmonic": 15,
+        "frequency_hz_fft_bin": 4155.908203125,
+        "relative_initial_energy": 0.00038555391169902927,
+        "decay_tau_seconds_fit": 0.053073587031737125
+      },
+      {
+        "harmonic": 16,
+        "frequency_hz_fft_bin": 4435.83984375,
+        "relative_initial_energy": 0.0002742040648446302,
+        "decay_tau_seconds_fit": 0.039144967356470974
+      },
+      {
+        "harmonic": 17,
+        "frequency_hz_fft_bin": 4713.079833984375,
+        "relative_initial_energy": 0.00028266877324993936,
+        "decay_tau_seconds_fit": 0.05049280297024353
+      },
+      {
+        "harmonic": 18,
+        "frequency_hz_fft_bin": 4995.703125,
+        "relative_initial_energy": 0.0001938584778129706,
+        "decay_tau_seconds_fit": 0.03345612351315844
+      },
+      {
+        "harmonic": 19,
+        "frequency_hz_fft_bin": 5272.943115234375,
+        "relative_initial_energy": 9.320403168314489e-06,
+        "decay_tau_seconds_fit": 5.0
+      },
+      {
+        "harmonic": 20,
+        "frequency_hz_fft_bin": 5550.18310546875,
+        "relative_initial_energy": 1.3952995637344265e-06,
+        "decay_tau_seconds_fit": 2.6381734138281088
+      },
+      {
+        "harmonic": 21,
+        "frequency_hz_fft_bin": 5822.039794921875,
+        "relative_initial_energy": 5.141868011503524e-06,
+        "decay_tau_seconds_fit": 1.561786191081714
+      },
+      {
+        "harmonic": 22,
+        "frequency_hz_fft_bin": 6099.27978515625,
+        "relative_initial_energy": 3.526005019805883e-06,
+        "decay_tau_seconds_fit": 5.0
+      },
+      {
+        "harmonic": 23,
+        "frequency_hz_fft_bin": 6371.136474609375,
+        "relative_initial_energy": 5.913680862077819e-06,
+        "decay_tau_seconds_fit": 3.6840490338621734
+      },
+      {
+        "harmonic": 24,
+        "frequency_hz_fft_bin": 6648.37646484375,
+        "relative_initial_energy": 2.137316744284267e-06,
+        "decay_tau_seconds_fit": 5.0
+      },
+      {
+        "harmonic": 25,
+        "frequency_hz_fft_bin": 6933.69140625,
+        "relative_initial_energy": 4.5766447112188695e-06,
+        "decay_tau_seconds_fit": 3.187846983603385
+      },
+      {
+        "harmonic": 26,
+        "frequency_hz_fft_bin": 7205.548095703125,
+        "relative_initial_energy": 1.960841230417265e-06,
+        "decay_tau_seconds_fit": 5.0
+      },
+      {
+        "harmonic": 27,
+        "frequency_hz_fft_bin": 7485.479736328125,
+        "relative_initial_energy": 3.619756173309988e-06,
+        "decay_tau_seconds_fit": 0.9258150103032888
+      },
+      {
+        "harmonic": 28,
+        "frequency_hz_fft_bin": 7757.33642578125,
+        "relative_initial_energy": 7.0467282644774545e-06,
+        "decay_tau_seconds_fit": 5.0
+      },
+      {
+        "harmonic": 29,
+        "frequency_hz_fft_bin": 8031.884765625,
+        "relative_initial_energy": 3.201249095085476e-05,
+        "decay_tau_seconds_fit": 0.12008008859701891
+      },
+      {
+        "harmonic": 30,
+        "frequency_hz_fft_bin": 8317.19970703125,
+        "relative_initial_energy": 3.2020724756759243e-06,
+        "decay_tau_seconds_fit": 5.0
+      },
+      {
+        "harmonic": 31,
+        "frequency_hz_fft_bin": 8597.13134765625,
+        "relative_initial_energy": 4.284619839629813e-06,
+        "decay_tau_seconds_fit": 3.088612391560319
+      },
+      {
+        "harmonic": 32,
+        "frequency_hz_fft_bin": 8874.371337890625,
+        "relative_initial_energy": 1.3393165062645087e-06,
+        "decay_tau_seconds_fit": 5.0
+      }
+    ]
+  },
+  {
+    "note": "C#5",
+    "midi": 73,
+    "nominal_f0": 554.3652619537442,
+    "analysis_fft_hz_per_bin": 2.691650390625,
+    "partials": [
+      {
+        "harmonic": 1,
+        "frequency_hz_fft_bin": 557.171630859375,
+        "relative_initial_energy": 1.0,
+        "decay_tau_seconds_fit": 0.48933106481935534
+      },
+      {
+        "harmonic": 2,
+        "frequency_hz_fft_bin": 1114.34326171875,
+        "relative_initial_energy": 0.39070663451062804,
+        "decay_tau_seconds_fit": 0.4073046639600676
+      },
+      {
+        "harmonic": 3,
+        "frequency_hz_fft_bin": 1668.8232421875,
+        "relative_initial_energy": 0.06393279254290667,
+        "decay_tau_seconds_fit": 0.14421195525272304
+      },
+      {
+        "harmonic": 4,
+        "frequency_hz_fft_bin": 2223.30322265625,
+        "relative_initial_energy": 0.017246728475321552,
+        "decay_tau_seconds_fit": 0.13978885603033553
+      },
+      {
+        "harmonic": 5,
+        "frequency_hz_fft_bin": 2777.783203125,
+        "relative_initial_energy": 0.014162285322291572,
+        "decay_tau_seconds_fit": 0.08714478386582178
+      },
+      {
+        "harmonic": 6,
+        "frequency_hz_fft_bin": 3332.26318359375,
+        "relative_initial_energy": 0.0005237337949630257,
+        "decay_tau_seconds_fit": 0.058743927363261485
+      },
+      {
+        "harmonic": 7,
+        "frequency_hz_fft_bin": 3886.7431640625,
+        "relative_initial_energy": 0.0004954070125838641,
+        "decay_tau_seconds_fit": 0.0608264790268021
+      },
+      {
+        "harmonic": 8,
+        "frequency_hz_fft_bin": 4438.531494140625,
+        "relative_initial_energy": 0.00015381161388252365,
+        "decay_tau_seconds_fit": 0.10673154969968865
+      },
+      {
+        "harmonic": 9,
+        "frequency_hz_fft_bin": 4995.703125,
+        "relative_initial_energy": 0.00011111888675674047,
+        "decay_tau_seconds_fit": 0.03835057229677836
+      },
+      {
+        "harmonic": 10,
+        "frequency_hz_fft_bin": 5550.18310546875,
+        "relative_initial_energy": 4.470855779916156e-05,
+        "decay_tau_seconds_fit": 0.06098097318975235
+      },
+      {
+        "harmonic": 11,
+        "frequency_hz_fft_bin": 6104.6630859375,
+        "relative_initial_energy": 5.3208433127749286e-05,
+        "decay_tau_seconds_fit": 0.3
+      },
+      {
+        "harmonic": 12,
+        "frequency_hz_fft_bin": 6645.684814453125,
+        "relative_initial_energy": 1.531705179367999e-05,
+        "decay_tau_seconds_fit": 0.03713982728025777
+      },
+      {
+        "harmonic": 13,
+        "frequency_hz_fft_bin": 7202.8564453125,
+        "relative_initial_energy": 1.1007291306971695e-05,
+        "decay_tau_seconds_fit": 0.04994846535297872
+      },
+      {
+        "harmonic": 14,
+        "frequency_hz_fft_bin": 7762.7197265625,
+        "relative_initial_energy": 5.013554398647098e-06,
+        "decay_tau_seconds_fit": 0.04472298865753398
+      },
+      {
+        "harmonic": 15,
+        "frequency_hz_fft_bin": 8319.891357421875,
+        "relative_initial_energy": 7.379423144793247e-06,
+        "decay_tau_seconds_fit": 0.8614897455045644
+      },
+      {
+        "harmonic": 16,
+        "frequency_hz_fft_bin": 8863.604736328125,
+        "relative_initial_energy": 5.8363173820620215e-06,
+        "decay_tau_seconds_fit": 0.5145954009107996
+      },
+      {
+        "harmonic": 17,
+        "frequency_hz_fft_bin": 9420.7763671875,
+        "relative_initial_energy": 2.491950803779628e-06,
+        "decay_tau_seconds_fit": 0.6075500897128127
+      },
+      {
+        "harmonic": 18,
+        "frequency_hz_fft_bin": 9983.331298828125,
+        "relative_initial_energy": 1.2456521109118768e-06,
+        "decay_tau_seconds_fit": 0.5400591595466454
+      },
+      {
+        "harmonic": 19,
+        "frequency_hz_fft_bin": 10537.811279296875,
+        "relative_initial_energy": 1.6465876245448409e-06,
+        "decay_tau_seconds_fit": 0.7880287395530438
+      },
+      {
+        "harmonic": 20,
+        "frequency_hz_fft_bin": 11084.21630859375,
+        "relative_initial_energy": 3.2984011286561845e-06,
+        "decay_tau_seconds_fit": 0.3
+      },
+      {
+        "harmonic": 21,
+        "frequency_hz_fft_bin": 11641.387939453125,
+        "relative_initial_energy": 2.2069056894545195e-07,
+        "decay_tau_seconds_fit": 5.0
+      },
+      {
+        "harmonic": 22,
+        "frequency_hz_fft_bin": 12190.484619140625,
+        "relative_initial_energy": 1.76094942690423e-06,
+        "decay_tau_seconds_fit": 0.3
+      },
+      {
+        "harmonic": 23,
+        "frequency_hz_fft_bin": 12753.03955078125,
+        "relative_initial_energy": 4.118621121570184e-07,
+        "decay_tau_seconds_fit": 1.264231703878996
+      },
+      {
+        "harmonic": 24,
+        "frequency_hz_fft_bin": 13302.13623046875,
+        "relative_initial_energy": 8.857832128809124e-07,
+        "decay_tau_seconds_fit": 0.6298771249610124
+      },
+      {
+        "harmonic": 25,
+        "frequency_hz_fft_bin": 13853.924560546875,
+        "relative_initial_energy": 1.0699866689667636e-06,
+        "decay_tau_seconds_fit": 0.46151517707897904
+      },
+      {
+        "harmonic": 26,
+        "frequency_hz_fft_bin": 14408.404541015625,
+        "relative_initial_energy": 9.46298300170178e-06,
+        "decay_tau_seconds_fit": 0.3
+      },
+      {
+        "harmonic": 27,
+        "frequency_hz_fft_bin": 14962.884521484375,
+        "relative_initial_energy": 2.9255124174524263e-07,
+        "decay_tau_seconds_fit": 0.9942112526798071
+      },
+      {
+        "harmonic": 28,
+        "frequency_hz_fft_bin": 15528.131103515625,
+        "relative_initial_energy": 3.4257469545121944e-07,
+        "decay_tau_seconds_fit": 0.3
+      },
+      {
+        "harmonic": 29,
+        "frequency_hz_fft_bin": 16071.844482421875,
+        "relative_initial_energy": 1.6171933782424445e-07,
+        "decay_tau_seconds_fit": 0.3
+      },
+      {
+        "harmonic": 30,
+        "frequency_hz_fft_bin": 16637.091064453125,
+        "relative_initial_energy": 1.054395419749637e-07,
+        "decay_tau_seconds_fit": 0.3
+      },
+      {
+        "harmonic": 31,
+        "frequency_hz_fft_bin": 17180.804443359375,
+        "relative_initial_energy": 2.79278764547302e-08,
+        "decay_tau_seconds_fit": 0.3
+      },
+      {
+        "harmonic": 32,
+        "frequency_hz_fft_bin": 17737.97607421875,
+        "relative_initial_energy": 2.3565918554093052e-08,
+        "decay_tau_seconds_fit": 0.3
+      }
+    ]
+  },
+  {
+    "note": "D2",
+    "midi": 38,
+    "nominal_f0": 73.41619197935188,
+    "analysis_fft_hz_per_bin": 2.691650390625,
+    "partials": [
+      {
+        "harmonic": 1,
+        "frequency_hz_fft_bin": 72.674560546875,
+        "relative_initial_energy": 0.08625559486448314,
+        "decay_tau_seconds_fit": 4.019813176744098
+      },
+      {
+        "harmonic": 2,
+        "frequency_hz_fft_bin": 145.34912109375,
+        "relative_initial_energy": 0.49700450286914866,
+        "decay_tau_seconds_fit": 1.943735637913921
+      },
+      {
+        "harmonic": 3,
+        "frequency_hz_fft_bin": 220.71533203125,
+        "relative_initial_energy": 1.0,
+        "decay_tau_seconds_fit": 0.6861282588534798
+      },
+      {
+        "harmonic": 4,
+        "frequency_hz_fft_bin": 293.389892578125,
+        "relative_initial_energy": 0.6213773065648159,
+        "decay_tau_seconds_fit": 1.284556116547742
+      },
+      {
+        "harmonic": 5,
+        "frequency_hz_fft_bin": 366.064453125,
+        "relative_initial_energy": 0.6825319374089179,
+        "decay_tau_seconds_fit": 1.4010471802017501
+      },
+      {
+        "harmonic": 6,
+        "frequency_hz_fft_bin": 441.4306640625,
+        "relative_initial_energy": 0.13653064198195855,
+        "decay_tau_seconds_fit": 5.0
+      },
+      {
+        "harmonic": 7,
+        "frequency_hz_fft_bin": 514.105224609375,
+        "relative_initial_energy": 0.34948018649439705,
+        "decay_tau_seconds_fit": 1.002377983238327
+      },
+      {
+        "harmonic": 8,
+        "frequency_hz_fft_bin": 586.77978515625,
+        "relative_initial_energy": 0.17691338469490103,
+        "decay_tau_seconds_fit": 0.6501178584987835
+      },
+      {
+        "harmonic": 9,
+        "frequency_hz_fft_bin": 659.454345703125,
+        "relative_initial_energy": 0.9972732750681683,
+        "decay_tau_seconds_fit": 0.7769440586132964
+      },
+      {
+        "harmonic": 10,
+        "frequency_hz_fft_bin": 734.820556640625,
+        "relative_initial_energy": 0.0804322870572365,
+        "decay_tau_seconds_fit": 0.7329915939202626
+      },
+      {
+        "harmonic": 11,
+        "frequency_hz_fft_bin": 807.4951171875,
+        "relative_initial_energy": 0.03381023966123388,
+        "decay_tau_seconds_fit": 0.4782686372424886
+      },
+      {
+        "harmonic": 12,
+        "frequency_hz_fft_bin": 880.169677734375,
+        "relative_initial_energy": 0.012408735531343966,
+        "decay_tau_seconds_fit": 0.5434068403493308
+      },
+      {
+        "harmonic": 13,
+        "frequency_hz_fft_bin": 955.535888671875,
+        "relative_initial_energy": 0.08041245286781422,
+        "decay_tau_seconds_fit": 0.5031404248968929
+      },
+      {
+        "harmonic": 14,
+        "frequency_hz_fft_bin": 1028.21044921875,
+        "relative_initial_energy": 0.0672788296765958,
+        "decay_tau_seconds_fit": 0.5519073839262923
+      },
+      {
+        "harmonic": 15,
+        "frequency_hz_fft_bin": 1103.57666015625,
+        "relative_initial_energy": 0.11005091114312433,
+        "decay_tau_seconds_fit": 0.46386850225406273
+      },
+      {
+        "harmonic": 16,
+        "frequency_hz_fft_bin": 1178.94287109375,
+        "relative_initial_energy": 0.02766407696338457,
+        "decay_tau_seconds_fit": 0.30185774790852316
+      },
+      {
+        "harmonic": 17,
+        "frequency_hz_fft_bin": 1251.617431640625,
+        "relative_initial_energy": 0.01856417316401474,
+        "decay_tau_seconds_fit": 0.36360305519169467
+      },
+      {
+        "harmonic": 18,
+        "frequency_hz_fft_bin": 1321.600341796875,
+        "relative_initial_energy": 0.0754387326016061,
+        "decay_tau_seconds_fit": 0.3359753453625277
+      },
+      {
+        "harmonic": 19,
+        "frequency_hz_fft_bin": 1399.658203125,
+        "relative_initial_energy": 0.01905834694705962,
+        "decay_tau_seconds_fit": 0.2942429006562526
+      },
+      {
+        "harmonic": 20,
+        "frequency_hz_fft_bin": 1475.0244140625,
+        "relative_initial_energy": 0.019064062610549118,
+        "decay_tau_seconds_fit": 0.23362263599927596
+      },
+      {
+        "harmonic": 21,
+        "frequency_hz_fft_bin": 1547.698974609375,
+        "relative_initial_energy": 0.018647913511967148,
+        "decay_tau_seconds_fit": 0.2420015794847798
+      },
+      {
+        "harmonic": 22,
+        "frequency_hz_fft_bin": 1620.37353515625,
+        "relative_initial_energy": 0.003502522722518419,
+        "decay_tau_seconds_fit": 0.2355667736824121
+      },
+      {
+        "harmonic": 23,
+        "frequency_hz_fft_bin": 1693.048095703125,
+        "relative_initial_energy": 0.00033383735766714126,
+        "decay_tau_seconds_fit": 0.12500155938718358
+      },
+      {
+        "harmonic": 24,
+        "frequency_hz_fft_bin": 1760.33935546875,
+        "relative_initial_energy": 3.818105001695987e-05,
+        "decay_tau_seconds_fit": 0.5796280421487376
+      },
+      {
+        "harmonic": 25,
+        "frequency_hz_fft_bin": 1838.397216796875,
+        "relative_initial_energy": 0.00019902853481244733,
+        "decay_tau_seconds_fit": 0.22084425804477487
+      },
+      {
+        "harmonic": 26,
+        "frequency_hz_fft_bin": 1911.07177734375,
+        "relative_initial_energy": 9.206736422793783e-05,
+        "decay_tau_seconds_fit": 0.4541465030172712
+      },
+      {
+        "harmonic": 27,
+        "frequency_hz_fft_bin": 1986.43798828125,
+        "relative_initial_energy": 0.00014326228212595808,
+        "decay_tau_seconds_fit": 0.22893523017149262
+      },
+      {
+        "harmonic": 28,
+        "frequency_hz_fft_bin": 2061.80419921875,
+        "relative_initial_energy": 0.0001123813348617085,
+        "decay_tau_seconds_fit": 0.13403502120383884
+      },
+      {
+        "harmonic": 29,
+        "frequency_hz_fft_bin": 2134.478759765625,
+        "relative_initial_energy": 0.0001977780345187049,
+        "decay_tau_seconds_fit": 0.19454309895341293
+      },
+      {
+        "harmonic": 30,
+        "frequency_hz_fft_bin": 2207.1533203125,
+        "relative_initial_energy": 2.789824225208784e-05,
+        "decay_tau_seconds_fit": 1.1529402380952851
+      },
+      {
+        "harmonic": 31,
+        "frequency_hz_fft_bin": 2282.51953125,
+        "relative_initial_energy": 0.0007823056650054397,
+        "decay_tau_seconds_fit": 0.12165451068978242
+      },
+      {
+        "harmonic": 32,
+        "frequency_hz_fft_bin": 2355.194091796875,
+        "relative_initial_energy": 0.00044794593554485637,
+        "decay_tau_seconds_fit": 0.42900706341350964
+      }
+    ]
+  },
+  {
+    "note": "D3",
+    "midi": 50,
+    "nominal_f0": 146.8323839587038,
+    "analysis_fft_hz_per_bin": 2.691650390625,
+    "partials": [
+      {
+        "harmonic": 1,
+        "frequency_hz_fft_bin": 145.34912109375,
+        "relative_initial_energy": 0.5763152376065221,
+        "decay_tau_seconds_fit": 3.6382977326868096
+      },
+      {
+        "harmonic": 2,
+        "frequency_hz_fft_bin": 293.389892578125,
+        "relative_initial_energy": 1.0,
+        "decay_tau_seconds_fit": 1.1333849351757015
+      },
+      {
+        "harmonic": 3,
+        "frequency_hz_fft_bin": 438.739013671875,
+        "relative_initial_energy": 0.44159275752957833,
+        "decay_tau_seconds_fit": 1.2911567063976717
+      },
+      {
+        "harmonic": 4,
+        "frequency_hz_fft_bin": 586.77978515625,
+        "relative_initial_energy": 0.2054808535613293,
+        "decay_tau_seconds_fit": 0.48309231927031554
+      },
+      {
+        "harmonic": 5,
+        "frequency_hz_fft_bin": 732.12890625,
+        "relative_initial_energy": 0.16128939504396084,
+        "decay_tau_seconds_fit": 5.0
+      },
+      {
+        "harmonic": 6,
+        "frequency_hz_fft_bin": 880.169677734375,
+        "relative_initial_energy": 0.28407007743631385,
+        "decay_tau_seconds_fit": 0.6165663747949193
+      },
+      {
+        "harmonic": 7,
+        "frequency_hz_fft_bin": 1025.518798828125,
+        "relative_initial_energy": 0.28167309781574507,
+        "decay_tau_seconds_fit": 0.6339585488766628
+      },
+      {
+        "harmonic": 8,
+        "frequency_hz_fft_bin": 1173.5595703125,
+        "relative_initial_energy": 0.03391250041717826,
+        "decay_tau_seconds_fit": 0.2702262186497866
+      },
+      {
+        "harmonic": 9,
+        "frequency_hz_fft_bin": 1318.90869140625,
+        "relative_initial_energy": 0.07488739127898934,
+        "decay_tau_seconds_fit": 0.8032509587276401
+      },
+      {
+        "harmonic": 10,
+        "frequency_hz_fft_bin": 1466.949462890625,
+        "relative_initial_energy": 0.02661769722860164,
+        "decay_tau_seconds_fit": 0.3728675702583214
+      },
+      {
+        "harmonic": 11,
+        "frequency_hz_fft_bin": 1614.990234375,
+        "relative_initial_energy": 0.00980832963163675,
+        "decay_tau_seconds_fit": 0.5458499266966604
+      },
+      {
+        "harmonic": 12,
+        "frequency_hz_fft_bin": 1760.33935546875,
+        "relative_initial_energy": 0.009855076438871315,
+        "decay_tau_seconds_fit": 0.6565450321042503
+      },
+      {
+        "harmonic": 13,
+        "frequency_hz_fft_bin": 1908.380126953125,
+        "relative_initial_energy": 0.03922093796946538,
+        "decay_tau_seconds_fit": 0.49557982392955485
+      },
+      {
+        "harmonic": 14,
+        "frequency_hz_fft_bin": 2056.4208984375,
+        "relative_initial_energy": 0.02324749673315747,
+        "decay_tau_seconds_fit": 0.3608648079549535
+      },
+      {
+        "harmonic": 15,
+        "frequency_hz_fft_bin": 2201.77001953125,
+        "relative_initial_energy": 0.008892574587214687,
+        "decay_tau_seconds_fit": 0.2512500823880127
+      },
+      {
+        "harmonic": 16,
+        "frequency_hz_fft_bin": 2349.810791015625,
+        "relative_initial_energy": 0.02334920713542475,
+        "decay_tau_seconds_fit": 0.47045186512322734
+      },
+      {
+        "harmonic": 17,
+        "frequency_hz_fft_bin": 2497.8515625,
+        "relative_initial_energy": 0.00500493495985601,
+        "decay_tau_seconds_fit": 0.31851881887516786
+      },
+      {
+        "harmonic": 18,
+        "frequency_hz_fft_bin": 2645.892333984375,
+        "relative_initial_energy": 0.01859905110908265,
+        "decay_tau_seconds_fit": 0.39364661280578067
+      },
+      {
+        "harmonic": 19,
+        "frequency_hz_fft_bin": 2793.93310546875,
+        "relative_initial_energy": 0.004173217024228175,
+        "decay_tau_seconds_fit": 0.2496319677238598
+      },
+      {
+        "harmonic": 20,
+        "frequency_hz_fft_bin": 2941.973876953125,
+        "relative_initial_energy": 0.0036189521063389333,
+        "decay_tau_seconds_fit": 0.1135649059764802
+      },
+      {
+        "harmonic": 21,
+        "frequency_hz_fft_bin": 3090.0146484375,
+        "relative_initial_energy": 0.003719363121632586,
+        "decay_tau_seconds_fit": 0.1276667729400339
+      },
+      {
+        "harmonic": 22,
+        "frequency_hz_fft_bin": 3227.288818359375,
+        "relative_initial_energy": 1.8243086916288194e-05,
+        "decay_tau_seconds_fit": 0.7738903473942101
+      },
+      {
+        "harmonic": 23,
+        "frequency_hz_fft_bin": 3383.404541015625,
+        "relative_initial_energy": 0.001451813012008951,
+        "decay_tau_seconds_fit": 0.0822933714153421
+      },
+      {
+        "harmonic": 24,
+        "frequency_hz_fft_bin": 3528.753662109375,
+        "relative_initial_energy": 0.0012629022584762632,
+        "decay_tau_seconds_fit": 0.0684996723238089
+      },
+      {
+        "harmonic": 25,
+        "frequency_hz_fft_bin": 3676.79443359375,
+        "relative_initial_energy": 0.0017498435023671894,
+        "decay_tau_seconds_fit": 0.05773479763428156
+      },
+      {
+        "harmonic": 26,
+        "frequency_hz_fft_bin": 3819.451904296875,
+        "relative_initial_energy": 9.165514436257345e-05,
+        "decay_tau_seconds_fit": 0.4414187530745381
+      },
+      {
+        "harmonic": 27,
+        "frequency_hz_fft_bin": 3967.49267578125,
+        "relative_initial_energy": 4.534691425279476e-05,
+        "decay_tau_seconds_fit": 1.5017832416570345
+      },
+      {
+        "harmonic": 28,
+        "frequency_hz_fft_bin": 4112.841796875,
+        "relative_initial_energy": 7.4558920819873715e-06,
+        "decay_tau_seconds_fit": 5.0
+      },
+      {
+        "harmonic": 29,
+        "frequency_hz_fft_bin": 4263.57421875,
+        "relative_initial_energy": 2.1570648068791165e-05,
+        "decay_tau_seconds_fit": 0.7014369348240664
+      },
+      {
+        "harmonic": 30,
+        "frequency_hz_fft_bin": 4406.231689453125,
+        "relative_initial_energy": 3.721297131365896e-05,
+        "decay_tau_seconds_fit": 0.5138102919630888
+      },
+      {
+        "harmonic": 31,
+        "frequency_hz_fft_bin": 4546.197509765625,
+        "relative_initial_energy": 6.193447138049522e-06,
+        "decay_tau_seconds_fit": 2.1348210021335574
+      },
+      {
+        "harmonic": 32,
+        "frequency_hz_fft_bin": 4696.929931640625,
+        "relative_initial_energy": 2.6543135745626098e-05,
+        "decay_tau_seconds_fit": 1.2019098018040606
+      }
+    ]
+  },
+  {
+    "note": "D5",
+    "midi": 74,
+    "nominal_f0": 587.3295358348151,
+    "analysis_fft_hz_per_bin": 2.691650390625,
+    "partials": [
+      {
+        "harmonic": 1,
+        "frequency_hz_fft_bin": 586.77978515625,
+        "relative_initial_energy": 1.0,
+        "decay_tau_seconds_fit": 0.4722428623810867
+      },
+      {
+        "harmonic": 2,
+        "frequency_hz_fft_bin": 1178.94287109375,
+        "relative_initial_energy": 0.013005830359565049,
+        "decay_tau_seconds_fit": 0.9614496474841671
+      },
+      {
+        "harmonic": 3,
+        "frequency_hz_fft_bin": 1763.031005859375,
+        "relative_initial_energy": 0.10968670821774179,
+        "decay_tau_seconds_fit": 0.11910247837705698
+      },
+      {
+        "harmonic": 4,
+        "frequency_hz_fft_bin": 2349.810791015625,
+        "relative_initial_energy": 0.030386488772796434,
+        "decay_tau_seconds_fit": 0.12988546828890224
+      },
+      {
+        "harmonic": 5,
+        "frequency_hz_fft_bin": 2939.2822265625,
+        "relative_initial_energy": 0.014816752874196672,
+        "decay_tau_seconds_fit": 0.1072364855672096
+      },
+      {
+        "harmonic": 6,
+        "frequency_hz_fft_bin": 3528.753662109375,
+        "relative_initial_energy": 0.008739013197329048,
+        "decay_tau_seconds_fit": 0.7019275877587601
+      },
+      {
+        "harmonic": 7,
+        "frequency_hz_fft_bin": 4107.45849609375,
+        "relative_initial_energy": 0.0034574294456749506,
+        "decay_tau_seconds_fit": 1.3462060610663695
+      },
+      {
+        "harmonic": 8,
+        "frequency_hz_fft_bin": 4699.62158203125,
+        "relative_initial_energy": 0.005651559651265097,
+        "decay_tau_seconds_fit": 0.8630764301647109
+      },
+      {
+        "harmonic": 9,
+        "frequency_hz_fft_bin": 5291.78466796875,
+        "relative_initial_energy": 0.0033711488445349953,
+        "decay_tau_seconds_fit": 2.3451089856196266
+      },
+      {
+        "harmonic": 10,
+        "frequency_hz_fft_bin": 5867.7978515625,
+        "relative_initial_energy": 0.0026448833899487554,
+        "decay_tau_seconds_fit": 1.7909594116620657
+      },
+      {
+        "harmonic": 11,
+        "frequency_hz_fft_bin": 6454.57763671875,
+        "relative_initial_energy": 0.0034848031220411657,
+        "decay_tau_seconds_fit": 0.48983499863034596
+      },
+      {
+        "harmonic": 12,
+        "frequency_hz_fft_bin": 7052.1240234375,
+        "relative_initial_energy": 0.002249266026141218,
+        "decay_tau_seconds_fit": 0.4053646073457943
+      },
+      {
+        "harmonic": 13,
+        "frequency_hz_fft_bin": 7633.5205078125,
+        "relative_initial_energy": 0.0010934852857497315,
+        "decay_tau_seconds_fit": 0.5348932790263993
+      },
+      {
+        "harmonic": 14,
+        "frequency_hz_fft_bin": 8217.608642578125,
+        "relative_initial_energy": 0.004462533337716759,
+        "decay_tau_seconds_fit": 0.13337106772806936
+      },
+      {
+        "harmonic": 15,
+        "frequency_hz_fft_bin": 8815.155029296875,
+        "relative_initial_energy": 0.016045061841292684,
+        "decay_tau_seconds_fit": 0.3
+      },
+      {
+        "harmonic": 16,
+        "frequency_hz_fft_bin": 9391.168212890625,
+        "relative_initial_energy": 0.0006519361119427037,
+        "decay_tau_seconds_fit": 0.19728043969046796
+      },
+      {
+        "harmonic": 17,
+        "frequency_hz_fft_bin": 9977.947998046875,
+        "relative_initial_energy": 0.00033101906078985015,
+        "decay_tau_seconds_fit": 5.0
+      },
+      {
+        "harmonic": 18,
+        "frequency_hz_fft_bin": 10578.18603515625,
+        "relative_initial_energy": 7.298241532733519e-05,
+        "decay_tau_seconds_fit": 5.0
+      },
+      {
+        "harmonic": 19,
+        "frequency_hz_fft_bin": 11164.9658203125,
+        "relative_initial_energy": 0.0001793374020815248,
+        "decay_tau_seconds_fit": 1.9696008056777203
+      },
+      {
+        "harmonic": 20,
+        "frequency_hz_fft_bin": 11749.053955078125,
+        "relative_initial_energy": 3.680059667871567e-05,
+        "decay_tau_seconds_fit": 0.8631967378080858
+      },
+      {
+        "harmonic": 21,
+        "frequency_hz_fft_bin": 12338.525390625,
+        "relative_initial_energy": 2.4046011260002828e-05,
+        "decay_tau_seconds_fit": 2.9351078010672933
+      },
+      {
+        "harmonic": 22,
+        "frequency_hz_fft_bin": 12914.53857421875,
+        "relative_initial_energy": 8.244974477373555e-05,
+        "decay_tau_seconds_fit": 5.0
+      },
+      {
+        "harmonic": 23,
+        "frequency_hz_fft_bin": 13506.70166015625,
+        "relative_initial_energy": 2.835153505375704e-05,
+        "decay_tau_seconds_fit": 5.0
+      },
+      {
+        "harmonic": 24,
+        "frequency_hz_fft_bin": 14101.556396484375,
+        "relative_initial_energy": 0.00022657981467756656,
+        "decay_tau_seconds_fit": 0.20014988688777136
+      },
+      {
+        "harmonic": 25,
+        "frequency_hz_fft_bin": 14677.569580078125,
+        "relative_initial_energy": 5.149041457743836e-05,
+        "decay_tau_seconds_fit": 4.011389872207103
+      },
+      {
+        "harmonic": 26,
+        "frequency_hz_fft_bin": 15275.115966796875,
+        "relative_initial_energy": 7.110319915148569e-06,
+        "decay_tau_seconds_fit": 5.0
+      },
+      {
+        "harmonic": 27,
+        "frequency_hz_fft_bin": 15861.895751953125,
+        "relative_initial_energy": 3.4653226327666593e-06,
+        "decay_tau_seconds_fit": 5.0
+      },
+      {
+        "harmonic": 28,
+        "frequency_hz_fft_bin": 16440.6005859375,
+        "relative_initial_energy": 1.2521695702619709e-05,
+        "decay_tau_seconds_fit": 0.6745044658306124
+      },
+      {
+        "harmonic": 29,
+        "frequency_hz_fft_bin": 17027.38037109375,
+        "relative_initial_energy": 5.274461446387129e-05,
+        "decay_tau_seconds_fit": 0.14817054658477188
+      },
+      {
+        "harmonic": 30,
+        "frequency_hz_fft_bin": 17614.16015625,
+        "relative_initial_energy": 1.0044496818729523e-06,
+        "decay_tau_seconds_fit": 0.3174733189848907
+      },
+      {
+        "harmonic": 31,
+        "frequency_hz_fft_bin": 18203.631591796875,
+        "relative_initial_energy": 1.0631519147590793e-06,
+        "decay_tau_seconds_fit": 0.40695016490519625
+      },
+      {
+        "harmonic": 32,
+        "frequency_hz_fft_bin": 18801.177978515625,
+        "relative_initial_energy": 7.071302841141553e-05,
+        "decay_tau_seconds_fit": 0.1467814567207216
+      }
+    ]
+  },
+  {
+    "note": "D#4",
+    "midi": 63,
+    "nominal_f0": 311.1269837220809,
+    "analysis_fft_hz_per_bin": 2.691650390625,
+    "partials": [
+      {
+        "harmonic": 1,
+        "frequency_hz_fft_bin": 309.539794921875,
+        "relative_initial_energy": 0.692354101808556,
+        "decay_tau_seconds_fit": 0.8480860210920461
+      },
+      {
+        "harmonic": 2,
+        "frequency_hz_fft_bin": 621.771240234375,
+        "relative_initial_energy": 1.0,
+        "decay_tau_seconds_fit": 0.6488848994302776
+      },
+      {
+        "harmonic": 3,
+        "frequency_hz_fft_bin": 931.31103515625,
+        "relative_initial_energy": 0.24462331200635049,
+        "decay_tau_seconds_fit": 0.4706857619928205
+      },
+      {
+        "harmonic": 4,
+        "frequency_hz_fft_bin": 1243.54248046875,
+        "relative_initial_energy": 0.07152944331190857,
+        "decay_tau_seconds_fit": 0.33016254236910375
+      },
+      {
+        "harmonic": 5,
+        "frequency_hz_fft_bin": 1555.77392578125,
+        "relative_initial_energy": 0.23491611505805526,
+        "decay_tau_seconds_fit": 0.30577701042781785
+      },
+      {
+        "harmonic": 6,
+        "frequency_hz_fft_bin": 1870.697021484375,
+        "relative_initial_energy": 0.26559671354617465,
+        "decay_tau_seconds_fit": 0.27404956476452125
+      },
+      {
+        "harmonic": 7,
+        "frequency_hz_fft_bin": 2182.928466796875,
+        "relative_initial_energy": 0.1080027021886775,
+        "decay_tau_seconds_fit": 0.2443443004082974
+      },
+      {
+        "harmonic": 8,
+        "frequency_hz_fft_bin": 2495.159912109375,
+        "relative_initial_energy": 0.019368741052934364,
+        "decay_tau_seconds_fit": 0.16791864410294244
+      },
+      {
+        "harmonic": 9,
+        "frequency_hz_fft_bin": 2796.624755859375,
+        "relative_initial_energy": 0.03582991574488095,
+        "decay_tau_seconds_fit": 0.146715935311729
+      },
+      {
+        "harmonic": 10,
+        "frequency_hz_fft_bin": 3108.856201171875,
+        "relative_initial_energy": 0.0014571986341576134,
+        "decay_tau_seconds_fit": 0.15414603975772198
+      },
+      {
+        "harmonic": 11,
+        "frequency_hz_fft_bin": 3426.470947265625,
+        "relative_initial_energy": 0.0013175325707854854,
+        "decay_tau_seconds_fit": 0.11339759921344432
+      },
+      {
+        "harmonic": 12,
+        "frequency_hz_fft_bin": 3738.702392578125,
+        "relative_initial_energy": 0.0013156561628701196,
+        "decay_tau_seconds_fit": 0.14475542236788455
+      },
+      {
+        "harmonic": 13,
+        "frequency_hz_fft_bin": 4050.933837890625,
+        "relative_initial_energy": 0.0009731426260551963,
+        "decay_tau_seconds_fit": 0.11548368308904351
+      },
+      {
+        "harmonic": 14,
+        "frequency_hz_fft_bin": 4352.398681640625,
+        "relative_initial_energy": 0.0002351160235933328,
+        "decay_tau_seconds_fit": 0.04597722200374201
+      },
+      {
+        "harmonic": 15,
+        "frequency_hz_fft_bin": 4667.32177734375,
+        "relative_initial_energy": 3.352038009453393e-05,
+        "decay_tau_seconds_fit": 5.0
+      },
+      {
+        "harmonic": 16,
+        "frequency_hz_fft_bin": 4979.55322265625,
+        "relative_initial_energy": 6.949377470156694e-05,
+        "decay_tau_seconds_fit": 1.158552279210146
+      },
+      {
+        "harmonic": 17,
+        "frequency_hz_fft_bin": 5283.709716796875,
+        "relative_initial_energy": 8.910672399234338e-05,
+        "decay_tau_seconds_fit": 1.213147471045471
+      },
+      {
+        "harmonic": 18,
+        "frequency_hz_fft_bin": 5601.324462890625,
+        "relative_initial_energy": 7.078127762207245e-05,
+        "decay_tau_seconds_fit": 1.5273533313443122
+      },
+      {
+        "harmonic": 19,
+        "frequency_hz_fft_bin": 5916.24755859375,
+        "relative_initial_energy": 7.379791573351891e-06,
+        "decay_tau_seconds_fit": 5.0
+      },
+      {
+        "harmonic": 20,
+        "frequency_hz_fft_bin": 6223.095703125,
+        "relative_initial_energy": 3.0629094799243767e-05,
+        "decay_tau_seconds_fit": 4.537106424609846
+      },
+      {
+        "harmonic": 21,
+        "frequency_hz_fft_bin": 6538.018798828125,
+        "relative_initial_energy": 1.9855884343582588e-05,
+        "decay_tau_seconds_fit": 1.886661462700004
+      },
+      {
+        "harmonic": 22,
+        "frequency_hz_fft_bin": 6842.17529296875,
+        "relative_initial_energy": 9.457115097748826e-06,
+        "decay_tau_seconds_fit": 5.0
+      },
+      {
+        "harmonic": 23,
+        "frequency_hz_fft_bin": 7157.098388671875,
+        "relative_initial_energy": 9.12803083510181e-06,
+        "decay_tau_seconds_fit": 1.9567853375775328
+      },
+      {
+        "harmonic": 24,
+        "frequency_hz_fft_bin": 7469.329833984375,
+        "relative_initial_energy": 9.581542864490337e-06,
+        "decay_tau_seconds_fit": 5.0
+      },
+      {
+        "harmonic": 25,
+        "frequency_hz_fft_bin": 7773.486328125,
+        "relative_initial_energy": 2.335847407357261e-05,
+        "decay_tau_seconds_fit": 2.163804260621971
+      },
+      {
+        "harmonic": 26,
+        "frequency_hz_fft_bin": 8083.026123046875,
+        "relative_initial_energy": 8.277089787757752e-06,
+        "decay_tau_seconds_fit": 5.0
+      },
+      {
+        "harmonic": 27,
+        "frequency_hz_fft_bin": 8403.33251953125,
+        "relative_initial_energy": 8.335821209586498e-06,
+        "decay_tau_seconds_fit": 5.0
+      },
+      {
+        "harmonic": 28,
+        "frequency_hz_fft_bin": 8712.872314453125,
+        "relative_initial_energy": 3.667791357700027e-05,
+        "decay_tau_seconds_fit": 5.0
+      },
+      {
+        "harmonic": 29,
+        "frequency_hz_fft_bin": 9027.79541015625,
+        "relative_initial_energy": 4.1839105078307204e-05,
+        "decay_tau_seconds_fit": 1.6996898170183834
+      },
+      {
+        "harmonic": 30,
+        "frequency_hz_fft_bin": 9329.26025390625,
+        "relative_initial_energy": 1.4228716023478952e-05,
+        "decay_tau_seconds_fit": 5.0
+      },
+      {
+        "harmonic": 31,
+        "frequency_hz_fft_bin": 9649.566650390625,
+        "relative_initial_energy": 1.1561795102360533e-05,
+        "decay_tau_seconds_fit": 4.092116321109387
+      },
+      {
+        "harmonic": 32,
+        "frequency_hz_fft_bin": 9953.72314453125,
+        "relative_initial_energy": 6.302173455334843e-06,
+        "decay_tau_seconds_fit": 5.0
+      }
+    ]
+  },
+  {
+    "note": "E2",
+    "midi": 40,
+    "nominal_f0": 82.4068892282175,
+    "analysis_fft_hz_per_bin": 2.691650390625,
+    "partials": [
+      {
+        "harmonic": 1,
+        "frequency_hz_fft_bin": 83.441162109375,
+        "relative_initial_energy": 0.14940388597799945,
+        "decay_tau_seconds_fit": 1.378612517593315
+      },
+      {
+        "harmonic": 2,
+        "frequency_hz_fft_bin": 164.190673828125,
+        "relative_initial_energy": 0.9329074987105527,
+        "decay_tau_seconds_fit": 1.8285196599756792
+      },
+      {
+        "harmonic": 3,
+        "frequency_hz_fft_bin": 247.6318359375,
+        "relative_initial_energy": 0.5088992054327726,
+        "decay_tau_seconds_fit": 5.0
+      },
+      {
+        "harmonic": 4,
+        "frequency_hz_fft_bin": 328.38134765625,
+        "relative_initial_energy": 1.0,
+        "decay_tau_seconds_fit": 1.2049915557959412
+      },
+      {
+        "harmonic": 5,
+        "frequency_hz_fft_bin": 411.822509765625,
+        "relative_initial_energy": 0.615206591937121,
+        "decay_tau_seconds_fit": 1.1903230230689896
+      },
+      {
+        "harmonic": 6,
+        "frequency_hz_fft_bin": 495.263671875,
+        "relative_initial_energy": 0.38474019569957296,
+        "decay_tau_seconds_fit": 1.1640743300657657
+      },
+      {
+        "harmonic": 7,
+        "frequency_hz_fft_bin": 576.01318359375,
+        "relative_initial_energy": 0.07281224368907711,
+        "decay_tau_seconds_fit": 1.0200435417659925
+      },
+      {
+        "harmonic": 8,
+        "frequency_hz_fft_bin": 659.454345703125,
+        "relative_initial_energy": 0.061061664379860665,
+        "decay_tau_seconds_fit": 0.8296538205766276
+      },
+      {
+        "harmonic": 9,
+        "frequency_hz_fft_bin": 740.203857421875,
+        "relative_initial_energy": 0.23449736292189077,
+        "decay_tau_seconds_fit": 0.5653595140327545
+      },
+      {
+        "harmonic": 10,
+        "frequency_hz_fft_bin": 823.64501953125,
+        "relative_initial_energy": 0.24262040486976985,
+        "decay_tau_seconds_fit": 0.9138892770146423
+      },
+      {
+        "harmonic": 11,
+        "frequency_hz_fft_bin": 907.086181640625,
+        "relative_initial_energy": 0.1065007291816653,
+        "decay_tau_seconds_fit": 1.228415955197664
+      },
+      {
+        "harmonic": 12,
+        "frequency_hz_fft_bin": 990.52734375,
+        "relative_initial_energy": 0.21840013067465117,
+        "decay_tau_seconds_fit": 0.6433436063045394
+      },
+      {
+        "harmonic": 13,
+        "frequency_hz_fft_bin": 1073.968505859375,
+        "relative_initial_energy": 0.1814967595372131,
+        "decay_tau_seconds_fit": 0.7004171147649746
+      },
+      {
+        "harmonic": 14,
+        "frequency_hz_fft_bin": 1154.718017578125,
+        "relative_initial_energy": 0.010206531859489994,
+        "decay_tau_seconds_fit": 1.3481744597079404
+      },
+      {
+        "harmonic": 15,
+        "frequency_hz_fft_bin": 1238.1591796875,
+        "relative_initial_energy": 0.012930022264270164,
+        "decay_tau_seconds_fit": 0.20654359812927348
+      },
+      {
+        "harmonic": 16,
+        "frequency_hz_fft_bin": 1318.90869140625,
+        "relative_initial_energy": 0.036403528301195115,
+        "decay_tau_seconds_fit": 0.4349631553355462
+      },
+      {
+        "harmonic": 17,
+        "frequency_hz_fft_bin": 1405.04150390625,
+        "relative_initial_energy": 0.03383846678073114,
+        "decay_tau_seconds_fit": 0.34158168673469397
+      },
+      {
+        "harmonic": 18,
+        "frequency_hz_fft_bin": 1488.482666015625,
+        "relative_initial_energy": 0.07505678100653813,
+        "decay_tau_seconds_fit": 0.3860754634438515
+      },
+      {
+        "harmonic": 19,
+        "frequency_hz_fft_bin": 1571.923828125,
+        "relative_initial_energy": 0.0353556790333593,
+        "decay_tau_seconds_fit": 0.32559564220355514
+      },
+      {
+        "harmonic": 20,
+        "frequency_hz_fft_bin": 1652.67333984375,
+        "relative_initial_energy": 0.022718135998824062,
+        "decay_tau_seconds_fit": 0.33505064718978267
+      },
+      {
+        "harmonic": 21,
+        "frequency_hz_fft_bin": 1736.114501953125,
+        "relative_initial_energy": 0.03300445276460571,
+        "decay_tau_seconds_fit": 0.323958411283781
+      },
+      {
+        "harmonic": 22,
+        "frequency_hz_fft_bin": 1814.17236328125,
+        "relative_initial_energy": 0.0033897411420549034,
+        "decay_tau_seconds_fit": 0.2513130583494949
+      },
+      {
+        "harmonic": 23,
+        "frequency_hz_fft_bin": 1897.613525390625,
+        "relative_initial_energy": 0.0016878448392247706,
+        "decay_tau_seconds_fit": 0.13867166804288253
+      },
+      {
+        "harmonic": 24,
+        "frequency_hz_fft_bin": 1978.363037109375,
+        "relative_initial_energy": 0.0017525393067079026,
+        "decay_tau_seconds_fit": 0.19207011559426082
+      },
+      {
+        "harmonic": 25,
+        "frequency_hz_fft_bin": 2061.80419921875,
+        "relative_initial_energy": 0.05043993122123737,
+        "decay_tau_seconds_fit": 0.35720149587165556
+      },
+      {
+        "harmonic": 26,
+        "frequency_hz_fft_bin": 2145.245361328125,
+        "relative_initial_energy": 0.0004795310979343533,
+        "decay_tau_seconds_fit": 0.2307042141314873
+      },
+      {
+        "harmonic": 27,
+        "frequency_hz_fft_bin": 2225.994873046875,
+        "relative_initial_energy": 0.0012553658372404164,
+        "decay_tau_seconds_fit": 0.11883832025645048
+      },
+      {
+        "harmonic": 28,
+        "frequency_hz_fft_bin": 2312.127685546875,
+        "relative_initial_energy": 0.0004017081966142105,
+        "decay_tau_seconds_fit": 0.19918957844115898
+      },
+      {
+        "harmonic": 29,
+        "frequency_hz_fft_bin": 2395.56884765625,
+        "relative_initial_energy": 0.0003183828917803624,
+        "decay_tau_seconds_fit": 0.26347623361994743
+      },
+      {
+        "harmonic": 30,
+        "frequency_hz_fft_bin": 2476.318359375,
+        "relative_initial_energy": 0.002788961363740774,
+        "decay_tau_seconds_fit": 0.12389888987939977
+      },
+      {
+        "harmonic": 31,
+        "frequency_hz_fft_bin": 2548.992919921875,
+        "relative_initial_energy": 0.00011232445767463134,
+        "decay_tau_seconds_fit": 0.49560709568063016
+      },
+      {
+        "harmonic": 32,
+        "frequency_hz_fft_bin": 2643.20068359375,
+        "relative_initial_energy": 0.006964997709625719,
+        "decay_tau_seconds_fit": 0.11769664099367957
+      }
+    ]
+  },
+  {
+    "note": "E3",
+    "midi": 52,
+    "nominal_f0": 164.81377845643496,
+    "analysis_fft_hz_per_bin": 2.691650390625,
+    "partials": [
+      {
+        "harmonic": 1,
+        "frequency_hz_fft_bin": 164.190673828125,
+        "relative_initial_energy": 0.466116834673254,
+        "decay_tau_seconds_fit": 0.926328575201174
+      },
+      {
+        "harmonic": 2,
+        "frequency_hz_fft_bin": 328.38134765625,
+        "relative_initial_energy": 0.98327771049078,
+        "decay_tau_seconds_fit": 0.6933552134224249
+      },
+      {
+        "harmonic": 3,
+        "frequency_hz_fft_bin": 492.572021484375,
+        "relative_initial_energy": 0.5991404074009943,
+        "decay_tau_seconds_fit": 0.8106071649189425
+      },
+      {
+        "harmonic": 4,
+        "frequency_hz_fft_bin": 659.454345703125,
+        "relative_initial_energy": 0.6689134374310182,
+        "decay_tau_seconds_fit": 1.6927958794097129
+      },
+      {
+        "harmonic": 5,
+        "frequency_hz_fft_bin": 823.64501953125,
+        "relative_initial_energy": 0.4693230742943814,
+        "decay_tau_seconds_fit": 0.8024286258244684
+      },
+      {
+        "harmonic": 6,
+        "frequency_hz_fft_bin": 987.835693359375,
+        "relative_initial_energy": 1.0,
+        "decay_tau_seconds_fit": 0.5867511227005734
+      },
+      {
+        "harmonic": 7,
+        "frequency_hz_fft_bin": 1152.0263671875,
+        "relative_initial_energy": 0.2038791084894567,
+        "decay_tau_seconds_fit": 1.1893528378113722
+      },
+      {
+        "harmonic": 8,
+        "frequency_hz_fft_bin": 1318.90869140625,
+        "relative_initial_energy": 0.1366276806229471,
+        "decay_tau_seconds_fit": 0.6969796608191788
+      },
+      {
+        "harmonic": 9,
+        "frequency_hz_fft_bin": 1483.099365234375,
+        "relative_initial_energy": 0.7984280824144092,
+        "decay_tau_seconds_fit": 0.4592521852303513
+      },
+      {
+        "harmonic": 10,
+        "frequency_hz_fft_bin": 1647.2900390625,
+        "relative_initial_energy": 0.29039314901628493,
+        "decay_tau_seconds_fit": 0.5616218720836431
+      },
+      {
+        "harmonic": 11,
+        "frequency_hz_fft_bin": 1814.17236328125,
+        "relative_initial_energy": 0.3667405827935367,
+        "decay_tau_seconds_fit": 0.5001470756423707
+      },
+      {
+        "harmonic": 12,
+        "frequency_hz_fft_bin": 1978.363037109375,
+        "relative_initial_energy": 0.23792624421772351,
+        "decay_tau_seconds_fit": 0.5062459829733637
+      },
+      {
+        "harmonic": 13,
+        "frequency_hz_fft_bin": 2142.5537109375,
+        "relative_initial_energy": 0.059111318144783154,
+        "decay_tau_seconds_fit": 0.42564436133131056
+      },
+      {
+        "harmonic": 14,
+        "frequency_hz_fft_bin": 2309.43603515625,
+        "relative_initial_energy": 0.12013904310179034,
+        "decay_tau_seconds_fit": 0.37129216804211274
+      },
+      {
+        "harmonic": 15,
+        "frequency_hz_fft_bin": 2476.318359375,
+        "relative_initial_energy": 0.06372101126493539,
+        "decay_tau_seconds_fit": 0.2544639721515121
+      },
+      {
+        "harmonic": 16,
+        "frequency_hz_fft_bin": 2640.509033203125,
+        "relative_initial_energy": 0.163748008765745,
+        "decay_tau_seconds_fit": 0.31526549908672724
+      },
+      {
+        "harmonic": 17,
+        "frequency_hz_fft_bin": 2807.391357421875,
+        "relative_initial_energy": 0.01655979416267756,
+        "decay_tau_seconds_fit": 0.24047791571279106
+      },
+      {
+        "harmonic": 18,
+        "frequency_hz_fft_bin": 2971.58203125,
+        "relative_initial_energy": 0.06695728335623652,
+        "decay_tau_seconds_fit": 0.21376426847940852
+      },
+      {
+        "harmonic": 19,
+        "frequency_hz_fft_bin": 3135.772705078125,
+        "relative_initial_energy": 0.012479088162674094,
+        "decay_tau_seconds_fit": 0.13178563727218953
+      },
+      {
+        "harmonic": 20,
+        "frequency_hz_fft_bin": 3302.655029296875,
+        "relative_initial_energy": 0.019594938879122288,
+        "decay_tau_seconds_fit": 0.09954317869003385
+      },
+      {
+        "harmonic": 21,
+        "frequency_hz_fft_bin": 3461.46240234375,
+        "relative_initial_energy": 0.002801646561706657,
+        "decay_tau_seconds_fit": 0.19009244860740515
+      },
+      {
+        "harmonic": 22,
+        "frequency_hz_fft_bin": 3625.653076171875,
+        "relative_initial_energy": 0.01813371462791485,
+        "decay_tau_seconds_fit": 0.23606677167007367
+      },
+      {
+        "harmonic": 23,
+        "frequency_hz_fft_bin": 3789.84375,
+        "relative_initial_energy": 0.023682048273280656,
+        "decay_tau_seconds_fit": 0.21389978990398043
+      },
+      {
+        "harmonic": 24,
+        "frequency_hz_fft_bin": 3956.72607421875,
+        "relative_initial_energy": 0.005020763922192501,
+        "decay_tau_seconds_fit": 0.15742038077893303
+      },
+      {
+        "harmonic": 25,
+        "frequency_hz_fft_bin": 4123.6083984375,
+        "relative_initial_energy": 0.0048810249832147625,
+        "decay_tau_seconds_fit": 0.19509770721382325
+      },
+      {
+        "harmonic": 26,
+        "frequency_hz_fft_bin": 4290.49072265625,
+        "relative_initial_energy": 0.0025081160873227032,
+        "decay_tau_seconds_fit": 0.19469693379302372
+      },
+      {
+        "harmonic": 27,
+        "frequency_hz_fft_bin": 4451.98974609375,
+        "relative_initial_energy": 0.0005331921626872625,
+        "decay_tau_seconds_fit": 0.0960361769541344
+      },
+      {
+        "harmonic": 28,
+        "frequency_hz_fft_bin": 4618.8720703125,
+        "relative_initial_energy": 0.02507290899969802,
+        "decay_tau_seconds_fit": 0.13980072034125338
+      },
+      {
+        "harmonic": 29,
+        "frequency_hz_fft_bin": 4783.062744140625,
+        "relative_initial_energy": 0.0033050780779110746,
+        "decay_tau_seconds_fit": 0.07574043921316605
+      },
+      {
+        "harmonic": 30,
+        "frequency_hz_fft_bin": 4949.945068359375,
+        "relative_initial_energy": 0.017661906418469826,
+        "decay_tau_seconds_fit": 0.13652018206365155
+      },
+      {
+        "harmonic": 31,
+        "frequency_hz_fft_bin": 5114.1357421875,
+        "relative_initial_energy": 0.00018653141584196298,
+        "decay_tau_seconds_fit": 0.19961582152220053
+      },
+      {
+        "harmonic": 32,
+        "frequency_hz_fft_bin": 5278.326416015625,
+        "relative_initial_energy": 0.001736246820923079,
+        "decay_tau_seconds_fit": 0.059510867309724
+      }
+    ]
+  },
+  {
+    "note": "E4",
+    "midi": 64,
+    "nominal_f0": 329.6275569128699,
+    "analysis_fft_hz_per_bin": 2.691650390625,
+    "partials": [
+      {
+        "harmonic": 1,
+        "frequency_hz_fft_bin": 328.38134765625,
+        "relative_initial_energy": 1.0,
+        "decay_tau_seconds_fit": 0.5408160704448756
+      },
+      {
+        "harmonic": 2,
+        "frequency_hz_fft_bin": 656.7626953125,
+        "relative_initial_energy": 0.8690411852070877,
+        "decay_tau_seconds_fit": 0.425806627020489
+      },
+      {
+        "harmonic": 3,
+        "frequency_hz_fft_bin": 987.835693359375,
+        "relative_initial_energy": 0.45701992694657595,
+        "decay_tau_seconds_fit": 0.3879398695403108
+      },
+      {
+        "harmonic": 4,
+        "frequency_hz_fft_bin": 1316.217041015625,
+        "relative_initial_energy": 0.20901646988609635,
+        "decay_tau_seconds_fit": 0.4114017256918909
+      },
+      {
+        "harmonic": 5,
+        "frequency_hz_fft_bin": 1647.2900390625,
+        "relative_initial_energy": 0.21392949986049006,
+        "decay_tau_seconds_fit": 0.28961844761292066
+      },
+      {
+        "harmonic": 6,
+        "frequency_hz_fft_bin": 1975.67138671875,
+        "relative_initial_energy": 0.5937675642642881,
+        "decay_tau_seconds_fit": 0.23539767453706634
+      },
+      {
+        "harmonic": 7,
+        "frequency_hz_fft_bin": 2306.744384765625,
+        "relative_initial_energy": 0.7488443306797823,
+        "decay_tau_seconds_fit": 0.23761770821302916
+      },
+      {
+        "harmonic": 8,
+        "frequency_hz_fft_bin": 2635.125732421875,
+        "relative_initial_energy": 0.23647370294108808,
+        "decay_tau_seconds_fit": 0.2498775348492993
+      },
+      {
+        "harmonic": 9,
+        "frequency_hz_fft_bin": 2966.19873046875,
+        "relative_initial_energy": 0.14571143908412793,
+        "decay_tau_seconds_fit": 0.18666124480420684
+      },
+      {
+        "harmonic": 10,
+        "frequency_hz_fft_bin": 3297.271728515625,
+        "relative_initial_energy": 0.33172731877073636,
+        "decay_tau_seconds_fit": 0.1559764300133442
+      },
+      {
+        "harmonic": 11,
+        "frequency_hz_fft_bin": 3631.036376953125,
+        "relative_initial_energy": 0.051817768872759296,
+        "decay_tau_seconds_fit": 0.17491031764548373
+      },
+      {
+        "harmonic": 12,
+        "frequency_hz_fft_bin": 3959.417724609375,
+        "relative_initial_energy": 0.03182041174070597,
+        "decay_tau_seconds_fit": 0.15570808867468802
+      },
+      {
+        "harmonic": 13,
+        "frequency_hz_fft_bin": 4290.49072265625,
+        "relative_initial_energy": 0.01836643361971229,
+        "decay_tau_seconds_fit": 0.07736974530693172
+      },
+      {
+        "harmonic": 14,
+        "frequency_hz_fft_bin": 4613.48876953125,
+        "relative_initial_energy": 0.01423062723480487,
+        "decay_tau_seconds_fit": 0.10901007932415967
+      },
+      {
+        "harmonic": 15,
+        "frequency_hz_fft_bin": 4941.8701171875,
+        "relative_initial_energy": 0.01399302711345048,
+        "decay_tau_seconds_fit": 0.11196495884944431
+      },
+      {
+        "harmonic": 16,
+        "frequency_hz_fft_bin": 5272.943115234375,
+        "relative_initial_energy": 0.05219086966086462,
+        "decay_tau_seconds_fit": 0.08240680829914311
+      },
+      {
+        "harmonic": 17,
+        "frequency_hz_fft_bin": 5604.01611328125,
+        "relative_initial_energy": 0.0044346886997513255,
+        "decay_tau_seconds_fit": 0.13631170571101456
+      },
+      {
+        "harmonic": 18,
+        "frequency_hz_fft_bin": 5932.3974609375,
+        "relative_initial_energy": 0.012544946802964993,
+        "decay_tau_seconds_fit": 0.08479980590585032
+      },
+      {
+        "harmonic": 19,
+        "frequency_hz_fft_bin": 6258.087158203125,
+        "relative_initial_energy": 0.0011339175274147596,
+        "decay_tau_seconds_fit": 0.04266281113625956
+      },
+      {
+        "harmonic": 20,
+        "frequency_hz_fft_bin": 6589.16015625,
+        "relative_initial_energy": 0.0013115913232990693,
+        "decay_tau_seconds_fit": 0.04324153993577254
+      },
+      {
+        "harmonic": 21,
+        "frequency_hz_fft_bin": 6928.30810546875,
+        "relative_initial_energy": 0.0007908438047471087,
+        "decay_tau_seconds_fit": 0.06201843383805244
+      },
+      {
+        "harmonic": 22,
+        "frequency_hz_fft_bin": 7248.614501953125,
+        "relative_initial_energy": 0.00034043065904141385,
+        "decay_tau_seconds_fit": 0.04604559853565831
+      },
+      {
+        "harmonic": 23,
+        "frequency_hz_fft_bin": 7587.762451171875,
+        "relative_initial_energy": 0.003383868840874003,
+        "decay_tau_seconds_fit": 0.054799154580679015
+      },
+      {
+        "harmonic": 24,
+        "frequency_hz_fft_bin": 7916.143798828125,
+        "relative_initial_energy": 7.301107079899907e-05,
+        "decay_tau_seconds_fit": 3.4390268885642272
+      },
+      {
+        "harmonic": 25,
+        "frequency_hz_fft_bin": 8247.216796875,
+        "relative_initial_energy": 0.0003567772952391176,
+        "decay_tau_seconds_fit": 0.038899000417337445
+      },
+      {
+        "harmonic": 26,
+        "frequency_hz_fft_bin": 8570.21484375,
+        "relative_initial_energy": 5.327535283113865e-05,
+        "decay_tau_seconds_fit": 1.6353790909484087
+      },
+      {
+        "harmonic": 27,
+        "frequency_hz_fft_bin": 8906.671142578125,
+        "relative_initial_energy": 3.5670559925986655e-05,
+        "decay_tau_seconds_fit": 2.2500784656622916
+      },
+      {
+        "harmonic": 28,
+        "frequency_hz_fft_bin": 9229.669189453125,
+        "relative_initial_energy": 2.623196724809645e-05,
+        "decay_tau_seconds_fit": 2.1019075483695575
+      },
+      {
+        "harmonic": 29,
+        "frequency_hz_fft_bin": 9563.433837890625,
+        "relative_initial_energy": 3.281718475393705e-05,
+        "decay_tau_seconds_fit": 1.3529448772782675
+      },
+      {
+        "harmonic": 30,
+        "frequency_hz_fft_bin": 9891.815185546875,
+        "relative_initial_energy": 2.3517285219296117e-05,
+        "decay_tau_seconds_fit": 5.0
+      },
+      {
+        "harmonic": 31,
+        "frequency_hz_fft_bin": 10220.196533203125,
+        "relative_initial_energy": 1.6748558485844827e-05,
+        "decay_tau_seconds_fit": 5.0
+      },
+      {
+        "harmonic": 32,
+        "frequency_hz_fft_bin": 10548.577880859375,
+        "relative_initial_energy": 1.8274718230980497e-05,
+        "decay_tau_seconds_fit": 5.0
+      }
+    ]
+  },
+  {
+    "note": "E5",
+    "midi": 76,
+    "nominal_f0": 659.2551138257398,
+    "analysis_fft_hz_per_bin": 2.691650390625,
+    "partials": [
+      {
+        "harmonic": 1,
+        "frequency_hz_fft_bin": 659.454345703125,
+        "relative_initial_energy": 1.0,
+        "decay_tau_seconds_fit": 0.18353777584547457
+      },
+      {
+        "harmonic": 2,
+        "frequency_hz_fft_bin": 1316.217041015625,
+        "relative_initial_energy": 0.3174634093780793,
+        "decay_tau_seconds_fit": 0.2184931583134921
+      },
+      {
+        "harmonic": 3,
+        "frequency_hz_fft_bin": 1975.67138671875,
+        "relative_initial_energy": 0.14492893630945694,
+        "decay_tau_seconds_fit": 0.13712367345378323
+      },
+      {
+        "harmonic": 4,
+        "frequency_hz_fft_bin": 2632.43408203125,
+        "relative_initial_energy": 0.05533887483284706,
+        "decay_tau_seconds_fit": 0.13963123575357858
+      },
+      {
+        "harmonic": 5,
+        "frequency_hz_fft_bin": 3297.271728515625,
+        "relative_initial_energy": 0.022125315157351954,
+        "decay_tau_seconds_fit": 0.09287443907123841
+      },
+      {
+        "harmonic": 6,
+        "frequency_hz_fft_bin": 3959.417724609375,
+        "relative_initial_energy": 0.008541153442386033,
+        "decay_tau_seconds_fit": 0.07206537689254121
+      },
+      {
+        "harmonic": 7,
+        "frequency_hz_fft_bin": 4613.48876953125,
+        "relative_initial_energy": 0.001547250588890537,
+        "decay_tau_seconds_fit": 0.03764724377074472
+      },
+      {
+        "harmonic": 8,
+        "frequency_hz_fft_bin": 5275.634765625,
+        "relative_initial_energy": 0.0002233149838506915,
+        "decay_tau_seconds_fit": 0.12018703614864097
+      },
+      {
+        "harmonic": 9,
+        "frequency_hz_fft_bin": 5932.3974609375,
+        "relative_initial_energy": 4.8624907973384244e-05,
+        "decay_tau_seconds_fit": 0.04455560914651857
+      },
+      {
+        "harmonic": 10,
+        "frequency_hz_fft_bin": 6589.16015625,
+        "relative_initial_energy": 7.6983640043472e-06,
+        "decay_tau_seconds_fit": 1.4076778195609452
+      },
+      {
+        "harmonic": 11,
+        "frequency_hz_fft_bin": 7256.689453125,
+        "relative_initial_energy": 2.9449106347492597e-06,
+        "decay_tau_seconds_fit": 5.0
+      },
+      {
+        "harmonic": 12,
+        "frequency_hz_fft_bin": 7905.377197265625,
+        "relative_initial_energy": 7.488651109060486e-07,
+        "decay_tau_seconds_fit": 5.0
+      },
+      {
+        "harmonic": 13,
+        "frequency_hz_fft_bin": 8575.59814453125,
+        "relative_initial_energy": 1.3063896488667773e-06,
+        "decay_tau_seconds_fit": 0.3
+      },
+      {
+        "harmonic": 14,
+        "frequency_hz_fft_bin": 9226.9775390625,
+        "relative_initial_energy": 1.6570436947429335e-06,
+        "decay_tau_seconds_fit": 0.3
+      },
+      {
+        "harmonic": 15,
+        "frequency_hz_fft_bin": 9883.740234375,
+        "relative_initial_energy": 2.2119157517834703e-06,
+        "decay_tau_seconds_fit": 0.03218562306669899
+      },
+      {
+        "harmonic": 16,
+        "frequency_hz_fft_bin": 10545.88623046875,
+        "relative_initial_energy": 9.354699490363106e-07,
+        "decay_tau_seconds_fit": 2.493547180301164
+      },
+      {
+        "harmonic": 17,
+        "frequency_hz_fft_bin": 11205.340576171875,
+        "relative_initial_energy": 4.107356046881077e-07,
+        "decay_tau_seconds_fit": 0.8905923596007898
+      },
+      {
+        "harmonic": 18,
+        "frequency_hz_fft_bin": 11862.103271484375,
+        "relative_initial_energy": 1.0299359665025503e-06,
+        "decay_tau_seconds_fit": 5.0
+      },
+      {
+        "harmonic": 19,
+        "frequency_hz_fft_bin": 12521.5576171875,
+        "relative_initial_energy": 1.0950342235645638e-06,
+        "decay_tau_seconds_fit": 0.9396181873673688
+      },
+      {
+        "harmonic": 20,
+        "frequency_hz_fft_bin": 13183.70361328125,
+        "relative_initial_energy": 1.9539296676441525e-07,
+        "decay_tau_seconds_fit": 5.0
+      },
+      {
+        "harmonic": 21,
+        "frequency_hz_fft_bin": 13843.157958984375,
+        "relative_initial_energy": 3.7563033225579884e-07,
+        "decay_tau_seconds_fit": 0.46226390904637404
+      },
+      {
+        "harmonic": 22,
+        "frequency_hz_fft_bin": 14499.920654296875,
+        "relative_initial_energy": 2.610201231743252e-06,
+        "decay_tau_seconds_fit": 0.18321714444574255
+      },
+      {
+        "harmonic": 23,
+        "frequency_hz_fft_bin": 15167.449951171875,
+        "relative_initial_energy": 3.943027766127045e-07,
+        "decay_tau_seconds_fit": 5.0
+      },
+      {
+        "harmonic": 24,
+        "frequency_hz_fft_bin": 15818.829345703125,
+        "relative_initial_energy": 2.978771558692193e-06,
+        "decay_tau_seconds_fit": 0.18387580319988678
+      },
+      {
+        "harmonic": 25,
+        "frequency_hz_fft_bin": 16475.592041015625,
+        "relative_initial_energy": 7.991461914815497e-07,
+        "decay_tau_seconds_fit": 0.22333374363079142
+      },
+      {
+        "harmonic": 26,
+        "frequency_hz_fft_bin": 17135.04638671875,
+        "relative_initial_energy": 2.964565513956403e-07,
+        "decay_tau_seconds_fit": 0.13549661310480926
+      },
+      {
+        "harmonic": 27,
+        "frequency_hz_fft_bin": 17794.500732421875,
+        "relative_initial_energy": 6.403564212448114e-08,
+        "decay_tau_seconds_fit": 0.13745255359371314
+      },
+      {
+        "harmonic": 28,
+        "frequency_hz_fft_bin": 18456.646728515625,
+        "relative_initial_energy": 3.094370426052565e-08,
+        "decay_tau_seconds_fit": 0.09646801996339163
+      },
+      {
+        "harmonic": 29,
+        "frequency_hz_fft_bin": 19118.792724609375,
+        "relative_initial_energy": 1.5554287585220556e-08,
+        "decay_tau_seconds_fit": 0.0701974687372732
+      },
+      {
+        "harmonic": 30,
+        "frequency_hz_fft_bin": 19775.555419921875,
+        "relative_initial_energy": 2.849533640753892e-09,
+        "decay_tau_seconds_fit": 0.17583739251238195
+      },
+      {
+        "harmonic": 31,
+        "frequency_hz_fft_bin": 20432.318115234375,
+        "relative_initial_energy": 8.07344005663477e-09,
+        "decay_tau_seconds_fit": 0.13270337052136
+      },
+      {
+        "harmonic": 32,
+        "frequency_hz_fft_bin": 21091.7724609375,
+        "relative_initial_energy": 3.5264675559114733e-09,
+        "decay_tau_seconds_fit": 0.1597021792672386
+      }
+    ]
+  },
+  {
+    "note": "F#2",
+    "midi": 42,
+    "nominal_f0": 92.4986056779086,
+    "analysis_fft_hz_per_bin": 2.691650390625,
+    "partials": [
+      {
+        "harmonic": 1,
+        "frequency_hz_fft_bin": 91.51611328125,
+        "relative_initial_energy": 0.15807364331704427,
+        "decay_tau_seconds_fit": 0.6929101735076436
+      },
+      {
+        "harmonic": 2,
+        "frequency_hz_fft_bin": 183.0322265625,
+        "relative_initial_energy": 0.8032043855960391,
+        "decay_tau_seconds_fit": 0.2811173833010292
+      },
+      {
+        "harmonic": 3,
+        "frequency_hz_fft_bin": 277.239990234375,
+        "relative_initial_energy": 1.0,
+        "decay_tau_seconds_fit": 0.9463646409874283
+      },
+      {
+        "harmonic": 4,
+        "frequency_hz_fft_bin": 371.44775390625,
+        "relative_initial_energy": 0.30828168409250717,
+        "decay_tau_seconds_fit": 1.314726253769463
+      },
+      {
+        "harmonic": 5,
+        "frequency_hz_fft_bin": 462.9638671875,
+        "relative_initial_energy": 0.19158396383653972,
+        "decay_tau_seconds_fit": 0.907834720959429
+      },
+      {
+        "harmonic": 6,
+        "frequency_hz_fft_bin": 557.171630859375,
+        "relative_initial_energy": 0.2965817231496414,
+        "decay_tau_seconds_fit": 0.3804435380317865
+      },
+      {
+        "harmonic": 7,
+        "frequency_hz_fft_bin": 648.687744140625,
+        "relative_initial_energy": 0.11263529898041219,
+        "decay_tau_seconds_fit": 0.6190826126244544
+      },
+      {
+        "harmonic": 8,
+        "frequency_hz_fft_bin": 740.203857421875,
+        "relative_initial_energy": 0.013787045606139085,
+        "decay_tau_seconds_fit": 0.334290432147929
+      },
+      {
+        "harmonic": 9,
+        "frequency_hz_fft_bin": 834.41162109375,
+        "relative_initial_energy": 0.026333516947201673,
+        "decay_tau_seconds_fit": 0.4317123486272926
+      },
+      {
+        "harmonic": 10,
+        "frequency_hz_fft_bin": 928.619384765625,
+        "relative_initial_energy": 0.016172357883769473,
+        "decay_tau_seconds_fit": 0.5807536806480705
+      },
+      {
+        "harmonic": 11,
+        "frequency_hz_fft_bin": 1020.135498046875,
+        "relative_initial_energy": 0.04925990752525101,
+        "decay_tau_seconds_fit": 0.5726003241173004
+      },
+      {
+        "harmonic": 12,
+        "frequency_hz_fft_bin": 1114.34326171875,
+        "relative_initial_energy": 0.017204753496571308,
+        "decay_tau_seconds_fit": 0.5331311227031612
+      },
+      {
+        "harmonic": 13,
+        "frequency_hz_fft_bin": 1208.551025390625,
+        "relative_initial_energy": 0.014115781510930576,
+        "decay_tau_seconds_fit": 0.3612668728168796
+      },
+      {
+        "harmonic": 14,
+        "frequency_hz_fft_bin": 1300.067138671875,
+        "relative_initial_energy": 0.0065216999754591064,
+        "decay_tau_seconds_fit": 0.31013083826770593
+      },
+      {
+        "harmonic": 15,
+        "frequency_hz_fft_bin": 1391.583251953125,
+        "relative_initial_energy": 0.012807930940112287,
+        "decay_tau_seconds_fit": 0.30995614362044277
+      },
+      {
+        "harmonic": 16,
+        "frequency_hz_fft_bin": 1485.791015625,
+        "relative_initial_energy": 0.017746898951759436,
+        "decay_tau_seconds_fit": 0.2666150421025731
+      },
+      {
+        "harmonic": 17,
+        "frequency_hz_fft_bin": 1577.30712890625,
+        "relative_initial_energy": 0.0010349068027096114,
+        "decay_tau_seconds_fit": 0.1380862628756534
+      },
+      {
+        "harmonic": 18,
+        "frequency_hz_fft_bin": 1668.8232421875,
+        "relative_initial_energy": 0.0005268980918617459,
+        "decay_tau_seconds_fit": 0.1347438301489341
+      },
+      {
+        "harmonic": 19,
+        "frequency_hz_fft_bin": 1763.031005859375,
+        "relative_initial_energy": 0.0007574890156962081,
+        "decay_tau_seconds_fit": 0.4788485143181077
+      },
+      {
+        "harmonic": 20,
+        "frequency_hz_fft_bin": 1854.547119140625,
+        "relative_initial_energy": 0.0003140692322622109,
+        "decay_tau_seconds_fit": 0.4007279281334279
+      },
+      {
+        "harmonic": 21,
+        "frequency_hz_fft_bin": 1946.063232421875,
+        "relative_initial_energy": 0.0003262409081814025,
+        "decay_tau_seconds_fit": 0.4354529820430228
+      },
+      {
+        "harmonic": 22,
+        "frequency_hz_fft_bin": 2040.27099609375,
+        "relative_initial_energy": 0.0005570030476624185,
+        "decay_tau_seconds_fit": 0.23772527665696405
+      },
+      {
+        "harmonic": 23,
+        "frequency_hz_fft_bin": 2131.787109375,
+        "relative_initial_energy": 0.000871865595983542,
+        "decay_tau_seconds_fit": 0.15866605620780275
+      },
+      {
+        "harmonic": 24,
+        "frequency_hz_fft_bin": 2225.994873046875,
+        "relative_initial_energy": 0.0009761837596995986,
+        "decay_tau_seconds_fit": 0.15381178929711523
+      },
+      {
+        "harmonic": 25,
+        "frequency_hz_fft_bin": 2317.510986328125,
+        "relative_initial_energy": 0.0012907353838818186,
+        "decay_tau_seconds_fit": 0.26799966221505095
+      },
+      {
+        "harmonic": 26,
+        "frequency_hz_fft_bin": 2409.027099609375,
+        "relative_initial_energy": 0.0009940789308860126,
+        "decay_tau_seconds_fit": 0.1618909174261565
+      },
+      {
+        "harmonic": 27,
+        "frequency_hz_fft_bin": 2503.23486328125,
+        "relative_initial_energy": 6.070310992263576e-05,
+        "decay_tau_seconds_fit": 0.1693252209429189
+      },
+      {
+        "harmonic": 28,
+        "frequency_hz_fft_bin": 2586.676025390625,
+        "relative_initial_energy": 1.1569157493640856e-05,
+        "decay_tau_seconds_fit": 1.1842533243530557
+      },
+      {
+        "harmonic": 29,
+        "frequency_hz_fft_bin": 2688.958740234375,
+        "relative_initial_energy": 7.785450497693672e-05,
+        "decay_tau_seconds_fit": 0.13701458161176613
+      },
+      {
+        "harmonic": 30,
+        "frequency_hz_fft_bin": 2777.783203125,
+        "relative_initial_energy": 2.9924341718220035e-05,
+        "decay_tau_seconds_fit": 1.273853809141684
+      },
+      {
+        "harmonic": 31,
+        "frequency_hz_fft_bin": 2866.607666015625,
+        "relative_initial_energy": 2.9814618217268308e-05,
+        "decay_tau_seconds_fit": 0.40312899453235107
+      },
+      {
+        "harmonic": 32,
+        "frequency_hz_fft_bin": 2955.43212890625,
+        "relative_initial_energy": 4.346703170049883e-05,
+        "decay_tau_seconds_fit": 0.7980441037719431
+      }
+    ]
+  },
+  {
+    "note": "F#3",
+    "midi": 54,
+    "nominal_f0": 184.9972113558172,
+    "analysis_fft_hz_per_bin": 2.691650390625,
+    "partials": [
+      {
+        "harmonic": 1,
+        "frequency_hz_fft_bin": 185.723876953125,
+        "relative_initial_energy": 1.0,
+        "decay_tau_seconds_fit": 0.302497346115856
+      },
+      {
+        "harmonic": 2,
+        "frequency_hz_fft_bin": 371.44775390625,
+        "relative_initial_energy": 0.5050858965891243,
+        "decay_tau_seconds_fit": 1.9253527297339506
+      },
+      {
+        "harmonic": 3,
+        "frequency_hz_fft_bin": 557.171630859375,
+        "relative_initial_energy": 0.43643521063221064,
+        "decay_tau_seconds_fit": 0.7708873800655712
+      },
+      {
+        "harmonic": 4,
+        "frequency_hz_fft_bin": 740.203857421875,
+        "relative_initial_energy": 0.12130949668264876,
+        "decay_tau_seconds_fit": 0.7813986389384957
+      },
+      {
+        "harmonic": 5,
+        "frequency_hz_fft_bin": 928.619384765625,
+        "relative_initial_energy": 0.05155904703033342,
+        "decay_tau_seconds_fit": 0.6999632280671582
+      },
+      {
+        "harmonic": 6,
+        "frequency_hz_fft_bin": 1108.9599609375,
+        "relative_initial_energy": 0.010202790913644707,
+        "decay_tau_seconds_fit": 0.7125876250297384
+      },
+      {
+        "harmonic": 7,
+        "frequency_hz_fft_bin": 1294.683837890625,
+        "relative_initial_energy": 0.02908567235941774,
+        "decay_tau_seconds_fit": 0.5351220308384553
+      },
+      {
+        "harmonic": 8,
+        "frequency_hz_fft_bin": 1483.099365234375,
+        "relative_initial_energy": 0.016088411400262043,
+        "decay_tau_seconds_fit": 0.48213466219571016
+      },
+      {
+        "harmonic": 9,
+        "frequency_hz_fft_bin": 1660.748291015625,
+        "relative_initial_energy": 0.011261830971636974,
+        "decay_tau_seconds_fit": 0.29449311428242614
+      },
+      {
+        "harmonic": 10,
+        "frequency_hz_fft_bin": 1846.47216796875,
+        "relative_initial_energy": 0.011038799614097393,
+        "decay_tau_seconds_fit": 0.2593894757291511
+      },
+      {
+        "harmonic": 11,
+        "frequency_hz_fft_bin": 2040.27099609375,
+        "relative_initial_energy": 0.009607070222984633,
+        "decay_tau_seconds_fit": 0.3361511686807957
+      },
+      {
+        "harmonic": 12,
+        "frequency_hz_fft_bin": 2215.228271484375,
+        "relative_initial_energy": 0.01702161721987219,
+        "decay_tau_seconds_fit": 0.2596002142879225
+      },
+      {
+        "harmonic": 13,
+        "frequency_hz_fft_bin": 2409.027099609375,
+        "relative_initial_energy": 0.00906808354918318,
+        "decay_tau_seconds_fit": 0.3728014198204727
+      },
+      {
+        "harmonic": 14,
+        "frequency_hz_fft_bin": 2594.7509765625,
+        "relative_initial_energy": 0.0018117045522545946,
+        "decay_tau_seconds_fit": 0.3317409178738647
+      },
+      {
+        "harmonic": 15,
+        "frequency_hz_fft_bin": 2769.708251953125,
+        "relative_initial_energy": 0.002238692591128426,
+        "decay_tau_seconds_fit": 0.1932426747395748
+      },
+      {
+        "harmonic": 16,
+        "frequency_hz_fft_bin": 2955.43212890625,
+        "relative_initial_energy": 0.0022174987378243342,
+        "decay_tau_seconds_fit": 0.1816237452398731
+      },
+      {
+        "harmonic": 17,
+        "frequency_hz_fft_bin": 3138.46435546875,
+        "relative_initial_energy": 0.0009497586421357646,
+        "decay_tau_seconds_fit": 0.17001536535977757
+      },
+      {
+        "harmonic": 18,
+        "frequency_hz_fft_bin": 3324.188232421875,
+        "relative_initial_energy": 0.0009534621494977863,
+        "decay_tau_seconds_fit": 0.16103650090312627
+      },
+      {
+        "harmonic": 19,
+        "frequency_hz_fft_bin": 3509.912109375,
+        "relative_initial_energy": 8.123718032107023e-05,
+        "decay_tau_seconds_fit": 0.15242030589357197
+      },
+      {
+        "harmonic": 20,
+        "frequency_hz_fft_bin": 3695.635986328125,
+        "relative_initial_energy": 0.00044586769930201226,
+        "decay_tau_seconds_fit": 0.1419351408251821
+      },
+      {
+        "harmonic": 21,
+        "frequency_hz_fft_bin": 3886.7431640625,
+        "relative_initial_energy": 0.00020338084360917632,
+        "decay_tau_seconds_fit": 0.5237223253970407
+      },
+      {
+        "harmonic": 22,
+        "frequency_hz_fft_bin": 4064.39208984375,
+        "relative_initial_energy": 0.0008184873690911849,
+        "decay_tau_seconds_fit": 0.12792439716916934
+      },
+      {
+        "harmonic": 23,
+        "frequency_hz_fft_bin": 4250.115966796875,
+        "relative_initial_energy": 0.00035143026515683677,
+        "decay_tau_seconds_fit": 0.11381260402843649
+      },
+      {
+        "harmonic": 24,
+        "frequency_hz_fft_bin": 4443.914794921875,
+        "relative_initial_energy": 8.995706056362915e-05,
+        "decay_tau_seconds_fit": 0.04504214913422867
+      },
+      {
+        "harmonic": 25,
+        "frequency_hz_fft_bin": 4629.638671875,
+        "relative_initial_energy": 0.00011903430271065639,
+        "decay_tau_seconds_fit": 0.06254680014730073
+      },
+      {
+        "harmonic": 26,
+        "frequency_hz_fft_bin": 4809.979248046875,
+        "relative_initial_energy": 1.3456252811058674e-05,
+        "decay_tau_seconds_fit": 1.060534466369809
+      },
+      {
+        "harmonic": 27,
+        "frequency_hz_fft_bin": 4998.394775390625,
+        "relative_initial_energy": 1.4957931394259762e-05,
+        "decay_tau_seconds_fit": 0.7133575380085826
+      },
+      {
+        "harmonic": 28,
+        "frequency_hz_fft_bin": 5184.11865234375,
+        "relative_initial_energy": 4.775399792242297e-06,
+        "decay_tau_seconds_fit": 0.9162910454567958
+      },
+      {
+        "harmonic": 29,
+        "frequency_hz_fft_bin": 5364.459228515625,
+        "relative_initial_energy": 2.4755813344740255e-05,
+        "decay_tau_seconds_fit": 0.8896291395883216
+      },
+      {
+        "harmonic": 30,
+        "frequency_hz_fft_bin": 5555.56640625,
+        "relative_initial_energy": 0.00014244142728521767,
+        "decay_tau_seconds_fit": 0.04610266179463582
+      },
+      {
+        "harmonic": 31,
+        "frequency_hz_fft_bin": 5733.21533203125,
+        "relative_initial_energy": 5.0298229034924746e-05,
+        "decay_tau_seconds_fit": 0.06806361054897027
+      },
+      {
+        "harmonic": 32,
+        "frequency_hz_fft_bin": 5924.322509765625,
+        "relative_initial_energy": 2.4607826641533634e-06,
+        "decay_tau_seconds_fit": 3.586572892306799
+      }
+    ]
+  },
+  {
+    "note": "F#4",
+    "midi": 66,
+    "nominal_f0": 369.9944227116344,
+    "analysis_fft_hz_per_bin": 2.691650390625,
+    "partials": [
+      {
+        "harmonic": 1,
+        "frequency_hz_fft_bin": 371.44775390625,
+        "relative_initial_energy": 1.0,
+        "decay_tau_seconds_fit": 0.8642786751547277
+      },
+      {
+        "harmonic": 2,
+        "frequency_hz_fft_bin": 740.203857421875,
+        "relative_initial_energy": 0.6166127335940816,
+        "decay_tau_seconds_fit": 0.4242882180486511
+      },
+      {
+        "harmonic": 3,
+        "frequency_hz_fft_bin": 1111.651611328125,
+        "relative_initial_energy": 0.46875876134317446,
+        "decay_tau_seconds_fit": 0.4562188239363429
+      },
+      {
+        "harmonic": 4,
+        "frequency_hz_fft_bin": 1480.40771484375,
+        "relative_initial_energy": 0.06037286862314332,
+        "decay_tau_seconds_fit": 0.17120218491468703
+      },
+      {
+        "harmonic": 5,
+        "frequency_hz_fft_bin": 1851.85546875,
+        "relative_initial_energy": 0.19125864302618853,
+        "decay_tau_seconds_fit": 0.2559211799620393
+      },
+      {
+        "harmonic": 6,
+        "frequency_hz_fft_bin": 2223.30322265625,
+        "relative_initial_energy": 0.19891032282246862,
+        "decay_tau_seconds_fit": 0.2764652450744706
+      },
+      {
+        "harmonic": 7,
+        "frequency_hz_fft_bin": 2594.7509765625,
+        "relative_initial_energy": 0.17174455872958774,
+        "decay_tau_seconds_fit": 0.1599880755371974
+      },
+      {
+        "harmonic": 8,
+        "frequency_hz_fft_bin": 2966.19873046875,
+        "relative_initial_energy": 0.011104818704566527,
+        "decay_tau_seconds_fit": 0.3559860049937828
+      },
+      {
+        "harmonic": 9,
+        "frequency_hz_fft_bin": 3334.954833984375,
+        "relative_initial_energy": 0.1771345451295642,
+        "decay_tau_seconds_fit": 0.15223101498658245
+      },
+      {
+        "harmonic": 10,
+        "frequency_hz_fft_bin": 3706.402587890625,
+        "relative_initial_energy": 0.024000948700063755,
+        "decay_tau_seconds_fit": 0.0997622936517871
+      },
+      {
+        "harmonic": 11,
+        "frequency_hz_fft_bin": 4075.15869140625,
+        "relative_initial_energy": 0.0023913708432007526,
+        "decay_tau_seconds_fit": 0.08209406285341632
+      },
+      {
+        "harmonic": 12,
+        "frequency_hz_fft_bin": 4435.83984375,
+        "relative_initial_energy": 0.004981414416472006,
+        "decay_tau_seconds_fit": 0.04312074369587187
+      },
+      {
+        "harmonic": 13,
+        "frequency_hz_fft_bin": 4815.362548828125,
+        "relative_initial_energy": 0.00046160951160372133,
+        "decay_tau_seconds_fit": 0.0517228147093978
+      },
+      {
+        "harmonic": 14,
+        "frequency_hz_fft_bin": 5173.35205078125,
+        "relative_initial_energy": 0.0010258307194872473,
+        "decay_tau_seconds_fit": 0.03355635909968091
+      },
+      {
+        "harmonic": 15,
+        "frequency_hz_fft_bin": 5552.874755859375,
+        "relative_initial_energy": 0.0003223954143417165,
+        "decay_tau_seconds_fit": 0.3
+      },
+      {
+        "harmonic": 16,
+        "frequency_hz_fft_bin": 5918.939208984375,
+        "relative_initial_energy": 0.0007562514299998199,
+        "decay_tau_seconds_fit": 0.3
+      },
+      {
+        "harmonic": 17,
+        "frequency_hz_fft_bin": 6295.770263671875,
+        "relative_initial_energy": 0.00017334902767234258,
+        "decay_tau_seconds_fit": 0.03271035272143641
+      },
+      {
+        "harmonic": 18,
+        "frequency_hz_fft_bin": 6659.14306640625,
+        "relative_initial_energy": 4.9039415706818025e-05,
+        "decay_tau_seconds_fit": 0.6793093264077068
+      },
+      {
+        "harmonic": 19,
+        "frequency_hz_fft_bin": 7035.97412109375,
+        "relative_initial_energy": 1.8125239373659376e-05,
+        "decay_tau_seconds_fit": 0.9352989282908046
+      },
+      {
+        "harmonic": 20,
+        "frequency_hz_fft_bin": 7404.730224609375,
+        "relative_initial_energy": 1.4123058297244585e-05,
+        "decay_tau_seconds_fit": 2.8428747509881847
+      },
+      {
+        "harmonic": 21,
+        "frequency_hz_fft_bin": 7773.486328125,
+        "relative_initial_energy": 2.514493953852301e-05,
+        "decay_tau_seconds_fit": 0.31770362311023637
+      },
+      {
+        "harmonic": 22,
+        "frequency_hz_fft_bin": 8139.55078125,
+        "relative_initial_energy": 9.311617857351493e-06,
+        "decay_tau_seconds_fit": 5.0
+      },
+      {
+        "harmonic": 23,
+        "frequency_hz_fft_bin": 8505.615234375,
+        "relative_initial_energy": 8.761011759902091e-06,
+        "decay_tau_seconds_fit": 2.192425206833007
+      },
+      {
+        "harmonic": 24,
+        "frequency_hz_fft_bin": 8879.754638671875,
+        "relative_initial_energy": 2.013666925426267e-05,
+        "decay_tau_seconds_fit": 5.0
+      },
+      {
+        "harmonic": 25,
+        "frequency_hz_fft_bin": 9245.819091796875,
+        "relative_initial_energy": 1.0713982042041484e-05,
+        "decay_tau_seconds_fit": 2.8282027789797297
+      },
+      {
+        "harmonic": 26,
+        "frequency_hz_fft_bin": 9617.266845703125,
+        "relative_initial_energy": 1.560173121217613e-05,
+        "decay_tau_seconds_fit": 1.8270947117946912
+      },
+      {
+        "harmonic": 27,
+        "frequency_hz_fft_bin": 9988.714599609375,
+        "relative_initial_energy": 6.223518981115039e-06,
+        "decay_tau_seconds_fit": 5.0
+      },
+      {
+        "harmonic": 28,
+        "frequency_hz_fft_bin": 10362.85400390625,
+        "relative_initial_energy": 1.0487404227547822e-05,
+        "decay_tau_seconds_fit": 2.717417298253393
+      },
+      {
+        "harmonic": 29,
+        "frequency_hz_fft_bin": 10726.226806640625,
+        "relative_initial_energy": 6.987040472414436e-06,
+        "decay_tau_seconds_fit": 5.0
+      },
+      {
+        "harmonic": 30,
+        "frequency_hz_fft_bin": 11097.674560546875,
+        "relative_initial_energy": 1.0117055594302518e-05,
+        "decay_tau_seconds_fit": 2.740136187332583
+      },
+      {
+        "harmonic": 31,
+        "frequency_hz_fft_bin": 11463.739013671875,
+        "relative_initial_energy": 3.198133361124545e-06,
+        "decay_tau_seconds_fit": 1.1876756042462013
+      },
+      {
+        "harmonic": 32,
+        "frequency_hz_fft_bin": 11837.87841796875,
+        "relative_initial_energy": 3.742743084853871e-06,
+        "decay_tau_seconds_fit": 5.0
+      }
+    ]
+  },
+  {
+    "note": "F#5",
+    "midi": 78,
+    "nominal_f0": 739.9888454232688,
+    "analysis_fft_hz_per_bin": 2.691650390625,
+    "partials": [
+      {
+        "harmonic": 1,
+        "frequency_hz_fft_bin": 742.8955078125,
+        "relative_initial_energy": 1.0,
+        "decay_tau_seconds_fit": 0.4020489205986125
+      },
+      {
+        "harmonic": 2,
+        "frequency_hz_fft_bin": 1485.791015625,
+        "relative_initial_energy": 0.7006793604075063,
+        "decay_tau_seconds_fit": 0.1524607540725163
+      },
+      {
+        "harmonic": 3,
+        "frequency_hz_fft_bin": 2225.994873046875,
+        "relative_initial_energy": 0.07924072269846724,
+        "decay_tau_seconds_fit": 0.12443122751695668
+      },
+      {
+        "harmonic": 4,
+        "frequency_hz_fft_bin": 2966.19873046875,
+        "relative_initial_energy": 0.001969268060291573,
+        "decay_tau_seconds_fit": 0.10139423731785706
+      },
+      {
+        "harmonic": 5,
+        "frequency_hz_fft_bin": 3695.635986328125,
+        "relative_initial_energy": 0.0007668050071577332,
+        "decay_tau_seconds_fit": 0.030589220328478044
+      },
+      {
+        "harmonic": 6,
+        "frequency_hz_fft_bin": 4443.914794921875,
+        "relative_initial_energy": 0.0006733484598910716,
+        "decay_tau_seconds_fit": 0.03466087210561087
+      },
+      {
+        "harmonic": 7,
+        "frequency_hz_fft_bin": 5173.35205078125,
+        "relative_initial_energy": 0.0004205346460734399,
+        "decay_tau_seconds_fit": 0.3
+      },
+      {
+        "harmonic": 8,
+        "frequency_hz_fft_bin": 5924.322509765625,
+        "relative_initial_energy": 0.0002571655655557491,
+        "decay_tau_seconds_fit": 0.3
+      },
+      {
+        "harmonic": 9,
+        "frequency_hz_fft_bin": 6653.759765625,
+        "relative_initial_energy": 3.5335406879857246e-05,
+        "decay_tau_seconds_fit": 0.03484040834889441
+      },
+      {
+        "harmonic": 10,
+        "frequency_hz_fft_bin": 7399.346923828125,
+        "relative_initial_energy": 2.501098476102563e-05,
+        "decay_tau_seconds_fit": 0.7059938688578189
+      },
+      {
+        "harmonic": 11,
+        "frequency_hz_fft_bin": 8144.93408203125,
+        "relative_initial_energy": 8.587538236791771e-06,
+        "decay_tau_seconds_fit": 0.3
+      },
+      {
+        "harmonic": 12,
+        "frequency_hz_fft_bin": 8874.371337890625,
+        "relative_initial_energy": 7.577210059832354e-06,
+        "decay_tau_seconds_fit": 0.3
+      },
+      {
+        "harmonic": 13,
+        "frequency_hz_fft_bin": 9619.95849609375,
+        "relative_initial_energy": 8.19451076978737e-06,
+        "decay_tau_seconds_fit": 5.0
+      },
+      {
+        "harmonic": 14,
+        "frequency_hz_fft_bin": 10365.545654296875,
+        "relative_initial_energy": 1.9557920026426845e-06,
+        "decay_tau_seconds_fit": 5.0
+      },
+      {
+        "harmonic": 15,
+        "frequency_hz_fft_bin": 11097.674560546875,
+        "relative_initial_energy": 4.246678546994805e-07,
+        "decay_tau_seconds_fit": 5.0
+      },
+      {
+        "harmonic": 16,
+        "frequency_hz_fft_bin": 11837.87841796875,
+        "relative_initial_energy": 3.058559037763417e-06,
+        "decay_tau_seconds_fit": 0.3
+      },
+      {
+        "harmonic": 17,
+        "frequency_hz_fft_bin": 12586.1572265625,
+        "relative_initial_energy": 1.2771577890519228e-06,
+        "decay_tau_seconds_fit": 0.3
+      },
+      {
+        "harmonic": 18,
+        "frequency_hz_fft_bin": 13315.594482421875,
+        "relative_initial_energy": 2.8475762680334964e-07,
+        "decay_tau_seconds_fit": 0.23684176488308825
+      },
+      {
+        "harmonic": 19,
+        "frequency_hz_fft_bin": 14061.181640625,
+        "relative_initial_energy": 2.1522027567270312e-07,
+        "decay_tau_seconds_fit": 0.3
+      },
+      {
+        "harmonic": 20,
+        "frequency_hz_fft_bin": 14798.69384765625,
+        "relative_initial_energy": 1.134844839739891e-06,
+        "decay_tau_seconds_fit": 0.3
+      },
+      {
+        "harmonic": 21,
+        "frequency_hz_fft_bin": 15533.514404296875,
+        "relative_initial_energy": 3.374449584824603e-07,
+        "decay_tau_seconds_fit": 0.3
+      },
+      {
+        "harmonic": 22,
+        "frequency_hz_fft_bin": 16284.48486328125,
+        "relative_initial_energy": 1.2876574562648797e-08,
+        "decay_tau_seconds_fit": 0.13482675760175092
+      },
+      {
+        "harmonic": 23,
+        "frequency_hz_fft_bin": 17024.688720703125,
+        "relative_initial_energy": 1.2002183361462188e-06,
+        "decay_tau_seconds_fit": 0.3
+      },
+      {
+        "harmonic": 24,
+        "frequency_hz_fft_bin": 17754.1259765625,
+        "relative_initial_energy": 1.6747945406636455e-08,
+        "decay_tau_seconds_fit": 0.07138795333839461
+      },
+      {
+        "harmonic": 25,
+        "frequency_hz_fft_bin": 18502.40478515625,
+        "relative_initial_energy": 4.879369020972274e-09,
+        "decay_tau_seconds_fit": 0.23306668214207205
+      },
+      {
+        "harmonic": 26,
+        "frequency_hz_fft_bin": 19245.30029296875,
+        "relative_initial_energy": 2.5196714170042343e-09,
+        "decay_tau_seconds_fit": 0.35840239747342517
+      },
+      {
+        "harmonic": 27,
+        "frequency_hz_fft_bin": 19974.737548828125,
+        "relative_initial_energy": 6.874957553528534e-09,
+        "decay_tau_seconds_fit": 0.9558588826003598
+      },
+      {
+        "harmonic": 28,
+        "frequency_hz_fft_bin": 20725.7080078125,
+        "relative_initial_energy": 4.283450247100151e-09,
+        "decay_tau_seconds_fit": 0.3820889751760382
+      },
+      {
+        "harmonic": 29,
+        "frequency_hz_fft_bin": 21457.8369140625,
+        "relative_initial_energy": 1.0002027396022247e-08,
+        "decay_tau_seconds_fit": 0.46959866765554115
+      }
+    ]
+  },
+  {
+    "note": "G3",
+    "midi": 55,
+    "nominal_f0": 195.99771799087463,
+    "analysis_fft_hz_per_bin": 2.691650390625,
+    "partials": [
+      {
+        "harmonic": 1,
+        "frequency_hz_fft_bin": 196.490478515625,
+        "relative_initial_energy": 0.9236389177871275,
+        "decay_tau_seconds_fit": 0.2046819200648166
+      },
+      {
+        "harmonic": 2,
+        "frequency_hz_fft_bin": 390.289306640625,
+        "relative_initial_energy": 1.0,
+        "decay_tau_seconds_fit": 0.8441511407595851
+      },
+      {
+        "harmonic": 3,
+        "frequency_hz_fft_bin": 589.471435546875,
+        "relative_initial_energy": 0.30981824093173277,
+        "decay_tau_seconds_fit": 0.6833734586683026
+      },
+      {
+        "harmonic": 4,
+        "frequency_hz_fft_bin": 785.9619140625,
+        "relative_initial_energy": 0.21102072832850524,
+        "decay_tau_seconds_fit": 0.3441030489905432
+      },
+      {
+        "harmonic": 5,
+        "frequency_hz_fft_bin": 982.452392578125,
+        "relative_initial_energy": 0.46184325053835035,
+        "decay_tau_seconds_fit": 0.3128237346912311
+      },
+      {
+        "harmonic": 6,
+        "frequency_hz_fft_bin": 1178.94287109375,
+        "relative_initial_energy": 0.047143891753730946,
+        "decay_tau_seconds_fit": 0.3975325430918574
+      },
+      {
+        "harmonic": 7,
+        "frequency_hz_fft_bin": 1375.433349609375,
+        "relative_initial_energy": 0.03484123223029701,
+        "decay_tau_seconds_fit": 0.408149690799523
+      },
+      {
+        "harmonic": 8,
+        "frequency_hz_fft_bin": 1574.615478515625,
+        "relative_initial_energy": 0.06663645208063823,
+        "decay_tau_seconds_fit": 0.30420830989175074
+      },
+      {
+        "harmonic": 9,
+        "frequency_hz_fft_bin": 1765.72265625,
+        "relative_initial_energy": 0.04743088188088308,
+        "decay_tau_seconds_fit": 0.28802684734071654
+      },
+      {
+        "harmonic": 10,
+        "frequency_hz_fft_bin": 1964.90478515625,
+        "relative_initial_energy": 0.0018815884577516027,
+        "decay_tau_seconds_fit": 0.19350214599022025
+      },
+      {
+        "harmonic": 11,
+        "frequency_hz_fft_bin": 2161.395263671875,
+        "relative_initial_energy": 0.01755263116838138,
+        "decay_tau_seconds_fit": 0.15465529579589463
+      },
+      {
+        "harmonic": 12,
+        "frequency_hz_fft_bin": 2357.8857421875,
+        "relative_initial_energy": 0.002641264177958507,
+        "decay_tau_seconds_fit": 0.16399718982706657
+      },
+      {
+        "harmonic": 13,
+        "frequency_hz_fft_bin": 2554.376220703125,
+        "relative_initial_energy": 0.0036672842547130326,
+        "decay_tau_seconds_fit": 0.1760828267545133
+      },
+      {
+        "harmonic": 14,
+        "frequency_hz_fft_bin": 2748.175048828125,
+        "relative_initial_energy": 0.000154238274897579,
+        "decay_tau_seconds_fit": 1.5547474729777233
+      },
+      {
+        "harmonic": 15,
+        "frequency_hz_fft_bin": 2939.2822265625,
+        "relative_initial_energy": 7.38811926146857e-05,
+        "decay_tau_seconds_fit": 2.2062993200848093
+      },
+      {
+        "harmonic": 16,
+        "frequency_hz_fft_bin": 3138.46435546875,
+        "relative_initial_energy": 4.672770020624936e-05,
+        "decay_tau_seconds_fit": 3.3661120048850695
+      },
+      {
+        "harmonic": 17,
+        "frequency_hz_fft_bin": 3334.954833984375,
+        "relative_initial_energy": 3.720761553731422e-05,
+        "decay_tau_seconds_fit": 1.1673226559718348
+      },
+      {
+        "harmonic": 18,
+        "frequency_hz_fft_bin": 3528.753662109375,
+        "relative_initial_energy": 2.47347150167379e-05,
+        "decay_tau_seconds_fit": 0.7700545959830148
+      },
+      {
+        "harmonic": 19,
+        "frequency_hz_fft_bin": 3727.935791015625,
+        "relative_initial_energy": 0.00011319528378308941,
+        "decay_tau_seconds_fit": 1.0631280563424175
+      },
+      {
+        "harmonic": 20,
+        "frequency_hz_fft_bin": 3913.65966796875,
+        "relative_initial_energy": 2.4571114272132107e-05,
+        "decay_tau_seconds_fit": 1.2653166118581332
+      },
+      {
+        "harmonic": 21,
+        "frequency_hz_fft_bin": 4120.916748046875,
+        "relative_initial_energy": 4.289031557047164e-06,
+        "decay_tau_seconds_fit": 5.0
+      },
+      {
+        "harmonic": 22,
+        "frequency_hz_fft_bin": 4317.4072265625,
+        "relative_initial_energy": 9.810272408687137e-06,
+        "decay_tau_seconds_fit": 3.764419677439211
+      },
+      {
+        "harmonic": 23,
+        "frequency_hz_fft_bin": 4508.514404296875,
+        "relative_initial_energy": 9.808195028496425e-06,
+        "decay_tau_seconds_fit": 5.0
+      },
+      {
+        "harmonic": 24,
+        "frequency_hz_fft_bin": 4699.62158203125,
+        "relative_initial_energy": 1.5479003801287073e-05,
+        "decay_tau_seconds_fit": 5.0
+      },
+      {
+        "harmonic": 25,
+        "frequency_hz_fft_bin": 4898.8037109375,
+        "relative_initial_energy": 4.596500546557287e-05,
+        "decay_tau_seconds_fit": 0.5691696472288105
+      },
+      {
+        "harmonic": 26,
+        "frequency_hz_fft_bin": 5097.98583984375,
+        "relative_initial_energy": 0.0001497708116999174,
+        "decay_tau_seconds_fit": 0.03100038995352865
+      },
+      {
+        "harmonic": 27,
+        "frequency_hz_fft_bin": 5297.16796875,
+        "relative_initial_energy": 1.9935249669454458e-05,
+        "decay_tau_seconds_fit": 1.2779944916573505
+      },
+      {
+        "harmonic": 28,
+        "frequency_hz_fft_bin": 5482.891845703125,
+        "relative_initial_energy": 6.784465774848699e-06,
+        "decay_tau_seconds_fit": 5.0
+      },
+      {
+        "harmonic": 29,
+        "frequency_hz_fft_bin": 5682.073974609375,
+        "relative_initial_energy": 1.352516193430325e-05,
+        "decay_tau_seconds_fit": 2.1225404398465084
+      },
+      {
+        "harmonic": 30,
+        "frequency_hz_fft_bin": 5878.564453125,
+        "relative_initial_energy": 7.618063029445651e-06,
+        "decay_tau_seconds_fit": 5.0
+      },
+      {
+        "harmonic": 31,
+        "frequency_hz_fft_bin": 6077.74658203125,
+        "relative_initial_energy": 8.87653559800564e-06,
+        "decay_tau_seconds_fit": 2.0554659749621393
+      },
+      {
+        "harmonic": 32,
+        "frequency_hz_fft_bin": 6266.162109375,
+        "relative_initial_energy": 4.488265156018064e-06,
+        "decay_tau_seconds_fit": 2.6600329553308497
+      }
+    ]
+  },
+  {
+    "note": "G5",
+    "midi": 79,
+    "nominal_f0": 783.9908719634985,
+    "analysis_fft_hz_per_bin": 2.691650390625,
+    "partials": [
+      {
+        "harmonic": 1,
+        "frequency_hz_fft_bin": 780.57861328125,
+        "relative_initial_energy": 1.0,
+        "decay_tau_seconds_fit": 0.4174811005080106
+      },
+      {
+        "harmonic": 2,
+        "frequency_hz_fft_bin": 1563.848876953125,
+        "relative_initial_energy": 0.7370898917472899,
+        "decay_tau_seconds_fit": 0.16075898458885343
+      },
+      {
+        "harmonic": 3,
+        "frequency_hz_fft_bin": 2347.119140625,
+        "relative_initial_energy": 0.7007666979204973,
+        "decay_tau_seconds_fit": 0.137431573916065
+      },
+      {
+        "harmonic": 4,
+        "frequency_hz_fft_bin": 3133.0810546875,
+        "relative_initial_energy": 0.5048135196773932,
+        "decay_tau_seconds_fit": 0.09665472184299535
+      },
+      {
+        "harmonic": 5,
+        "frequency_hz_fft_bin": 3919.04296875,
+        "relative_initial_energy": 0.38968128842312166,
+        "decay_tau_seconds_fit": 0.08665820119658368
+      },
+      {
+        "harmonic": 6,
+        "frequency_hz_fft_bin": 4707.696533203125,
+        "relative_initial_energy": 0.042467196248576575,
+        "decay_tau_seconds_fit": 0.044841454604980575
+      },
+      {
+        "harmonic": 7,
+        "frequency_hz_fft_bin": 5482.891845703125,
+        "relative_initial_energy": 0.011254961269129733,
+        "decay_tau_seconds_fit": 0.04222298261447421
+      },
+      {
+        "harmonic": 8,
+        "frequency_hz_fft_bin": 6271.54541015625,
+        "relative_initial_energy": 0.0004146560031861238,
+        "decay_tau_seconds_fit": 0.04669090174653919
+      },
+      {
+        "harmonic": 9,
+        "frequency_hz_fft_bin": 7049.432373046875,
+        "relative_initial_energy": 0.00013283485023189267,
+        "decay_tau_seconds_fit": 0.3
+      },
+      {
+        "harmonic": 10,
+        "frequency_hz_fft_bin": 7846.160888671875,
+        "relative_initial_energy": 7.755845462966965e-05,
+        "decay_tau_seconds_fit": 0.03280712705255413
+      },
+      {
+        "harmonic": 11,
+        "frequency_hz_fft_bin": 8629.43115234375,
+        "relative_initial_energy": 3.943251147172416e-05,
+        "decay_tau_seconds_fit": 0.041713485320489935
+      },
+      {
+        "harmonic": 12,
+        "frequency_hz_fft_bin": 9412.701416015625,
+        "relative_initial_energy": 1.3721271488045626e-05,
+        "decay_tau_seconds_fit": 2.1608088915902863
+      },
+      {
+        "harmonic": 13,
+        "frequency_hz_fft_bin": 10185.205078125,
+        "relative_initial_energy": 2.726448096225363e-06,
+        "decay_tau_seconds_fit": 0.12602024815040258
+      },
+      {
+        "harmonic": 14,
+        "frequency_hz_fft_bin": 10981.93359375,
+        "relative_initial_energy": 2.6054884167902442e-06,
+        "decay_tau_seconds_fit": 0.4302969306381792
+      },
+      {
+        "harmonic": 15,
+        "frequency_hz_fft_bin": 11765.203857421875,
+        "relative_initial_energy": 1.585902183026087e-06,
+        "decay_tau_seconds_fit": 0.9432273242291691
+      },
+      {
+        "harmonic": 16,
+        "frequency_hz_fft_bin": 12548.47412109375,
+        "relative_initial_energy": 1.5174669732322562e-05,
+        "decay_tau_seconds_fit": 5.0
+      },
+      {
+        "harmonic": 17,
+        "frequency_hz_fft_bin": 13326.361083984375,
+        "relative_initial_energy": 9.421728838820672e-08,
+        "decay_tau_seconds_fit": 5.0
+      },
+      {
+        "harmonic": 18,
+        "frequency_hz_fft_bin": 14109.63134765625,
+        "relative_initial_energy": 1.2318227891936678e-07,
+        "decay_tau_seconds_fit": 5.0
+      },
+      {
+        "harmonic": 19,
+        "frequency_hz_fft_bin": 14900.9765625,
+        "relative_initial_energy": 7.745305014922172e-08,
+        "decay_tau_seconds_fit": 5.0
+      },
+      {
+        "harmonic": 20,
+        "frequency_hz_fft_bin": 15678.863525390625,
+        "relative_initial_energy": 9.271420953941384e-08,
+        "decay_tau_seconds_fit": 1.7945011459907196
+      },
+      {
+        "harmonic": 21,
+        "frequency_hz_fft_bin": 16459.442138671875,
+        "relative_initial_energy": 1.0747617807844741e-08,
+        "decay_tau_seconds_fit": 1.401108764347427
+      },
+      {
+        "harmonic": 22,
+        "frequency_hz_fft_bin": 17248.095703125,
+        "relative_initial_energy": 1.3794461590383485e-08,
+        "decay_tau_seconds_fit": 0.24432159498543177
+      },
+      {
+        "harmonic": 23,
+        "frequency_hz_fft_bin": 18031.365966796875,
+        "relative_initial_energy": 4.812423585591328e-09,
+        "decay_tau_seconds_fit": 0.25152349958387954
+      },
+      {
+        "harmonic": 24,
+        "frequency_hz_fft_bin": 18820.01953125,
+        "relative_initial_energy": 1.2965206426554793e-08,
+        "decay_tau_seconds_fit": 0.47334560444153256
+      },
+      {
+        "harmonic": 25,
+        "frequency_hz_fft_bin": 19600.59814453125,
+        "relative_initial_energy": 1.843468646694301e-08,
+        "decay_tau_seconds_fit": 0.07325289844518079
+      },
+      {
+        "harmonic": 26,
+        "frequency_hz_fft_bin": 20378.485107421875,
+        "relative_initial_energy": 1.4293704298676108e-08,
+        "decay_tau_seconds_fit": 0.12976221169314162
+      },
+      {
+        "harmonic": 27,
+        "frequency_hz_fft_bin": 21172.52197265625,
+        "relative_initial_energy": 9.807834516820522e-09,
+        "decay_tau_seconds_fit": 0.22170327870200798
+      },
+      {
+        "harmonic": 28,
+        "frequency_hz_fft_bin": 21950.408935546875,
+        "relative_initial_energy": 2.2776567758098588e-07,
+        "decay_tau_seconds_fit": 0.05118123807925425
+      }
+    ]
+  },
+  {
+    "note": "G#2",
+    "midi": 44,
+    "nominal_f0": 103.82617439498628,
+    "analysis_fft_hz_per_bin": 2.691650390625,
+    "partials": [
+      {
+        "harmonic": 1,
+        "frequency_hz_fft_bin": 104.974365234375,
+        "relative_initial_energy": 0.5751287080101621,
+        "decay_tau_seconds_fit": 0.5994929294152901
+      },
+      {
+        "harmonic": 2,
+        "frequency_hz_fft_bin": 207.257080078125,
+        "relative_initial_energy": 1.0,
+        "decay_tau_seconds_fit": 0.2355910540913136
+      },
+      {
+        "harmonic": 3,
+        "frequency_hz_fft_bin": 312.2314453125,
+        "relative_initial_energy": 0.10978561048172536,
+        "decay_tau_seconds_fit": 2.5596169498749357
+      },
+      {
+        "harmonic": 4,
+        "frequency_hz_fft_bin": 414.51416015625,
+        "relative_initial_energy": 0.15612470724072197,
+        "decay_tau_seconds_fit": 0.9727643484097601
+      },
+      {
+        "harmonic": 5,
+        "frequency_hz_fft_bin": 519.488525390625,
+        "relative_initial_energy": 0.1654070107269474,
+        "decay_tau_seconds_fit": 1.5083669639302233
+      },
+      {
+        "harmonic": 6,
+        "frequency_hz_fft_bin": 621.771240234375,
+        "relative_initial_energy": 0.12332379347144577,
+        "decay_tau_seconds_fit": 0.8386132170776066
+      },
+      {
+        "harmonic": 7,
+        "frequency_hz_fft_bin": 721.3623046875,
+        "relative_initial_energy": 0.04244439874871154,
+        "decay_tau_seconds_fit": 1.7154562047815907
+      },
+      {
+        "harmonic": 8,
+        "frequency_hz_fft_bin": 829.0283203125,
+        "relative_initial_energy": 0.026209571533250403,
+        "decay_tau_seconds_fit": 0.6902859352541404
+      },
+      {
+        "harmonic": 9,
+        "frequency_hz_fft_bin": 934.002685546875,
+        "relative_initial_energy": 0.02901331792040692,
+        "decay_tau_seconds_fit": 0.6746812474800062
+      },
+      {
+        "harmonic": 10,
+        "frequency_hz_fft_bin": 1038.97705078125,
+        "relative_initial_energy": 0.013446016369795998,
+        "decay_tau_seconds_fit": 0.6737149041272169
+      },
+      {
+        "harmonic": 11,
+        "frequency_hz_fft_bin": 1143.951416015625,
+        "relative_initial_energy": 0.001937677073589921,
+        "decay_tau_seconds_fit": 0.6707578297382325
+      },
+      {
+        "harmonic": 12,
+        "frequency_hz_fft_bin": 1246.234130859375,
+        "relative_initial_energy": 0.00674903938484971,
+        "decay_tau_seconds_fit": 0.36930538346701813
+      },
+      {
+        "harmonic": 13,
+        "frequency_hz_fft_bin": 1351.20849609375,
+        "relative_initial_energy": 0.007519586618619181,
+        "decay_tau_seconds_fit": 0.25304140966142774
+      },
+      {
+        "harmonic": 14,
+        "frequency_hz_fft_bin": 1456.182861328125,
+        "relative_initial_energy": 0.0014105147949083482,
+        "decay_tau_seconds_fit": 0.27560737532312213
+      },
+      {
+        "harmonic": 15,
+        "frequency_hz_fft_bin": 1561.1572265625,
+        "relative_initial_energy": 0.004691528730428413,
+        "decay_tau_seconds_fit": 0.18537048372862133
+      },
+      {
+        "harmonic": 16,
+        "frequency_hz_fft_bin": 1666.131591796875,
+        "relative_initial_energy": 0.003522221614421002,
+        "decay_tau_seconds_fit": 0.22389100266127884
+      },
+      {
+        "harmonic": 17,
+        "frequency_hz_fft_bin": 1771.10595703125,
+        "relative_initial_energy": 0.0014766471749016678,
+        "decay_tau_seconds_fit": 0.23808667359812344
+      },
+      {
+        "harmonic": 18,
+        "frequency_hz_fft_bin": 1873.388671875,
+        "relative_initial_energy": 0.006763743127956717,
+        "decay_tau_seconds_fit": 0.13512658337642658
+      },
+      {
+        "harmonic": 19,
+        "frequency_hz_fft_bin": 1967.596435546875,
+        "relative_initial_energy": 7.890894470319234e-05,
+        "decay_tau_seconds_fit": 0.4036171707779188
+      },
+      {
+        "harmonic": 20,
+        "frequency_hz_fft_bin": 2075.262451171875,
+        "relative_initial_energy": 0.00010437764267679262,
+        "decay_tau_seconds_fit": 0.20631951935373619
+      },
+      {
+        "harmonic": 21,
+        "frequency_hz_fft_bin": 2180.23681640625,
+        "relative_initial_energy": 0.0001077269061524623,
+        "decay_tau_seconds_fit": 0.1517911118064019
+      },
+      {
+        "harmonic": 22,
+        "frequency_hz_fft_bin": 2287.90283203125,
+        "relative_initial_energy": 9.028865480032473e-05,
+        "decay_tau_seconds_fit": 0.13602492757567497
+      },
+      {
+        "harmonic": 23,
+        "frequency_hz_fft_bin": 2392.877197265625,
+        "relative_initial_energy": 0.00011160157847138775,
+        "decay_tau_seconds_fit": 0.3834055043908942
+      },
+      {
+        "harmonic": 24,
+        "frequency_hz_fft_bin": 2497.8515625,
+        "relative_initial_energy": 4.1484613952071194e-05,
+        "decay_tau_seconds_fit": 0.20583140611304898
+      },
+      {
+        "harmonic": 25,
+        "frequency_hz_fft_bin": 2592.059326171875,
+        "relative_initial_energy": 6.1025129394256986e-05,
+        "decay_tau_seconds_fit": 1.6688220724174265
+      },
+      {
+        "harmonic": 26,
+        "frequency_hz_fft_bin": 2697.03369140625,
+        "relative_initial_energy": 1.2479442789073211e-05,
+        "decay_tau_seconds_fit": 0.5202660376164423
+      },
+      {
+        "harmonic": 27,
+        "frequency_hz_fft_bin": 2807.391357421875,
+        "relative_initial_energy": 9.020803267246933e-06,
+        "decay_tau_seconds_fit": 0.3015897741800523
+      },
+      {
+        "harmonic": 28,
+        "frequency_hz_fft_bin": 2901.59912109375,
+        "relative_initial_energy": 6.739500629047131e-06,
+        "decay_tau_seconds_fit": 0.1314644092599697
+      },
+      {
+        "harmonic": 29,
+        "frequency_hz_fft_bin": 3009.26513671875,
+        "relative_initial_energy": 4.981886827214259e-06,
+        "decay_tau_seconds_fit": 0.455944765110464
+      },
+      {
+        "harmonic": 30,
+        "frequency_hz_fft_bin": 3108.856201171875,
+        "relative_initial_energy": 4.451666413541872e-06,
+        "decay_tau_seconds_fit": 1.0684118243102314
+      },
+      {
+        "harmonic": 31,
+        "frequency_hz_fft_bin": 3216.522216796875,
+        "relative_initial_energy": 4.305266865385149e-06,
+        "decay_tau_seconds_fit": 1.603735771451424
+      },
+      {
+        "harmonic": 32,
+        "frequency_hz_fft_bin": 3316.11328125,
+        "relative_initial_energy": 7.830730590744562e-06,
+        "decay_tau_seconds_fit": 2.24017335611301
+      }
+    ]
+  },
+  {
+    "note": "G#4",
+    "midi": 68,
+    "nominal_f0": 415.3046975799451,
+    "analysis_fft_hz_per_bin": 2.691650390625,
+    "partials": [
+      {
+        "harmonic": 1,
+        "frequency_hz_fft_bin": 414.51416015625,
+        "relative_initial_energy": 1.0,
+        "decay_tau_seconds_fit": 0.5237851762130369
+      },
+      {
+        "harmonic": 2,
+        "frequency_hz_fft_bin": 831.719970703125,
+        "relative_initial_energy": 0.9605255358674147,
+        "decay_tau_seconds_fit": 0.4224580548174985
+      },
+      {
+        "harmonic": 3,
+        "frequency_hz_fft_bin": 1246.234130859375,
+        "relative_initial_energy": 0.1853494695243078,
+        "decay_tau_seconds_fit": 0.3244152831816175
+      },
+      {
+        "harmonic": 4,
+        "frequency_hz_fft_bin": 1663.43994140625,
+        "relative_initial_energy": 0.2290553001765496,
+        "decay_tau_seconds_fit": 0.20436298861741747
+      },
+      {
+        "harmonic": 5,
+        "frequency_hz_fft_bin": 2075.262451171875,
+        "relative_initial_energy": 0.4358648536421338,
+        "decay_tau_seconds_fit": 0.2533426270271414
+      },
+      {
+        "harmonic": 6,
+        "frequency_hz_fft_bin": 2497.8515625,
+        "relative_initial_energy": 0.11133578517736041,
+        "decay_tau_seconds_fit": 0.13703079069920848
+      },
+      {
+        "harmonic": 7,
+        "frequency_hz_fft_bin": 2909.674072265625,
+        "relative_initial_energy": 0.08382561513321503,
+        "decay_tau_seconds_fit": 0.1665690786923224
+      },
+      {
+        "harmonic": 8,
+        "frequency_hz_fft_bin": 3326.8798828125,
+        "relative_initial_energy": 0.14762946881739109,
+        "decay_tau_seconds_fit": 0.17694705249835696
+      },
+      {
+        "harmonic": 9,
+        "frequency_hz_fft_bin": 3738.702392578125,
+        "relative_initial_energy": 0.0037733133782094173,
+        "decay_tau_seconds_fit": 0.0813256305279325
+      },
+      {
+        "harmonic": 10,
+        "frequency_hz_fft_bin": 4158.599853515625,
+        "relative_initial_energy": 0.021675966511089544,
+        "decay_tau_seconds_fit": 0.14585209977458763
+      },
+      {
+        "harmonic": 11,
+        "frequency_hz_fft_bin": 4570.42236328125,
+        "relative_initial_energy": 0.0007638284917693398,
+        "decay_tau_seconds_fit": 0.16144072396564296
+      },
+      {
+        "harmonic": 12,
+        "frequency_hz_fft_bin": 4990.31982421875,
+        "relative_initial_energy": 0.0005380087554382526,
+        "decay_tau_seconds_fit": 0.04717762855410223
+      },
+      {
+        "harmonic": 13,
+        "frequency_hz_fft_bin": 5404.833984375,
+        "relative_initial_energy": 0.0004814627417093597,
+        "decay_tau_seconds_fit": 0.19280749635313993
+      },
+      {
+        "harmonic": 14,
+        "frequency_hz_fft_bin": 5819.34814453125,
+        "relative_initial_energy": 0.0004363363184069945,
+        "decay_tau_seconds_fit": 0.16797481675148984
+      },
+      {
+        "harmonic": 15,
+        "frequency_hz_fft_bin": 6233.8623046875,
+        "relative_initial_energy": 8.362550801409409e-05,
+        "decay_tau_seconds_fit": 0.04963667017918953
+      },
+      {
+        "harmonic": 16,
+        "frequency_hz_fft_bin": 6651.068115234375,
+        "relative_initial_energy": 5.690466017334635e-05,
+        "decay_tau_seconds_fit": 0.07775130853397608
+      },
+      {
+        "harmonic": 17,
+        "frequency_hz_fft_bin": 7054.815673828125,
+        "relative_initial_energy": 4.9560307831463634e-05,
+        "decay_tau_seconds_fit": 0.07485514714856357
+      },
+      {
+        "harmonic": 18,
+        "frequency_hz_fft_bin": 7474.713134765625,
+        "relative_initial_energy": 2.9379169170678623e-05,
+        "decay_tau_seconds_fit": 0.0707130293610569
+      },
+      {
+        "harmonic": 19,
+        "frequency_hz_fft_bin": 7889.227294921875,
+        "relative_initial_energy": 1.8597051184941036e-05,
+        "decay_tau_seconds_fit": 0.033392625755830005
+      },
+      {
+        "harmonic": 20,
+        "frequency_hz_fft_bin": 8311.81640625,
+        "relative_initial_energy": 1.5527517516853927e-05,
+        "decay_tau_seconds_fit": 0.2601842008454139
+      },
+      {
+        "harmonic": 21,
+        "frequency_hz_fft_bin": 8723.638916015625,
+        "relative_initial_energy": 2.193874365984303e-05,
+        "decay_tau_seconds_fit": 0.0490792864626814
+      },
+      {
+        "harmonic": 22,
+        "frequency_hz_fft_bin": 9140.8447265625,
+        "relative_initial_energy": 8.333889369122789e-06,
+        "decay_tau_seconds_fit": 0.052000551165847064
+      },
+      {
+        "harmonic": 23,
+        "frequency_hz_fft_bin": 9558.050537109375,
+        "relative_initial_energy": 5.621898552977785e-06,
+        "decay_tau_seconds_fit": 0.3
+      },
+      {
+        "harmonic": 24,
+        "frequency_hz_fft_bin": 9969.873046875,
+        "relative_initial_energy": 3.521126933822039e-05,
+        "decay_tau_seconds_fit": 1.200618691373031
+      },
+      {
+        "harmonic": 25,
+        "frequency_hz_fft_bin": 10384.38720703125,
+        "relative_initial_energy": 3.480732250214978e-06,
+        "decay_tau_seconds_fit": 5.0
+      },
+      {
+        "harmonic": 26,
+        "frequency_hz_fft_bin": 10801.593017578125,
+        "relative_initial_energy": 8.205386894063175e-06,
+        "decay_tau_seconds_fit": 0.3
+      },
+      {
+        "harmonic": 27,
+        "frequency_hz_fft_bin": 11216.107177734375,
+        "relative_initial_energy": 1.880296426378026e-05,
+        "decay_tau_seconds_fit": 0.3
+      },
+      {
+        "harmonic": 28,
+        "frequency_hz_fft_bin": 11625.238037109375,
+        "relative_initial_energy": 9.268762583748247e-06,
+        "decay_tau_seconds_fit": 0.3
+      },
+      {
+        "harmonic": 29,
+        "frequency_hz_fft_bin": 12042.44384765625,
+        "relative_initial_energy": 1.7234941187317896e-05,
+        "decay_tau_seconds_fit": 0.3
+      },
+      {
+        "harmonic": 30,
+        "frequency_hz_fft_bin": 12454.266357421875,
+        "relative_initial_energy": 1.4085837164122072e-05,
+        "decay_tau_seconds_fit": 0.3
+      },
+      {
+        "harmonic": 31,
+        "frequency_hz_fft_bin": 12868.780517578125,
+        "relative_initial_energy": 0.0002005951811577035,
+        "decay_tau_seconds_fit": 0.3
+      },
+      {
+        "harmonic": 32,
+        "frequency_hz_fft_bin": 13294.061279296875,
+        "relative_initial_energy": 9.990876234531939e-05,
+        "decay_tau_seconds_fit": 0.3
+      }
+    ]
+  },
+  {
+    "note": "G#5",
+    "midi": 80,
+    "nominal_f0": 830.6093951598903,
+    "analysis_fft_hz_per_bin": 2.691650390625,
+    "partials": [
+      {
+        "harmonic": 1,
+        "frequency_hz_fft_bin": 829.0283203125,
+        "relative_initial_energy": 0.6129608365541697,
+        "decay_tau_seconds_fit": 0.37241443691973736
+      },
+      {
+        "harmonic": 2,
+        "frequency_hz_fft_bin": 1660.748291015625,
+        "relative_initial_energy": 1.0,
+        "decay_tau_seconds_fit": 0.13818475679081518
+      },
+      {
+        "harmonic": 3,
+        "frequency_hz_fft_bin": 2492.46826171875,
+        "relative_initial_energy": 0.4203896302207958,
+        "decay_tau_seconds_fit": 0.11857913904010489
+      },
+      {
+        "harmonic": 4,
+        "frequency_hz_fft_bin": 3326.8798828125,
+        "relative_initial_energy": 0.7723763085832043,
+        "decay_tau_seconds_fit": 0.09855461817938387
+      },
+      {
+        "harmonic": 5,
+        "frequency_hz_fft_bin": 4155.908203125,
+        "relative_initial_energy": 0.011177592878409113,
+        "decay_tau_seconds_fit": 0.07270007007023983
+      },
+      {
+        "harmonic": 6,
+        "frequency_hz_fft_bin": 4990.31982421875,
+        "relative_initial_energy": 0.005739533184968653,
+        "decay_tau_seconds_fit": 0.06261827820590672
+      },
+      {
+        "harmonic": 7,
+        "frequency_hz_fft_bin": 5819.34814453125,
+        "relative_initial_energy": 0.007555251523132913,
+        "decay_tau_seconds_fit": 0.03788074385721844
+      },
+      {
+        "harmonic": 8,
+        "frequency_hz_fft_bin": 6648.37646484375,
+        "relative_initial_energy": 0.00014584269716443044,
+        "decay_tau_seconds_fit": 0.43567828088568034
+      },
+      {
+        "harmonic": 9,
+        "frequency_hz_fft_bin": 7480.096435546875,
+        "relative_initial_energy": 0.00032789620784290184,
+        "decay_tau_seconds_fit": 0.3
+      },
+      {
+        "harmonic": 10,
+        "frequency_hz_fft_bin": 8311.81640625,
+        "relative_initial_energy": 5.651889132022027e-05,
+        "decay_tau_seconds_fit": 0.029081993891230833
+      },
+      {
+        "harmonic": 11,
+        "frequency_hz_fft_bin": 9140.8447265625,
+        "relative_initial_energy": 3.5428398059515614e-05,
+        "decay_tau_seconds_fit": 0.3
+      },
+      {
+        "harmonic": 12,
+        "frequency_hz_fft_bin": 9972.564697265625,
+        "relative_initial_energy": 3.7715718654701985e-05,
+        "decay_tau_seconds_fit": 0.2735139655664021
+      },
+      {
+        "harmonic": 13,
+        "frequency_hz_fft_bin": 10793.51806640625,
+        "relative_initial_energy": 7.3376434368987565e-06,
+        "decay_tau_seconds_fit": 0.03110157772592191
+      },
+      {
+        "harmonic": 14,
+        "frequency_hz_fft_bin": 11622.54638671875,
+        "relative_initial_energy": 6.499674473760053e-06,
+        "decay_tau_seconds_fit": 1.1875719705955707
+      },
+      {
+        "harmonic": 15,
+        "frequency_hz_fft_bin": 12456.9580078125,
+        "relative_initial_energy": 2.24289639712414e-06,
+        "decay_tau_seconds_fit": 5.0
+      },
+      {
+        "harmonic": 16,
+        "frequency_hz_fft_bin": 13283.294677734375,
+        "relative_initial_energy": 3.3882435620182687e-06,
+        "decay_tau_seconds_fit": 0.3
+      },
+      {
+        "harmonic": 17,
+        "frequency_hz_fft_bin": 14115.0146484375,
+        "relative_initial_energy": 1.7093957968357597e-06,
+        "decay_tau_seconds_fit": 0.3
+      },
+      {
+        "harmonic": 18,
+        "frequency_hz_fft_bin": 14946.734619140625,
+        "relative_initial_energy": 3.724709742927175e-06,
+        "decay_tau_seconds_fit": 0.3
+      },
+      {
+        "harmonic": 19,
+        "frequency_hz_fft_bin": 15783.837890625,
+        "relative_initial_energy": 1.3394822004865755e-05,
+        "decay_tau_seconds_fit": 0.3
+      },
+      {
+        "harmonic": 20,
+        "frequency_hz_fft_bin": 16618.24951171875,
+        "relative_initial_energy": 1.8166785535369068e-06,
+        "decay_tau_seconds_fit": 0.3
+      },
+      {
+        "harmonic": 21,
+        "frequency_hz_fft_bin": 17436.51123046875,
+        "relative_initial_energy": 4.037954880992691e-06,
+        "decay_tau_seconds_fit": 0.3
+      },
+      {
+        "harmonic": 22,
+        "frequency_hz_fft_bin": 18268.231201171875,
+        "relative_initial_energy": 6.419299009936883e-06,
+        "decay_tau_seconds_fit": 0.3
+      },
+      {
+        "harmonic": 23,
+        "frequency_hz_fft_bin": 19099.951171875,
+        "relative_initial_energy": 8.062402414811384e-08,
+        "decay_tau_seconds_fit": 1.7033980562126378
+      },
+      {
+        "harmonic": 24,
+        "frequency_hz_fft_bin": 19928.9794921875,
+        "relative_initial_energy": 1.367659019964297e-08,
+        "decay_tau_seconds_fit": 5.0
+      },
+      {
+        "harmonic": 25,
+        "frequency_hz_fft_bin": 20771.466064453125,
+        "relative_initial_energy": 1.200381569986361e-07,
+        "decay_tau_seconds_fit": 0.04412397709695732
+      },
+      {
+        "harmonic": 26,
+        "frequency_hz_fft_bin": 21600.494384765625,
+        "relative_initial_energy": 7.170123442328489e-09,
+        "decay_tau_seconds_fit": 0.14350109065562103
+      }
+    ]
+  }
+]

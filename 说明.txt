@@ -1,0 +1,25 @@
+﻿基于FPGA的实时多音色合成电子乐器
+
+FPGA工程
+  开发环境：Gowin EDA V1.9.12.04
+  器件：GW5AT-LV60PG484AC1/I0
+  工程入口：FPGA/pressure_ws2812_dualpcm.gprj
+  顶层：pressure_poly8_top
+  用Gowin打开工程后执行综合、布局布线；命令行入口为FPGA/build.tcl。
+  rtl为逻辑代码，constraints为管脚和时钟约束，ip为IP文件，assets为初始化数据，tb为测试平台。
+
+手机端
+  Android目录包含Java源码、Manifest、协议测试及build.py。
+  配置JAVA_HOME和ANDROID_SDK_ROOT，安装Android SDK 35、Build Tools 35.0.0后运行python build.py。
+  APK生成在Android/build。重新编译使用本地测试签名，与已安装APK签名不同时需先卸载旧应用。
+
+仿真
+  FPGA/run_v13_checks.py用于运行tb目录中的测试，参数为测试模块名。
+  需要Icarus Verilog，可用IVERILOG_BIN指定安装目录；原生IP测试另需Gowin仿真库。
+  仿真工具目录保留Verilator构建脚本和音色分析脚本。使用前设置CONSOLE60_SOURCE指向FPGA目录，
+  CONSOLE60_OSS_SUITE指向oss-cad-suite，CONSOLE60_LLVM_BIN指向LLVM工具目录。
+  工具脚本中的历史工作目录及音色分析参考文件路径需按本机位置设置。
+
+下载文件
+  电子乐器.fs用于FPGA烧录，手机控制端.apk用于安卓安装。
+  蓝牙串口为115200。音频输出为PCM5102模拟输出接有源音响。

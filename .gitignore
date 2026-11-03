@@ -1,0 +1,19 @@
+# Generated build files
+Android/build/
+FPGA/impl/
+__pycache__/
+*.pyc
+*.vcd
+*.fst
+obj_dir/
+
+# Local signing keys and credentials
+*.jks
+*.keystore
+.env
+
+# Editor files
+.idea/
+.vscode/
+Thumbs.db
+.DS_Store

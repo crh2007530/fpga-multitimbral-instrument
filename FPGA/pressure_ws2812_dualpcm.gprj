@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gowin-fpga-project>
+<Project><Template>FPGA</Template><Version>5</Version>
+<Device name="GW5AT-60B" pn="GW5AT-LV60PG484AC1/I0">gw5at60b-002</Device>
+<FileList>
+<File path="rtl/guitar_auto_strum.v" type="file.verilog" enable="1"/>
+<File path="rtl/streamed_envelope_bank.v" type="file.verilog" enable="1"/>
+<File path="rtl/buffered_voice_bank.v" type="file.verilog" enable="1"/>
+<File path="rtl/shared_envelope_bank.v" type="file.verilog" enable="1"/>
+<File path="rtl/ram_phase_bank.v" type="file.verilog" enable="1"/>
+<File path="rtl/pluck_status.v" type="file.verilog" enable="1"/>
+<File path="rtl/video_mixer_desc.v" type="file.verilog" enable="1"/>
+<File path="rtl/video_mixer_char.v" type="file.verilog" enable="1"/>
+<File path="rtl/game_led_fx.v" type="file.verilog" enable="1"/>
+<File path="rtl/send_echo.v" type="file.verilog" enable="1"/>
+<File path="rtl/send_reverb.v" type="file.verilog" enable="1"/>
+<File path="rtl/send_chorus.v" type="file.verilog" enable="1"/>
+<File path="rtl/audio_send_fx.v" type="file.verilog" enable="1"/>
+<File path="rtl/mixer_controls.v" type="file.verilog" enable="1"/>
+<File path="rtl/video_mixer.v" type="file.verilog" enable="1"/>
+<File path="rtl/gesture_fx_hold.v" type="file.verilog" enable="1"/>
+<File path="rtl/video_ship.v" type="file.verilog" enable="1"/>
+<File path="rtl/video_brand_title.v" type="file.verilog" enable="1"/>
+<File path="rtl/panel_controls.v" type="file.verilog" enable="1"/>
+<File path="rtl/timed_chart_store.v" type="file.verilog" enable="1"/><File path="rtl/pcm_uart_stream.v" type="file.verilog" enable="1"/><File path="rtl/optical_pluck.v" type="file.verilog" enable="1"/><File path="rtl/adjustable_adsr.v" type="file.verilog" enable="1"/><File path="rtl/voice_state_ram.v" type="file.verilog" enable="1"/><File path="rtl/approved_control_rom.v" type="file.verilog" enable="1"/><File path="rtl/approved_wave_rom.v" type="file.verilog" enable="1"/><File path="rtl/instrument_env_legacy.v" type="file.verilog" enable="1"/>
+<File path="rtl/timed_chart_preview.v" type="file.verilog" enable="1"/>
+<File path="rtl/shared_voice_bank_legacy.v" type="file.verilog" enable="1"/>
+<File path="rtl/video_test64.v" type="file.verilog" enable="1"/>
+<File path="rtl/instrument_select.v" type="file.verilog" enable="1"/>
+<File path="rtl/touch_command_guard.v" type="file.verilog" enable="1"/>
+<File path="rtl/audio_reverb.v" type="file.verilog" enable="1"/>
+<File path="rtl/audio_chorus.v" type="file.verilog" enable="1"/>
+<File path="rtl/bt_extensions.v" type="file.verilog" enable="1"/>
+<File path="rtl/pcm_clip_recorder.v" type="file.verilog" enable="1"/>
+
+<File path="rtl/encoder_input.v" type="file.verilog" enable="1"/>
+<File path="rtl/instrument_env.v" type="file.verilog" enable="1"/>
+<File path="rtl/rhythm_game.v" type="file.verilog" enable="1"/>
+<File path="rtl/video_game_view.v" type="file.verilog" enable="1"/>
+<File path="rtl/video_game_text.v" type="file.verilog" enable="1"/>
+
+<File path="rtl/video_xy_capture.v" type="file.verilog" enable="1"/>
+<File path="rtl/stream_spectrum2048.v" type="file.verilog" enable="1"/>
+<File path="rtl/shared_pitch_engine.v" type="file.verilog" enable="1"/>
+<File path="rtl/video_serializer_start.v" type="file.verilog" enable="1"/>
+<File path="rtl/video_wave_capture.v" type="file.verilog" enable="1"/>
+<File path="rtl/video_labels.v" type="file.verilog" enable="1"/>
+<File path="rtl/video_dashboard.v" type="file.verilog" enable="1"/>
+<File path="ip/video/video_pll.v" type="file.verilog" enable="1"/>
+<File path="ip/video/video_pll_mod.v" type="file.verilog" enable="1"/>
+<File path="ip/video/DVI_TX_Top.v" type="file.verilog" enable="1"/>
+<File path="rtl/fft2048.v" type="file.verilog" enable="1"/>
+<File path="rtl/spectrum2048_bars.v" type="file.verilog" enable="1"/>
+<File path="rtl/expression_pitch_dsp.v" type="file.verilog" enable="1"/>
+<File path="rtl/shared_voice_bank.v" type="file.verilog" enable="1"/>
+<File path="rtl/pressure_voice_state.v" type="file.verilog" enable="1"/>
+<File path="rtl/bluetooth_control.v" type="file.verilog" enable="1"/>
+<File path="rtl/offline_trainer.v" type="file.verilog" enable="1"/>
+<File path="rtl/audio_spectrum.v" type="file.verilog" enable="1"/>
+<File path="rtl/exp3_realtime.v" type="file.verilog" enable="1"/>
+<File path="rtl/expression_controls.v" type="file.verilog" enable="1"/>
+<File path="rtl/audio_echo.v" type="file.verilog" enable="1"/>
+<File path="rtl/pcm_pressure_poly32.v" type="file.verilog" enable="1"/>
+<File path="rtl/performance_controls.v" type="file.verilog" enable="1"/>
+<File path="rtl/ws2812_joint.v" type="file.verilog" enable="1"/>
+<File path="rtl/ttp229_pitch.v" type="file.verilog" enable="1"/>
+<File path="rtl/pressure_poly8_top.v" type="file.verilog" enable="1"/>
+<File path="rtl/timebase_us.v" type="file.verilog" enable="1"/>
+<File path="rtl/pcf8591_scan.v" type="file.verilog" enable="1"/>
+<File path="rtl/i2c_byte_master.v" type="file.verilog" enable="1"/>
+<File path="rtl/sample_mailbox.v" type="file.verilog" enable="1"/>
+<File path="rtl/pcm_pressure_poly8.v" type="file.verilog" enable="1"/>
+<File path="rtl/pcm_pressure_note.v" type="file.verilog" enable="1"/>
+<File path="rtl/adsr_env.v" type="file.verilog" enable="1"/>
+<File path="rtl/dds_osc.v" type="file.verilog" enable="1"/>
+<File path="rtl/i2s_tx.v" type="file.verilog" enable="1"/>
+<File path="rtl/telemetry_uart.v" type="file.verilog" enable="1"/>
+<File path="rtl/scale_demo.v" type="file.verilog" enable="1"/>
+<File path="rtl/ws2812_pressure.v" type="file.verilog" enable="1"/>
+
+<File path="ip/audio_pll/audio_pll.v" type="file.verilog" enable="1"/>
+<File path="ip/audio_pll/audio_pll_mod.v" type="file.verilog" enable="1"/>
+<File path="ip/pll_init.v" type="file.verilog" enable="1"/>
+<File path="constraints/pressure_ws2812_dualpcm_PMOD.cst" type="file.cst" enable="1"/>
+<File path="constraints/pressure_ws2812_dualpcm.sdc" type="file.sdc" enable="1"/>
+    <File path="rtl/gesture/apds9930_driver.v" type="file.verilog" enable="1"/>
+    <File path="rtl/gesture/apds9930_top.v" type="file.verilog" enable="1"/>
+    <File path="rtl/gesture/gesture_recognition.v" type="file.verilog" enable="1"/>
+    <File path="rtl/gesture/gesture_uart_logger.v" type="file.verilog" enable="1"/>
+    <File path="rtl/gesture/i2c_master.v" type="file.verilog" enable="1"/>
+    <File path="rtl/gesture/rising_order_recognizer.v" type="file.verilog" enable="1"/>
+    <File path="rtl/gesture/ws2812_gesture_driver.v" type="file.verilog" enable="1"/>
+<File path="rtl/gesture/apds9960_joint.v" type="file.verilog" enable="1"/>
+<File path="rtl/joint07_uart.v" type="file.verilog" enable="1"/>
+</FileList></Project>
